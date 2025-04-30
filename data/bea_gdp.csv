@@ -1,0 +1,1288 @@
+CAGDP1 County and MSA gross domestic product (GDP) summary,,,,,,,,,,
+CAGDP1 County and MSA gross domestic product (GDP) summary,,,,,,,,,,
+County,,,,,,,,,,
+GeoFips,GeoName,LineCode,Description,2017,2018,2019,2020,2021,2022,2023
+40001,"Adair, OK",1,Real GDP (thousands of chained 2017 dollars),444597,475727,441199,395223,433663,445305,436259
+40001,"Adair, OK",2,Chain-type quantity indexes for real GDP,100,107.002,99.236,88.895,97.541,100.159,98.124
+40001,"Adair, OK",3,Current-dollar GDP (thousands of current dollars),444597,481142,457374,423568,489083,548167,558453
+40003,"Alfalfa, OK",1,Real GDP (thousands of chained 2017 dollars),674017,478697,442362,461427,394111,333510,394683
+40003,"Alfalfa, OK",2,Chain-type quantity indexes for real GDP,100,71.022,65.631,68.459,58.472,49.481,58.557
+40003,"Alfalfa, OK",3,Current-dollar GDP (thousands of current dollars),674017,564822,427895,328368,503749,638200,507771
+40005,"Atoka, OK",1,Real GDP (thousands of chained 2017 dollars),367272,368604,371258,370282,354289,340853,350190
+40005,"Atoka, OK",2,Chain-type quantity indexes for real GDP,100,100.363,101.085,100.819,96.465,92.807,95.349
+40005,"Atoka, OK",3,Current-dollar GDP (thousands of current dollars),367272,381521,382464,376438,402071,436313,442134
+40007,"Beaver, OK",1,Real GDP (thousands of chained 2017 dollars),422420,418493,424144,378760,424235,400711,437773
+40007,"Beaver, OK",2,Chain-type quantity indexes for real GDP,100,99.07,100.408,89.664,100.43,94.861,103.635
+40007,"Beaver, OK",3,Current-dollar GDP (thousands of current dollars),422420,435119,422039,346675,510273,609542,579938
+40009,"Beckham, OK",1,Real GDP (thousands of chained 2017 dollars),1191142,1277796,1146760,947484,944116,932874,1065562
+40009,"Beckham, OK",2,Chain-type quantity indexes for real GDP,100,107.275,96.274,79.544,79.261,78.318,89.457
+40009,"Beckham, OK",3,Current-dollar GDP (thousands of current dollars),1191142,1303748,1157832,911296,998501,1150536,1220403
+40011,"Blaine, OK",1,Real GDP (thousands of chained 2017 dollars),1418531,1072914,1492042,1664549,1267135,1237859,1574103
+40011,"Blaine, OK",2,Chain-type quantity indexes for real GDP,100,75.636,105.182,117.343,89.327,87.263,110.967
+40011,"Blaine, OK",3,Current-dollar GDP (thousands of current dollars),1418531,1269962,1411824,1045063,1664705,2604638,1966600
+40013,"Bryan, OK",1,Real GDP (thousands of chained 2017 dollars),1577237,1593342,1692862,1782021,1830467,1959713,2057724
+40013,"Bryan, OK",2,Chain-type quantity indexes for real GDP,100,101.021,107.331,112.984,116.055,124.25,130.464
+40013,"Bryan, OK",3,Current-dollar GDP (thousands of current dollars),1577237,1631445,1772797,1932060,2060566,2336932,2560818
+40015,"Caddo, OK",1,Real GDP (thousands of chained 2017 dollars),983867,964169,1008698,958890,954201,913957,1045101
+40015,"Caddo, OK",2,Chain-type quantity indexes for real GDP,100,97.998,102.524,97.461,96.985,92.894,106.224
+40015,"Caddo, OK",3,Current-dollar GDP (thousands of current dollars),983867,1023025,1021433,899388,1111977,1295348,1286750
+40017,"Canadian, OK",1,Real GDP (thousands of chained 2017 dollars),5165129,5761824,6204090,5708978,5786641,5995676,6930508
+40017,"Canadian, OK",2,Chain-type quantity indexes for real GDP,100,111.552,120.115,110.529,112.033,116.08,134.179
+40017,"Canadian, OK",3,Current-dollar GDP (thousands of current dollars),5165129,6105365,6167306,5053414,6573348,8590534,8285002
+40019,"Carter, OK",1,Real GDP (thousands of chained 2017 dollars),2795529,2690223,2938766,2674239,2596901,2533629,3029955
+40019,"Carter, OK",2,Chain-type quantity indexes for real GDP,100,96.233,105.124,95.661,92.895,90.631,108.386
+40019,"Carter, OK",3,Current-dollar GDP (thousands of current dollars),2795529,2879896,3008080,2521050,2980793,3613979,3724354
+40021,"Cherokee, OK",1,Real GDP (thousands of chained 2017 dollars),1202147,1216915,1248513,1288523,1374290,1400113,1429338
+40021,"Cherokee, OK",2,Chain-type quantity indexes for real GDP,100,101.229,103.857,107.185,114.32,116.468,118.899
+40021,"Cherokee, OK",3,Current-dollar GDP (thousands of current dollars),1202147,1247432,1311094,1412143,1558090,1658676,1759044
+40023,"Choctaw, OK",1,Real GDP (thousands of chained 2017 dollars),457396,405163,365273,347837,407288,402326,425826
+40023,"Choctaw, OK",2,Chain-type quantity indexes for real GDP,100,88.58,79.859,76.047,89.045,87.96,93.098
+40023,"Choctaw, OK",3,Current-dollar GDP (thousands of current dollars),457396,417028,386215,378169,467968,494886,542039
+40025,"Cimarron, OK",1,Real GDP (thousands of chained 2017 dollars),236092,214734,207432,181153,177818,181712,259069
+40025,"Cimarron, OK",2,Chain-type quantity indexes for real GDP,100,90.954,87.861,76.73,75.317,76.967,109.733
+40025,"Cimarron, OK",3,Current-dollar GDP (thousands of current dollars),236092,210822,200720,171637,217276,280281,362803
+40027,"Cleveland, OK",1,Real GDP (thousands of chained 2017 dollars),8251828,8404572,8495475,8654502,9110974,9348672,9696907
+40027,"Cleveland, OK",2,Chain-type quantity indexes for real GDP,100,101.851,102.953,104.88,110.412,113.292,117.512
+40027,"Cleveland, OK",3,Current-dollar GDP (thousands of current dollars),8251828,8589085,8888805,9355024,10211106,11106202,12089800
+40029,"Coal, OK",1,Real GDP (thousands of chained 2017 dollars),317803,261506,341589,303359,291221,256885,281850
+40029,"Coal, OK",2,Chain-type quantity indexes for real GDP,100,82.286,107.484,95.455,91.636,80.831,88.687
+40029,"Coal, OK",3,Current-dollar GDP (thousands of current dollars),317803,300680,328453,216842,371688,496452,361013
+40031,"Comanche, OK",1,Real GDP (thousands of chained 2017 dollars),5055287,5003773,5116048,4994671,5207593,5168704,5258949
+40031,"Comanche, OK",2,Chain-type quantity indexes for real GDP,100,98.981,101.202,98.801,103.013,102.244,104.029
+40031,"Comanche, OK",3,Current-dollar GDP (thousands of current dollars),5055287,5122727,5349718,5345533,5788088,6180292,6627259
+40033,"Cotton, OK",1,Real GDP (thousands of chained 2017 dollars),136703,139879,153897,142266,142199,162233,169506
+40033,"Cotton, OK",2,Chain-type quantity indexes for real GDP,100,102.323,112.578,104.07,104.021,118.676,123.996
+40033,"Cotton, OK",3,Current-dollar GDP (thousands of current dollars),136703,143586,160601,151860,161986,198448,211034
+40035,"Craig, OK",1,Real GDP (thousands of chained 2017 dollars),469879,477125,476171,438270,437866,444144,465278
+40035,"Craig, OK",2,Chain-type quantity indexes for real GDP,100,101.542,101.339,93.273,93.187,94.523,99.021
+40035,"Craig, OK",3,Current-dollar GDP (thousands of current dollars),469879,486186,496254,469034,498905,544651,584265
+40037,"Creek, OK",1,Real GDP (thousands of chained 2017 dollars),1915029,2020644,2101765,1953529,2058713,1980079,2153096
+40037,"Creek, OK",2,Chain-type quantity indexes for real GDP,100,105.515,109.751,102.01,107.503,103.397,112.432
+40037,"Creek, OK",3,Current-dollar GDP (thousands of current dollars),1915029,2091903,2197814,2038833,2313472,2488351,2741552
+40039,"Custer, OK",1,Real GDP (thousands of chained 2017 dollars),1442536,1536142,1707142,1518378,1502052,1533849,1707889
+40039,"Custer, OK",2,Chain-type quantity indexes for real GDP,100,106.489,118.343,105.258,104.126,106.33,118.395
+40039,"Custer, OK",3,Current-dollar GDP (thousands of current dollars),1442536,1613124,1710573,1378210,1708219,2149271,2083071
+40041,"Delaware, OK",1,Real GDP (thousands of chained 2017 dollars),944803,954283,934591,833870,893210,1004743,1028925
+40041,"Delaware, OK",2,Chain-type quantity indexes for real GDP,100,101.003,98.919,88.259,94.539,106.344,108.904
+40041,"Delaware, OK",3,Current-dollar GDP (thousands of current dollars),944803,966690,965969,885669,1006119,1239172,1306384
+40043,"Dewey, OK",1,Real GDP (thousands of chained 2017 dollars),564255,674231,811369,624230,576178,598892,742089
+40043,"Dewey, OK",2,Chain-type quantity indexes for real GDP,100,119.491,143.795,110.629,102.113,106.139,131.517
+40043,"Dewey, OK",3,Current-dollar GDP (thousands of current dollars),564255,770929,773367,452900,659066,972440,871156
+40045,"Ellis, OK",1,Real GDP (thousands of chained 2017 dollars),499975,538264,678011,588129,498177,503210,863228
+40045,"Ellis, OK",2,Chain-type quantity indexes for real GDP,100,107.658,135.609,117.632,99.64,100.647,172.654
+40045,"Ellis, OK",3,Current-dollar GDP (thousands of current dollars),499975,613974,636594,403132,604579,907442,1019892
+40047,"Garfield, OK",1,Real GDP (thousands of chained 2017 dollars),2849100,2805923,2843513,2678999,2950916,2892301,3088603
+40047,"Garfield, OK",2,Chain-type quantity indexes for real GDP,100,98.485,99.804,94.03,103.574,101.516,108.406
+40047,"Garfield, OK",3,Current-dollar GDP (thousands of current dollars),2849100,2901868,2931128,2727076,3271961,3538129,3804621
+40049,"Garvin, OK",1,Real GDP (thousands of chained 2017 dollars),1417931,1584691,2021642,1841576,1726956,1559661,1836216
+40049,"Garvin, OK",2,Chain-type quantity indexes for real GDP,100,111.761,142.577,129.878,121.794,109.996,129.5
+40049,"Garvin, OK",3,Current-dollar GDP (thousands of current dollars),1417931,1768557,1972708,1423027,2017891,2562662,2200422
+40051,"Grady, OK",1,Real GDP (thousands of chained 2017 dollars),2382328,2670047,3124167,3002719,2857652,3281442,4009684
+40051,"Grady, OK",2,Chain-type quantity indexes for real GDP,100,112.077,131.139,126.041,119.952,137.741,168.309
+40051,"Grady, OK",3,Current-dollar GDP (thousands of current dollars),2382328,3007144,3000392,2226385,3460655,5828545,4752631
+40053,"Grant, OK",1,Real GDP (thousands of chained 2017 dollars),294611,252291,297106,290364,279832,272139,302953
+40053,"Grant, OK",2,Chain-type quantity indexes for real GDP,100,85.635,100.847,98.558,94.983,92.372,102.832
+40053,"Grant, OK",3,Current-dollar GDP (thousands of current dollars),294611,271210,301612,271979,315028,369761,378245
+40055,"Greer, OK",1,Real GDP (thousands of chained 2017 dollars),98592,97760,97318,94704,90855,99860,105825
+40055,"Greer, OK",2,Chain-type quantity indexes for real GDP,100,99.156,98.708,96.057,92.152,101.286,107.336
+40055,"Greer, OK",3,Current-dollar GDP (thousands of current dollars),98592,99757,101329,101842,105390,126999,135108
+40057,"Harmon, OK",1,Real GDP (thousands of chained 2017 dollars),79360,71209,82988,76012,76708,95401,107354
+40057,"Harmon, OK",2,Chain-type quantity indexes for real GDP,100,89.729,104.571,95.781,96.658,120.213,135.275
+40057,"Harmon, OK",3,Current-dollar GDP (thousands of current dollars),79360,71945,85090,79083,88172,125263,136260
+40059,"Harper, OK",1,Real GDP (thousands of chained 2017 dollars),275843,283526,255980,210853,196192,192136,232575
+40059,"Harper, OK",2,Chain-type quantity indexes for real GDP,100,102.785,92.799,76.439,71.124,69.654,84.314
+40059,"Harper, OK",3,Current-dollar GDP (thousands of current dollars),275843,284987,248283,192005,240604,302956,317711
+40061,"Haskell, OK",1,Real GDP (thousands of chained 2017 dollars),359522,350085,348288,322117,344171,348974,364524
+40061,"Haskell, OK",2,Chain-type quantity indexes for real GDP,100,97.375,96.875,89.596,95.73,97.066,101.391
+40061,"Haskell, OK",3,Current-dollar GDP (thousands of current dollars),359522,356401,354270,322777,398298,471439,470261
+40063,"Hughes, OK",1,Real GDP (thousands of chained 2017 dollars),718775,760038,879697,730460,821480,690059,688541
+40063,"Hughes, OK",2,Chain-type quantity indexes for real GDP,100,105.741,122.388,101.626,114.289,96.005,95.794
+40063,"Hughes, OK",3,Current-dollar GDP (thousands of current dollars),718775,809294,833913,573335,1024159,1224257,906152
+40065,"Jackson, OK",1,Real GDP (thousands of chained 2017 dollars),1037503,1012174,1068003,1056806,1101465,1165304,1183034
+40065,"Jackson, OK",2,Chain-type quantity indexes for real GDP,100,97.559,102.94,101.861,106.165,112.318,114.027
+40065,"Jackson, OK",3,Current-dollar GDP (thousands of current dollars),1037503,1037344,1120323,1141922,1240257,1398403,1473951
+40067,"Jefferson, OK",1,Real GDP (thousands of chained 2017 dollars),123191,127299,123256,123320,104694,118108,128845
+40067,"Jefferson, OK",2,Chain-type quantity indexes for real GDP,100,103.335,100.053,100.105,84.985,95.874,104.59
+40067,"Jefferson, OK",3,Current-dollar GDP (thousands of current dollars),123191,130708,125417,124204,117370,148168,156586
+40069,"Johnston, OK",1,Real GDP (thousands of chained 2017 dollars),425043,469210,475014,466237,449573,480965,544868
+40069,"Johnston, OK",2,Chain-type quantity indexes for real GDP,100,110.391,111.757,109.692,105.771,113.157,128.191
+40069,"Johnston, OK",3,Current-dollar GDP (thousands of current dollars),425043,487524,484700,462064,504732,620250,665407
+40071,"Kay, OK",1,Real GDP (thousands of chained 2017 dollars),1812598,1805469,1815808,1791597,1863576,1869539,1882932
+40071,"Kay, OK",2,Chain-type quantity indexes for real GDP,100,99.607,100.177,98.841,102.812,103.141,103.88
+40071,"Kay, OK",3,Current-dollar GDP (thousands of current dollars),1812598,1843853,1880936,1876574,2065683,2245329,2317111
+40073,"Kingfisher, OK",1,Real GDP (thousands of chained 2017 dollars),2160955,1830152,3041233,2912209,2327061,2534870,2945349
+40073,"Kingfisher, OK",2,Chain-type quantity indexes for real GDP,100,84.692,140.736,134.765,107.687,117.303,136.298
+40073,"Kingfisher, OK",3,Current-dollar GDP (thousands of current dollars),2160955,2092162,2883008,1946903,2743208,4458287,3333078
+40075,"Kiowa, OK",1,Real GDP (thousands of chained 2017 dollars),249184,218831,245080,247259,240929,247175,225878
+40075,"Kiowa, OK",2,Chain-type quantity indexes for real GDP,100,87.819,98.353,99.227,96.687,99.194,90.647
+40075,"Kiowa, OK",3,Current-dollar GDP (thousands of current dollars),249184,222555,253088,257789,283963,331643,299789
+40077,"Latimer, OK",1,Real GDP (thousands of chained 2017 dollars),344662,314220,325953,320112,303093,280100,288018
+40077,"Latimer, OK",2,Chain-type quantity indexes for real GDP,100,91.168,94.572,92.877,87.939,81.268,83.565
+40077,"Latimer, OK",3,Current-dollar GDP (thousands of current dollars),344662,343254,328048,279929,365916,443356,377324
+40079,"Le Flore, OK",1,Real GDP (thousands of chained 2017 dollars),1456102,1486021,1424112,1304964,1329090,1385389,1386875
+40079,"Le Flore, OK",2,Chain-type quantity indexes for real GDP,100,102.055,97.803,89.62,91.277,95.144,95.246
+40079,"Le Flore, OK",3,Current-dollar GDP (thousands of current dollars),1456102,1515272,1467731,1365457,1494735,1708008,1718768
+40081,"Lincoln, OK",1,Real GDP (thousands of chained 2017 dollars),773458,826024,884789,846849,863740,759142,785807
+40081,"Lincoln, OK",2,Chain-type quantity indexes for real GDP,100,106.796,114.394,109.489,111.673,98.149,101.597
+40081,"Lincoln, OK",3,Current-dollar GDP (thousands of current dollars),773458,862078,927976,885479,974787,965999,992941
+40083,"Logan, OK",1,Real GDP (thousands of chained 2017 dollars),863075,866793,930467,867275,883145,891854,963342
+40083,"Logan, OK",2,Chain-type quantity indexes for real GDP,100,100.431,107.808,100.487,102.325,103.334,111.617
+40083,"Logan, OK",3,Current-dollar GDP (thousands of current dollars),863075,911793,952823,855115,992512,1149821,1200085
+40085,"Love, OK",1,Real GDP (thousands of chained 2017 dollars),581418,577873,613811,620658,607976,653242,756985
+40085,"Love, OK",2,Chain-type quantity indexes for real GDP,100,99.39,105.571,106.749,104.568,112.353,130.196
+40085,"Love, OK",3,Current-dollar GDP (thousands of current dollars),581418,617021,625292,589888,722446,975894,917871
+40087,"McClain, OK",1,Real GDP (thousands of chained 2017 dollars),1148876,1343466,1671142,1600232,1506072,1512077,2034730
+40087,"McClain, OK",2,Chain-type quantity indexes for real GDP,100,116.937,145.459,139.287,131.091,131.614,177.106
+40087,"McClain, OK",3,Current-dollar GDP (thousands of current dollars),1148876,1426671,1645207,1386455,1715404,2188888,2408355
+40089,"McCurtain, OK",1,Real GDP (thousands of chained 2017 dollars),1133831,1074341,1055271,1077037,1205703,1274799,1309248
+40089,"McCurtain, OK",2,Chain-type quantity indexes for real GDP,100,94.753,93.071,94.991,106.339,112.433,115.471
+40089,"McCurtain, OK",3,Current-dollar GDP (thousands of current dollars),1133831,1097705,1096720,1159835,1425345,1630669,1694911
+40091,"McIntosh, OK",1,Real GDP (thousands of chained 2017 dollars),352791,354812,398410,394509,387779,378760,381272
+40091,"McIntosh, OK",2,Chain-type quantity indexes for real GDP,100,100.573,112.931,111.825,109.917,107.361,108.073
+40091,"McIntosh, OK",3,Current-dollar GDP (thousands of current dollars),352791,364433,415538,417646,452063,490824,491582
+40093,"Major, OK",1,Real GDP (thousands of chained 2017 dollars),437504,486817,697108,509412,451730,433306,568626
+40093,"Major, OK",2,Chain-type quantity indexes for real GDP,100,111.272,159.338,116.436,103.252,99.041,129.97
+40093,"Major, OK",3,Current-dollar GDP (thousands of current dollars),437504,546800,659811,357092,519251,714375,669451
+40095,"Marshall, OK",1,Real GDP (thousands of chained 2017 dollars),487012,472875,532943,519108,524738,549336,592068
+40095,"Marshall, OK",2,Chain-type quantity indexes for real GDP,100,97.097,109.431,106.59,107.746,112.797,121.571
+40095,"Marshall, OK",3,Current-dollar GDP (thousands of current dollars),487012,494639,545090,502668,586111,702469,712109
+40097,"Mayes, OK",1,Real GDP (thousands of chained 2017 dollars),1567421,1838964,1881653,1918011,1895062,1971762,2187525
+40097,"Mayes, OK",2,Chain-type quantity indexes for real GDP,100,117.324,120.048,122.367,120.903,125.797,139.562
+40097,"Mayes, OK",3,Current-dollar GDP (thousands of current dollars),1567421,1882264,1951717,1999527,2108890,2371080,2715111
+40099,"Murray, OK",1,Real GDP (thousands of chained 2017 dollars),544781,556314,523669,499143,481298,509446,583952
+40099,"Murray, OK",2,Chain-type quantity indexes for real GDP,100,102.117,96.125,91.623,88.347,93.514,107.19
+40099,"Murray, OK",3,Current-dollar GDP (thousands of current dollars),544781,571586,547884,532599,547498,628209,720363
+40101,"Muskogee, OK",1,Real GDP (thousands of chained 2017 dollars),3247965,3017841,2783947,2747530,2787119,2817199,2854516
+40101,"Muskogee, OK",2,Chain-type quantity indexes for real GDP,100,92.915,85.714,84.592,85.811,86.737,87.886
+40101,"Muskogee, OK",3,Current-dollar GDP (thousands of current dollars),3247965,3091975,2915564,2940702,3125813,3391495,3608487
+40103,"Noble, OK",1,Real GDP (thousands of chained 2017 dollars),692570,732872,735796,628784,641775,623443,610129
+40103,"Noble, OK",2,Chain-type quantity indexes for real GDP,100,105.819,106.241,90.79,92.666,90.019,88.096
+40103,"Noble, OK",3,Current-dollar GDP (thousands of current dollars),692570,757746,769557,651303,729711,808485,787231
+40105,"Nowata, OK",1,Real GDP (thousands of chained 2017 dollars),178139,174959,183265,185421,185808,201338,218535
+40105,"Nowata, OK",2,Chain-type quantity indexes for real GDP,100,98.215,102.877,104.088,104.305,113.023,122.677
+40105,"Nowata, OK",3,Current-dollar GDP (thousands of current dollars),178139,182050,191445,192641,209000,241607,263835
+40107,"Okfuskee, OK",1,Real GDP (thousands of chained 2017 dollars),227096,237081,262050,233296,235981,218219,241215
+40107,"Okfuskee, OK",2,Chain-type quantity indexes for real GDP,100,104.397,115.392,102.73,103.912,96.091,106.217
+40107,"Okfuskee, OK",3,Current-dollar GDP (thousands of current dollars),227096,246835,271441,238109,265477,274780,292423
+40109,"Oklahoma, OK",1,Real GDP (thousands of chained 2017 dollars),55834212,57157846,57021005,55375412,55601753,54285021,56681593
+40109,"Oklahoma, OK",2,Chain-type quantity indexes for real GDP,100,102.371,102.126,99.178,99.584,97.225,101.518
+40109,"Oklahoma, OK",3,Current-dollar GDP (thousands of current dollars),55834212,59141667,59082248,57227726,61624496,65198953,70325286
+40111,"Okmulgee, OK",1,Real GDP (thousands of chained 2017 dollars),854973,848895,851814,859587,823614,869598,897040
+40111,"Okmulgee, OK",2,Chain-type quantity indexes for real GDP,100,99.289,99.631,100.54,96.332,101.711,104.92
+40111,"Okmulgee, OK",3,Current-dollar GDP (thousands of current dollars),854973,870277,890587,927799,928338,1040884,1117494
+40113,"Osage, OK",1,Real GDP (thousands of chained 2017 dollars),956395,948320,1021892,909603,987194,923987,1109809
+40113,"Osage, OK",2,Chain-type quantity indexes for real GDP,100,99.156,106.848,95.107,103.22,96.611,116.041
+40113,"Osage, OK",3,Current-dollar GDP (thousands of current dollars),956395,1016554,1040601,859553,1127030,1272159,1344382
+40115,"Ottawa, OK",1,Real GDP (thousands of chained 2017 dollars),1013616,1012924,1047404,1015096,1077167,1092655,1122153
+40115,"Ottawa, OK",2,Chain-type quantity indexes for real GDP,100,99.932,103.333,100.146,106.27,107.798,110.708
+40115,"Ottawa, OK",3,Current-dollar GDP (thousands of current dollars),1013616,1030235,1084866,1081978,1214708,1324866,1407950
+40117,"Pawnee, OK",1,Real GDP (thousands of chained 2017 dollars),360160,370093,379440,346830,354053,343072,370013
+40117,"Pawnee, OK",2,Chain-type quantity indexes for real GDP,100,102.758,105.353,96.299,98.304,95.255,102.736
+40117,"Pawnee, OK",3,Current-dollar GDP (thousands of current dollars),360160,384234,392146,355345,396840,423107,451460
+40119,"Payne, OK",1,Real GDP (thousands of chained 2017 dollars),3210165,3284039,3346984,3202116,3300369,3406515,3546777
+40119,"Payne, OK",2,Chain-type quantity indexes for real GDP,100,102.301,104.262,99.749,102.81,106.117,110.486
+40119,"Payne, OK",3,Current-dollar GDP (thousands of current dollars),3210165,3379324,3490466,3421515,3705699,4068933,4349014
+40121,"Pittsburg, OK",1,Real GDP (thousands of chained 2017 dollars),2033381,2101139,2195804,1975110,1903136,2013568,2097353
+40121,"Pittsburg, OK",2,Chain-type quantity indexes for real GDP,100,103.332,107.988,97.134,93.595,99.026,103.146
+40121,"Pittsburg, OK",3,Current-dollar GDP (thousands of current dollars),2033381,2210500,2232018,1889638,2179904,2779750,2550299
+40123,"Pontotoc, OK",1,Real GDP (thousands of chained 2017 dollars),1878007,1954848,2021368,2000647,2058216,2103386,2196596
+40123,"Pontotoc, OK",2,Chain-type quantity indexes for real GDP,100,104.092,107.634,106.53,109.596,112.001,116.964
+40123,"Pontotoc, OK",3,Current-dollar GDP (thousands of current dollars),1878007,2017252,2100430,2108583,2315705,2564945,2689389
+40125,"Pottawatomie, OK",1,Real GDP (thousands of chained 2017 dollars),2126491,2095753,2284078,2181131,2492767,2179747,2221211
+40125,"Pottawatomie, OK",2,Chain-type quantity indexes for real GDP,100,98.555,107.411,102.569,117.224,102.504,104.454
+40125,"Pottawatomie, OK",3,Current-dollar GDP (thousands of current dollars),2126491,2150190,2380643,2314905,2795469,2660258,2803978
+40127,"Pushmataha, OK",1,Real GDP (thousands of chained 2017 dollars),232605,223814,225527,242775,260366,245557,251178
+40127,"Pushmataha, OK",2,Chain-type quantity indexes for real GDP,100,96.22,96.957,104.372,111.935,105.568,107.984
+40127,"Pushmataha, OK",3,Current-dollar GDP (thousands of current dollars),232605,231423,236026,261341,302173,307800,319478
+40129,"Roger Mills, OK",1,Real GDP (thousands of chained 2017 dollars),483349,386525,463854,396424,353495,320778,372242
+40129,"Roger Mills, OK",2,Chain-type quantity indexes for real GDP,100,79.968,95.967,82.016,73.135,66.366,77.013
+40129,"Roger Mills, OK",3,Current-dollar GDP (thousands of current dollars),483349,453284,441734,270923,435122,595942,449833
+40131,"Rogers, OK",1,Real GDP (thousands of chained 2017 dollars),3162729,3362183,3569690,3323728,3358617,3402182,3485200
+40131,"Rogers, OK",2,Chain-type quantity indexes for real GDP,100,106.306,112.867,105.091,106.194,107.571,110.196
+40131,"Rogers, OK",3,Current-dollar GDP (thousands of current dollars),3162729,3439658,3751955,3573913,3769295,4164600,4484768
+40133,"Seminole, OK",1,Real GDP (thousands of chained 2017 dollars),741082,766723,804648,778769,758021,728126,843897
+40133,"Seminole, OK",2,Chain-type quantity indexes for real GDP,100,103.46,108.577,105.085,102.286,98.252,113.874
+40133,"Seminole, OK",3,Current-dollar GDP (thousands of current dollars),741082,798142,821646,767910,844731,928064,1019985
+40135,"Sequoyah, OK",1,Real GDP (thousands of chained 2017 dollars),715275,704208,788938,750561,773500,743318,757662
+40135,"Sequoyah, OK",2,Chain-type quantity indexes for real GDP,100,98.453,110.298,104.933,108.14,103.921,105.926
+40135,"Sequoyah, OK",3,Current-dollar GDP (thousands of current dollars),715275,722091,830185,816399,881492,914418,973767
+40137,"Stephens, OK",1,Real GDP (thousands of chained 2017 dollars),1912395,1873742,2156149,2010453,2041247,1959521,2416745
+40137,"Stephens, OK",2,Chain-type quantity indexes for real GDP,100,97.979,112.746,105.128,106.738,102.464,126.373
+40137,"Stephens, OK",3,Current-dollar GDP (thousands of current dollars),1912395,2020923,2142335,1735380,2401291,3029153,3006105
+40139,"Texas, OK",1,Real GDP (thousands of chained 2017 dollars),1823257,1821794,1884228,1761536,2005377,1699413,2000116
+40139,"Texas, OK",2,Chain-type quantity indexes for real GDP,100,99.92,103.344,96.615,109.989,93.208,109.7
+40139,"Texas, OK",3,Current-dollar GDP (thousands of current dollars),1823257,1822609,1848074,1684276,2302508,2267687,2556549
+40141,"Tillman, OK",1,Real GDP (thousands of chained 2017 dollars),200136,176330,214511,163339,173338,172569,152106
+40141,"Tillman, OK",2,Chain-type quantity indexes for real GDP,100,88.105,107.182,81.614,86.61,86.226,76.001
+40141,"Tillman, OK",3,Current-dollar GDP (thousands of current dollars),200136,180615,221712,169789,193726,225525,200202
+40143,"Tulsa, OK",1,Real GDP (thousands of chained 2017 dollars),43122778,44316149,42747171,40431900,42216418,42802509,44433905
+40143,"Tulsa, OK",2,Chain-type quantity indexes for real GDP,100,102.767,99.129,93.76,97.898,99.257,103.04
+40143,"Tulsa, OK",3,Current-dollar GDP (thousands of current dollars),43122778,45683690,44656312,42415894,46595362,51161161,55484384
+40145,"Wagoner, OK",1,Real GDP (thousands of chained 2017 dollars),1264442,1284582,1367508,1396454,1329777,1305081,1452948
+40145,"Wagoner, OK",2,Chain-type quantity indexes for real GDP,100,101.593,108.151,110.44,105.167,103.214,114.908
+40145,"Wagoner, OK",3,Current-dollar GDP (thousands of current dollars),1264442,1313601,1443416,1514543,1506161,1601727,1886806
+40147,"Washington, OK",1,Real GDP (thousands of chained 2017 dollars),3600664,3693096,3053892,2849021,2555217,2614693,3066801
+40147,"Washington, OK",2,Chain-type quantity indexes for real GDP,100,102.567,84.815,79.125,70.965,72.617,85.173
+40147,"Washington, OK",3,Current-dollar GDP (thousands of current dollars),3600664,4181778,3171250,2628339,2981183,3654082,3965535
+40149,"Washita, OK",1,Real GDP (thousands of chained 2017 dollars),371367,325280,391541,349241,344718,343080,354581
+40149,"Washita, OK",2,Chain-type quantity indexes for real GDP,100,87.59,105.432,94.042,92.824,92.383,95.48
+40149,"Washita, OK",3,Current-dollar GDP (thousands of current dollars),371367,357650,389859,297267,407631,538315,446736
+40151,"Woods, OK",1,Real GDP (thousands of chained 2017 dollars),703316,585085,608434,606490,552855,534734,634651
+40151,"Woods, OK",2,Chain-type quantity indexes for real GDP,100,83.189,86.509,86.233,78.607,76.03,90.237
+40151,"Woods, OK",3,Current-dollar GDP (thousands of current dollars),703316,661832,598938,486305,653916,851718,781128
+40153,"Woodward, OK",1,Real GDP (thousands of chained 2017 dollars),1083107,1148748,1197516,1136953,1153774,1168703,1214458
+40153,"Woodward, OK",2,Chain-type quantity indexes for real GDP,100,106.06,110.563,104.971,106.524,107.903,112.127
+40153,"Woodward, OK",3,Current-dollar GDP (thousands of current dollars),1083107,1178706,1222035,1129173,1249803,1423342,1465145
+48001,"Anderson, TX",1,Real GDP (thousands of chained 2017 dollars),1854000,1921111,1990730,1959856,2061445,2120912,2164042
+48001,"Anderson, TX",2,Chain-type quantity indexes for real GDP,100,103.62,107.375,105.71,111.189,114.397,116.723
+48001,"Anderson, TX",3,Current-dollar GDP (thousands of current dollars),1854000,1962740,2070808,2081041,2286544,2519003,2665254
+48003,"Andrews, TX",1,Real GDP (thousands of chained 2017 dollars),2663256,2803950,2921685,2658131,2930254,2704779,4128580
+48003,"Andrews, TX",2,Chain-type quantity indexes for real GDP,100,105.283,109.704,99.808,110.025,101.559,155.02
+48003,"Andrews, TX",3,Current-dollar GDP (thousands of current dollars),2663256,3259174,2778306,1804344,3666701,5221398,5044405
+48005,"Angelina, TX",1,Real GDP (thousands of chained 2017 dollars),3152626,3297217,3316547,3237762,3225347,3344924,3512511
+48005,"Angelina, TX",2,Chain-type quantity indexes for real GDP,100,104.586,105.199,102.7,102.307,106.1,111.415
+48005,"Angelina, TX",3,Current-dollar GDP (thousands of current dollars),3152626,3372729,3418535,3362198,3634804,4118661,4321349
+48007,"Aransas, TX",1,Real GDP (thousands of chained 2017 dollars),644093,645836,684004,686447,718406,764173,786741
+48007,"Aransas, TX",2,Chain-type quantity indexes for real GDP,100,100.271,106.196,106.576,111.538,118.643,122.147
+48007,"Aransas, TX",3,Current-dollar GDP (thousands of current dollars),644093,663359,716907,733642,805825,922077,988490
+48009,"Archer, TX",1,Real GDP (thousands of chained 2017 dollars),269446,278384,278822,285286,283128,311519,340087
+48009,"Archer, TX",2,Chain-type quantity indexes for real GDP,100,103.317,103.48,105.879,105.078,115.615,126.217
+48009,"Archer, TX",3,Current-dollar GDP (thousands of current dollars),269446,290025,284171,277861,319526,412211,418765
+48011,"Armstrong, TX",1,Real GDP (thousands of chained 2017 dollars),35995,50943,49996,54162,45538,62357,64460
+48011,"Armstrong, TX",2,Chain-type quantity indexes for real GDP,100,141.53,138.899,150.474,126.514,173.241,179.083
+48011,"Armstrong, TX",3,Current-dollar GDP (thousands of current dollars),35995,51630,51547,56569,51943,79284,81718
+48013,"Atascosa, TX",1,Real GDP (thousands of chained 2017 dollars),2631154,2821168,3190576,2638058,2643168,2684525,3586352
+48013,"Atascosa, TX",2,Chain-type quantity indexes for real GDP,100,107.222,121.261,100.262,100.457,102.028,136.303
+48013,"Atascosa, TX",3,Current-dollar GDP (thousands of current dollars),2631154,3091172,3159734,2237840,2991051,3990860,4259595
+48015,"Austin, TX",1,Real GDP (thousands of chained 2017 dollars),1262188,1333379,1413327,1425701,1560581,1648564,1701111
+48015,"Austin, TX",2,Chain-type quantity indexes for real GDP,100,105.64,111.974,112.955,123.641,130.612,134.775
+48015,"Austin, TX",3,Current-dollar GDP (thousands of current dollars),1262188,1367774,1476216,1512115,1758646,2055817,2190202
+48017,"Bailey, TX",1,Real GDP (thousands of chained 2017 dollars),386810,386518,386984,401678,392649,382923,442887
+48017,"Bailey, TX",2,Chain-type quantity indexes for real GDP,100,99.924,100.045,103.844,101.509,98.995,114.497
+48017,"Bailey, TX",3,Current-dollar GDP (thousands of current dollars),386810,383338,387792,402220,473592,547857,604627
+48019,"Bandera, TX",1,Real GDP (thousands of chained 2017 dollars),356297,364837,402143,376299,387666,406876,402255
+48019,"Bandera, TX",2,Chain-type quantity indexes for real GDP,100,102.397,112.867,105.614,108.804,114.196,112.899
+48019,"Bandera, TX",3,Current-dollar GDP (thousands of current dollars),356297,373913,424251,407401,434886,486884,507570
+48021,"Bastrop, TX",1,Real GDP (thousands of chained 2017 dollars),2177066,2324465,2452482,2552591,2665397,2940012,3126982
+48021,"Bastrop, TX",2,Chain-type quantity indexes for real GDP,100,106.771,112.651,117.249,122.431,135.045,143.633
+48021,"Bastrop, TX",3,Current-dollar GDP (thousands of current dollars),2177066,2376390,2566219,2732571,3008065,3573457,3954932
+48023,"Baylor, TX",1,Real GDP (thousands of chained 2017 dollars),148215,153378,158933,170931,169119,181662,173861
+48023,"Baylor, TX",2,Chain-type quantity indexes for real GDP,100,103.484,107.232,115.327,114.104,122.567,117.304
+48023,"Baylor, TX",3,Current-dollar GDP (thousands of current dollars),148215,156791,164712,177944,196130,235763,220507
+48025,"Bee, TX",1,Real GDP (thousands of chained 2017 dollars),734739,725739,750976,718572,679404,746930,839512
+48025,"Bee, TX",2,Chain-type quantity indexes for real GDP,100,98.775,102.21,97.8,92.469,101.659,114.26
+48025,"Bee, TX",3,Current-dollar GDP (thousands of current dollars),734739,754302,781378,755673,765985,924568,1036708
+48027,"Bell, TX",1,Real GDP (thousands of chained 2017 dollars),16198711,16317100,16779854,17097220,17916094,18346663,19016076
+48027,"Bell, TX",2,Chain-type quantity indexes for real GDP,100,100.731,103.588,105.547,110.602,113.26,117.393
+48027,"Bell, TX",3,Current-dollar GDP (thousands of current dollars),16198711,16740324,17580227,18263419,20049412,22005113,23752295
+48029,"Bexar, TX",1,Real GDP (thousands of chained 2017 dollars),100193129,104847549,106900347,105300306,110082217,117481730,121391325
+48029,"Bexar, TX",2,Chain-type quantity indexes for real GDP,100,104.645,106.694,105.097,109.87,117.255,121.157
+48029,"Bexar, TX",3,Current-dollar GDP (thousands of current dollars),100193129,107052245,111111029,111792718,120590705,135962260,147187931
+48031,"Blanco, TX",1,Real GDP (thousands of chained 2017 dollars),363976,380451,424073,430722,467435,509205,543690
+48031,"Blanco, TX",2,Chain-type quantity indexes for real GDP,100,104.526,116.511,118.338,128.424,139.9,149.375
+48031,"Blanco, TX",3,Current-dollar GDP (thousands of current dollars),363976,391551,444475,459369,519669,615600,691020
+48033,"Borden, TX",1,Real GDP (thousands of chained 2017 dollars),238571,287171,446349,430561,413557,469632,842749
+48033,"Borden, TX",2,Chain-type quantity indexes for real GDP,100,120.371,187.092,180.475,173.347,196.852,353.248
+48033,"Borden, TX",3,Current-dollar GDP (thousands of current dollars),238571,335292,415894,275671,479335,796090,925400
+48035,"Bosque, TX",1,Real GDP (thousands of chained 2017 dollars),550028,547274,569096,566318,575284,620798,663413
+48035,"Bosque, TX",2,Chain-type quantity indexes for real GDP,100,99.499,103.467,102.962,104.592,112.867,120.614
+48035,"Bosque, TX",3,Current-dollar GDP (thousands of current dollars),550028,561779,599688,608454,665432,775052,846221
+48037,"Bowie, TX",1,Real GDP (thousands of chained 2017 dollars),3641646,3621923,3592127,3568782,3683423,3712887,3865689
+48037,"Bowie, TX",2,Chain-type quantity indexes for real GDP,100,99.458,98.64,97.999,101.147,101.956,106.152
+48037,"Bowie, TX",3,Current-dollar GDP (thousands of current dollars),3641646,3713787,3768807,3845831,4175980,4496205,4860856
+48039,"Brazoria, TX",1,Real GDP (thousands of chained 2017 dollars),15594770,16452659,15879803,15663870,16083146,16465578,17329766
+48039,"Brazoria, TX",2,Chain-type quantity indexes for real GDP,100,105.501,101.828,100.443,103.132,105.584,111.126
+48039,"Brazoria, TX",3,Current-dollar GDP (thousands of current dollars),15594770,17142207,16553562,16195301,18284708,21335828,22499920
+48041,"Brazos, TX",1,Real GDP (thousands of chained 2017 dollars),9584824,10033570,10306938,10272300,10999083,11676835,12259102
+48041,"Brazos, TX",2,Chain-type quantity indexes for real GDP,100,104.682,107.534,107.173,114.755,121.826,127.901
+48041,"Brazos, TX",3,Current-dollar GDP (thousands of current dollars),9584824,10287257,10707012,10852404,12234261,13877565,14982724
+48043,"Brewster, TX",1,Real GDP (thousands of chained 2017 dollars),344700,369562,383024,369180,402120,424400,449881
+48043,"Brewster, TX",2,Chain-type quantity indexes for real GDP,100,107.213,111.118,107.102,116.658,123.122,130.514
+48043,"Brewster, TX",3,Current-dollar GDP (thousands of current dollars),344700,379177,402729,394507,447331,506042,560852
+48045,"Briscoe, TX",1,Real GDP (thousands of chained 2017 dollars),85006,91763,91684,78401,102576,122745,110849
+48045,"Briscoe, TX",2,Chain-type quantity indexes for real GDP,100,107.95,107.857,92.23,120.669,144.396,130.402
+48045,"Briscoe, TX",3,Current-dollar GDP (thousands of current dollars),85006,93813,95451,81560,122543,170172,147505
+48047,"Brooks, TX",1,Real GDP (thousands of chained 2017 dollars),288157,281369,287126,271302,279680,265518,285617
+48047,"Brooks, TX",2,Chain-type quantity indexes for real GDP,100,97.644,99.642,94.151,97.058,92.144,99.119
+48047,"Brooks, TX",3,Current-dollar GDP (thousands of current dollars),288157,300085,294440,265065,308642,340005,343512
+48049,"Brown, TX",1,Real GDP (thousands of chained 2017 dollars),1424388,1425661,1449766,1397375,1416688,1436441,1488077
+48049,"Brown, TX",2,Chain-type quantity indexes for real GDP,100,100.089,101.782,98.104,99.459,100.846,104.471
+48049,"Brown, TX",3,Current-dollar GDP (thousands of current dollars),1424388,1457648,1515055,1495676,1586876,1748284,1935219
+48051,"Burleson, TX",1,Real GDP (thousands of chained 2017 dollars),872415,1079338,1227658,1175449,999471,829962,1053186
+48051,"Burleson, TX",2,Chain-type quantity indexes for real GDP,100,123.718,140.719,134.735,114.564,95.134,120.721
+48051,"Burleson, TX",3,Current-dollar GDP (thousands of current dollars),872415,1227687,1177428,861144,1195502,1392117,1305947
+48053,"Burnet, TX",1,Real GDP (thousands of chained 2017 dollars),1553431,1617363,1694510,1752898,1856268,2003357,2111799
+48053,"Burnet, TX",2,Chain-type quantity indexes for real GDP,100,104.116,109.082,112.84,119.495,128.963,135.944
+48053,"Burnet, TX",3,Current-dollar GDP (thousands of current dollars),1553431,1654975,1777450,1884464,2089286,2435769,2707320
+48055,"Caldwell, TX",1,Real GDP (thousands of chained 2017 dollars),836188,900946,925002,974082,1015158,1040496,1091434
+48055,"Caldwell, TX",2,Chain-type quantity indexes for real GDP,100,107.744,110.621,116.491,121.403,124.433,130.525
+48055,"Caldwell, TX",3,Current-dollar GDP (thousands of current dollars),836188,930821,967551,1024614,1131285,1278950,1371851
+48057,"Calhoun, TX",1,Real GDP (thousands of chained 2017 dollars),2693726,3592371,3327376,3178226,3281531,3363585,3556934
+48057,"Calhoun, TX",2,Chain-type quantity indexes for real GDP,100,133.361,123.523,117.986,121.821,124.867,132.045
+48057,"Calhoun, TX",3,Current-dollar GDP (thousands of current dollars),2693726,3720442,3436523,3247066,3702881,4242502,4453792
+48059,"Callahan, TX",1,Real GDP (thousands of chained 2017 dollars),261257,294040,304597,291761,297439,364735,409835
+48059,"Callahan, TX",2,Chain-type quantity indexes for real GDP,100,112.548,116.589,111.676,113.849,139.607,156.87
+48059,"Callahan, TX",3,Current-dollar GDP (thousands of current dollars),261257,301875,319230,314584,342606,460047,526500
+48061,"Cameron, TX",1,Real GDP (thousands of chained 2017 dollars),10734203,10950425,11292095,10945000,11705625,12312985,12543033
+48061,"Cameron, TX",2,Chain-type quantity indexes for real GDP,100,102.014,105.197,101.964,109.05,114.708,116.851
+48061,"Cameron, TX",3,Current-dollar GDP (thousands of current dollars),10734203,11184169,11810934,11793000,13094826,14603267,15602248
+48063,"Camp, TX",1,Real GDP (thousands of chained 2017 dollars),361067,370257,348560,354729,367818,411275,409323
+48063,"Camp, TX",2,Chain-type quantity indexes for real GDP,100,102.545,96.536,98.245,101.87,113.906,113.365
+48063,"Camp, TX",3,Current-dollar GDP (thousands of current dollars),361067,379806,366539,380029,419601,517515,523639
+48065,"Carson, TX",1,Real GDP (thousands of chained 2017 dollars),919073,948354,970868,905004,957897,955735,1001397
+48065,"Carson, TX",2,Chain-type quantity indexes for real GDP,100,103.186,105.636,98.469,104.224,103.989,108.957
+48065,"Carson, TX",3,Current-dollar GDP (thousands of current dollars),919073,967796,1023982,962981,1068411,1281458,1429919
+48067,"Cass, TX",1,Real GDP (thousands of chained 2017 dollars),774200,826215,867105,929870,980460,1012142,1115529
+48067,"Cass, TX",2,Chain-type quantity indexes for real GDP,100,106.718,112,120.107,126.642,130.734,144.088
+48067,"Cass, TX",3,Current-dollar GDP (thousands of current dollars),774200,846281,894695,960325,1075865,1234584,1367371
+48069,"Castro, TX",1,Real GDP (thousands of chained 2017 dollars),721563,652978,658091,672495,664616,617363,813526
+48069,"Castro, TX",2,Chain-type quantity indexes for real GDP,100,90.495,91.204,93.2,92.108,85.559,112.745
+48069,"Castro, TX",3,Current-dollar GDP (thousands of current dollars),721563,638154,643065,649904,820282,944719,1148785
+48071,"Chambers, TX",1,Real GDP (thousands of chained 2017 dollars),2712292,2969359,2628866,2594682,2506465,2624630,2999510
+48071,"Chambers, TX",2,Chain-type quantity indexes for real GDP,100,109.478,96.924,95.664,92.411,96.768,110.59
+48071,"Chambers, TX",3,Current-dollar GDP (thousands of current dollars),2712292,3084833,2733285,2678645,2848029,3323806,3839496
+48073,"Cherokee, TX",1,Real GDP (thousands of chained 2017 dollars),1304451,1276476,1327127,1363759,1360358,1374057,1527050
+48073,"Cherokee, TX",2,Chain-type quantity indexes for real GDP,100,97.855,101.738,104.547,104.286,105.336,117.065
+48073,"Cherokee, TX",3,Current-dollar GDP (thousands of current dollars),1304451,1325797,1382934,1435592,1552130,1737105,1941830
+48075,"Childress, TX",1,Real GDP (thousands of chained 2017 dollars),204441,207230,212039,234483,247599,311199,289231
+48075,"Childress, TX",2,Chain-type quantity indexes for real GDP,100,101.364,103.716,114.695,121.11,152.22,141.474
+48075,"Childress, TX",3,Current-dollar GDP (thousands of current dollars),204441,211980,221060,251697,279475,374016,351480
+48077,"Clay, TX",1,Real GDP (thousands of chained 2017 dollars),207416,210130,215232,216609,216280,222995,261493
+48077,"Clay, TX",2,Chain-type quantity indexes for real GDP,100,101.308,103.768,104.432,104.274,107.511,126.072
+48077,"Clay, TX",3,Current-dollar GDP (thousands of current dollars),207416,220470,224480,223166,249542,289179,329513
+48079,"Cochran, TX",1,Real GDP (thousands of chained 2017 dollars),197654,169635,207651,217610,234577,230258,233166
+48079,"Cochran, TX",2,Chain-type quantity indexes for real GDP,100,85.824,105.058,110.097,118.681,116.496,117.967
+48079,"Cochran, TX",3,Current-dollar GDP (thousands of current dollars),197654,197792,198743,158817,281594,391115,283494
+48081,"Coke, TX",1,Real GDP (thousands of chained 2017 dollars),90796,96546,93543,97403,176272,196054,217130
+48081,"Coke, TX",2,Chain-type quantity indexes for real GDP,100,106.333,103.026,107.276,194.14,215.927,239.14
+48081,"Coke, TX",3,Current-dollar GDP (thousands of current dollars),90796,103996,95813,95062,198324,248380,260260
+48083,"Coleman, TX",1,Real GDP (thousands of chained 2017 dollars),196283,199344,207669,204683,209851,219286,233132
+48083,"Coleman, TX",2,Chain-type quantity indexes for real GDP,100,101.56,105.801,104.28,106.912,111.719,118.774
+48083,"Coleman, TX",3,Current-dollar GDP (thousands of current dollars),196283,206677,217126,216688,235805,268766,290520
+48085,"Collin, TX",1,Real GDP (thousands of chained 2017 dollars),62269549,66086903,68740613,70840561,77222912,84274998,87862787
+48085,"Collin, TX",2,Chain-type quantity indexes for real GDP,100,106.13,110.392,113.764,124.014,135.339,141.101
+48085,"Collin, TX",3,Current-dollar GDP (thousands of current dollars),62269549,67004002,70727393,73859122,82767061,95327598,103364238
+48087,"Collingsworth, TX",1,Real GDP (thousands of chained 2017 dollars),75655,78012,75784,76702,81383,82073,86573
+48087,"Collingsworth, TX",2,Chain-type quantity indexes for real GDP,100,103.116,100.17,101.384,107.572,108.483,114.431
+48087,"Collingsworth, TX",3,Current-dollar GDP (thousands of current dollars),75655,80197,79037,81255,92556,103253,108681
+48089,"Colorado, TX",1,Real GDP (thousands of chained 2017 dollars),847415,800236,845151,816333,888217,897091,941964
+48089,"Colorado, TX",2,Chain-type quantity indexes for real GDP,100,94.433,99.733,96.332,104.815,105.862,111.157
+48089,"Colorado, TX",3,Current-dollar GDP (thousands of current dollars),847415,829229,880773,854878,997432,1125892,1210492
+48091,"Comal, TX",1,Real GDP (thousands of chained 2017 dollars),5942804,6213683,6618563,7052844,7722884,8196078,8808711
+48091,"Comal, TX",2,Chain-type quantity indexes for real GDP,100,104.558,111.371,118.679,129.954,137.916,148.225
+48091,"Comal, TX",3,Current-dollar GDP (thousands of current dollars),5942804,6357533,6934395,7570658,8655980,9954157,11277635
+48093,"Comanche, TX",1,Real GDP (thousands of chained 2017 dollars),366015,361217,421214,443653,415523,467249,480878
+48093,"Comanche, TX",2,Chain-type quantity indexes for real GDP,100,98.689,115.081,121.212,113.526,127.658,131.382
+48093,"Comanche, TX",3,Current-dollar GDP (thousands of current dollars),366015,369844,439790,470674,485159,603968,622555
+48095,"Concho, TX",1,Real GDP (thousands of chained 2017 dollars),77629,80841,106692,121708,127510,211747,237043
+48095,"Concho, TX",2,Chain-type quantity indexes for real GDP,100,104.138,137.439,156.782,164.255,272.768,305.353
+48095,"Concho, TX",3,Current-dollar GDP (thousands of current dollars),77629,85439,110483,123186,147208,278289,297664
+48097,"Cooke, TX",1,Real GDP (thousands of chained 2017 dollars),3118071,2786522,2409435,2070950,2192915,2374370,2573852
+48097,"Cooke, TX",2,Chain-type quantity indexes for real GDP,100,89.367,77.273,66.418,70.329,76.149,82.546
+48097,"Cooke, TX",3,Current-dollar GDP (thousands of current dollars),3118071,2792490,2428578,2079470,2248267,2651498,2997377
+48099,"Coryell, TX",1,Real GDP (thousands of chained 2017 dollars),1710538,1705525,1662838,1632599,1680429,1741892,1790456
+48099,"Coryell, TX",2,Chain-type quantity indexes for real GDP,100,99.707,97.211,95.444,98.24,101.833,104.672
+48099,"Coryell, TX",3,Current-dollar GDP (thousands of current dollars),1710538,1742001,1737414,1762231,1873947,2043621,2199870
+48101,"Cottle, TX",1,Real GDP (thousands of chained 2017 dollars),73332,69993,52198,57673,71551,97240,109044
+48101,"Cottle, TX",2,Chain-type quantity indexes for real GDP,100,95.448,71.181,78.646,97.572,132.603,148.699
+48101,"Cottle, TX",3,Current-dollar GDP (thousands of current dollars),73332,73195,52043,54425,83364,138194,142998
+48103,"Crane, TX",1,Real GDP (thousands of chained 2017 dollars),550870,493294,564973,551220,565987,610089,953582
+48103,"Crane, TX",2,Chain-type quantity indexes for real GDP,100,89.548,102.56,100.064,102.744,110.75,173.105
+48103,"Crane, TX",3,Current-dollar GDP (thousands of current dollars),550870,588054,534723,361449,724149,1228860,1157003
+48105,"Crockett, TX",1,Real GDP (thousands of chained 2017 dollars),768622,623527,607438,632431,583906,537812,665993
+48105,"Crockett, TX",2,Chain-type quantity indexes for real GDP,100,81.123,79.03,82.281,75.968,69.971,86.648
+48105,"Crockett, TX",3,Current-dollar GDP (thousands of current dollars),768622,755715,570061,401597,720743,1013122,831824
+48107,"Crosby, TX",1,Real GDP (thousands of chained 2017 dollars),216659,209499,232960,216672,238946,242553,253146
+48107,"Crosby, TX",2,Chain-type quantity indexes for real GDP,100,96.695,107.523,100.006,110.287,111.951,116.841
+48107,"Crosby, TX",3,Current-dollar GDP (thousands of current dollars),216659,224726,240480,213178,284535,345555,327600
+48109,"Culberson, TX",1,Real GDP (thousands of chained 2017 dollars),1395223,1713566,2246340,2458445,2464642,2146689,2996840
+48109,"Culberson, TX",2,Chain-type quantity indexes for real GDP,100,122.817,161.002,176.204,176.649,153.86,214.793
+48109,"Culberson, TX",3,Current-dollar GDP (thousands of current dollars),1395223,2101737,2043885,1308158,3273780,4849884,3706690
+48111,"Dallam, TX",1,Real GDP (thousands of chained 2017 dollars),787721,680449,698604,691461,670969,624030,809485
+48111,"Dallam, TX",2,Chain-type quantity indexes for real GDP,100,86.382,88.687,87.78,85.179,79.22,102.763
+48111,"Dallam, TX",3,Current-dollar GDP (thousands of current dollars),787721,676762,704447,700400,796418,870722,1102548
+48113,"Dallas, TX",1,Real GDP (thousands of chained 2017 dollars),248044414,258127596,269487935,263512844,283619145,297641177,304515038
+48113,"Dallas, TX",2,Chain-type quantity indexes for real GDP,100,104.065,108.645,106.236,114.342,119.995,122.766
+48113,"Dallas, TX",3,Current-dollar GDP (thousands of current dollars),248044414,263230069,279331053,276817411,307972603,343622062,366068989
+48115,"Dawson, TX",1,Real GDP (thousands of chained 2017 dollars),618706,682543,640835,661308,635481,763757,983397
+48115,"Dawson, TX",2,Chain-type quantity indexes for real GDP,100,110.318,103.577,106.886,102.711,123.444,158.944
+48115,"Dawson, TX",3,Current-dollar GDP (thousands of current dollars),618706,726293,640682,602326,754823,1177616,1190823
+48117,"Deaf Smith, TX",1,Real GDP (thousands of chained 2017 dollars),1598475,1525222,1437031,1402149,1395159,1352903,1700261
+48117,"Deaf Smith, TX",2,Chain-type quantity indexes for real GDP,100,95.417,89.9,87.718,87.281,84.637,106.368
+48117,"Deaf Smith, TX",3,Current-dollar GDP (thousands of current dollars),1598475,1500106,1423943,1392147,1670041,1909884,2311607
+48119,"Delta, TX",1,Real GDP (thousands of chained 2017 dollars),103045,93317,104126,102228,103354,97403,112243
+48119,"Delta, TX",2,Chain-type quantity indexes for real GDP,100,90.56,101.049,99.207,100.3,94.525,108.926
+48119,"Delta, TX",3,Current-dollar GDP (thousands of current dollars),103045,94189,107147,107222,119128,123811,144165
+48121,"Denton, TX",1,Real GDP (thousands of chained 2017 dollars),32503089,33816542,36317647,39874794,43526928,46954267,48275771
+48121,"Denton, TX",2,Chain-type quantity indexes for real GDP,100,104.041,111.736,122.68,133.916,144.461,148.527
+48121,"Denton, TX",3,Current-dollar GDP (thousands of current dollars),32503089,34525514,37825473,42157989,47905688,55766786,59917261
+48123,"DeWitt, TX",1,Real GDP (thousands of chained 2017 dollars),4197836,3894098,3996293,3497495,3249045,2614929,3451192
+48123,"DeWitt, TX",2,Chain-type quantity indexes for real GDP,100,92.764,95.199,83.317,77.398,62.292,82.214
+48123,"DeWitt, TX",3,Current-dollar GDP (thousands of current dollars),4197836,4653204,3745970,2206354,4071420,5115968,4238539
+48125,"Dickens, TX",1,Real GDP (thousands of chained 2017 dollars),97336,96084,92255,89796,86504,94365,104177
+48125,"Dickens, TX",2,Chain-type quantity indexes for real GDP,100,98.714,94.78,92.254,88.872,96.948,107.029
+48125,"Dickens, TX",3,Current-dollar GDP (thousands of current dollars),97336,102471,93431,84995,97654,125312,122866
+48127,"Dimmit, TX",1,Real GDP (thousands of chained 2017 dollars),3522575,3435674,3622985,2851498,2338789,2068829,3291229
+48127,"Dimmit, TX",2,Chain-type quantity indexes for real GDP,100,97.533,102.85,80.949,66.394,58.731,93.432
+48127,"Dimmit, TX",3,Current-dollar GDP (thousands of current dollars),3522575,4130446,3367270,1700414,2910670,4124767,3929245
+48129,"Donley, TX",1,Real GDP (thousands of chained 2017 dollars),126180,131314,119559,122992,126730,122296,143417
+48129,"Donley, TX",2,Chain-type quantity indexes for real GDP,100,104.069,94.753,97.474,100.436,96.922,113.661
+48129,"Donley, TX",3,Current-dollar GDP (thousands of current dollars),126180,133420,123774,128979,149024,160345,185265
+48131,"Duval, TX",1,Real GDP (thousands of chained 2017 dollars),326665,345335,334451,311148,317152,307129,326178
+48131,"Duval, TX",2,Chain-type quantity indexes for real GDP,100,105.715,102.384,95.25,97.088,94.02,99.851
+48131,"Duval, TX",3,Current-dollar GDP (thousands of current dollars),326665,363565,341725,301345,344056,388619,389743
+48133,"Eastland, TX",1,Real GDP (thousands of chained 2017 dollars),687809,797118,763947,701997,718178,744207,766362
+48133,"Eastland, TX",2,Chain-type quantity indexes for real GDP,100,115.892,111.07,102.063,104.415,108.2,111.421
+48133,"Eastland, TX",3,Current-dollar GDP (thousands of current dollars),687809,814337,788537,710245,793289,885475,906641
+48135,"Ector, TX",1,Real GDP (thousands of chained 2017 dollars),10478298,12490648,12974711,10939236,10833941,11688075,13041630
+48135,"Ector, TX",2,Chain-type quantity indexes for real GDP,100,119.205,123.825,104.399,103.394,111.546,124.463
+48135,"Ector, TX",3,Current-dollar GDP (thousands of current dollars),10478298,12819855,13276799,10755525,11584049,14374961,15658079
+48137,"Edwards, TX",1,Real GDP (thousands of chained 2017 dollars),68723,65857,66215,76918,76050,69521,81642
+48137,"Edwards, TX",2,Chain-type quantity indexes for real GDP,100,95.829,96.35,111.925,110.661,101.161,118.798
+48137,"Edwards, TX",3,Current-dollar GDP (thousands of current dollars),68723,69573,68245,78605,84421,87984,96693
+48139,"Ellis, TX",1,Real GDP (thousands of chained 2017 dollars),5887929,6361104,6521681,6339301,6795974,7356220,7787990
+48139,"Ellis, TX",2,Chain-type quantity indexes for real GDP,100,108.036,110.764,107.666,115.422,124.937,132.27
+48139,"Ellis, TX",3,Current-dollar GDP (thousands of current dollars),5887929,6568529,6828503,6701374,7634686,9143503,10050413
+48141,"El Paso, TX",1,Real GDP (thousands of chained 2017 dollars),30271960,31195934,32894612,32726132,35104392,35773006,37936526
+48141,"El Paso, TX",2,Chain-type quantity indexes for real GDP,100,103.052,108.664,108.107,115.963,118.172,125.319
+48141,"El Paso, TX",3,Current-dollar GDP (thousands of current dollars),30271960,32116390,34334686,34485408,39454613,44854685,48395254
+48143,"Erath, TX",1,Real GDP (thousands of chained 2017 dollars),1424460,1508340,1606237,1577649,1554284,1708778,1807296
+48143,"Erath, TX",2,Chain-type quantity indexes for real GDP,100,105.889,112.761,110.754,109.114,119.96,126.876
+48143,"Erath, TX",3,Current-dollar GDP (thousands of current dollars),1424460,1538051,1676313,1687100,1773708,2130046,2330834
+48145,"Falls, TX",1,Real GDP (thousands of chained 2017 dollars),354966,368309,381902,393659,384146,400837,482157
+48145,"Falls, TX",2,Chain-type quantity indexes for real GDP,100,103.759,107.588,110.9,108.221,112.923,135.832
+48145,"Falls, TX",3,Current-dollar GDP (thousands of current dollars),354966,377618,401833,426831,443675,498697,618431
+48147,"Fannin, TX",1,Real GDP (thousands of chained 2017 dollars),796048,884652,959600,934824,970652,1017006,1058428
+48147,"Fannin, TX",2,Chain-type quantity indexes for real GDP,100,111.13,120.545,117.433,121.934,127.757,132.96
+48147,"Fannin, TX",3,Current-dollar GDP (thousands of current dollars),796048,910246,1014037,1017164,1124545,1270513,1379524
+48149,"Fayette, TX",1,Real GDP (thousands of chained 2017 dollars),1586863,1545514,1605118,1567604,1666054,1602034,1671127
+48149,"Fayette, TX",2,Chain-type quantity indexes for real GDP,100,97.394,101.15,98.786,104.99,100.956,105.31
+48149,"Fayette, TX",3,Current-dollar GDP (thousands of current dollars),1586863,1606081,1661584,1568491,1948565,2199137,2098480
+48151,"Fisher, TX",1,Real GDP (thousands of chained 2017 dollars),158994,213339,200593,209171,270215,356550,419352
+48151,"Fisher, TX",2,Chain-type quantity indexes for real GDP,100,134.18,126.163,131.559,169.953,224.253,263.753
+48151,"Fisher, TX",3,Current-dollar GDP (thousands of current dollars),158994,226979,199763,183502,332434,601655,499479
+48153,"Floyd, TX",1,Real GDP (thousands of chained 2017 dollars),315667,298834,350623,280387,347407,351886,314213
+48153,"Floyd, TX",2,Chain-type quantity indexes for real GDP,100,94.667,111.074,88.824,110.055,111.474,99.539
+48153,"Floyd, TX",3,Current-dollar GDP (thousands of current dollars),315667,304103,363623,291149,417461,493463,426279
+48155,"Foard, TX",1,Real GDP (thousands of chained 2017 dollars),28388,40900,51821,92321,95500,108661,108911
+48155,"Foard, TX",2,Chain-type quantity indexes for real GDP,100,144.077,182.547,325.216,336.414,382.776,383.656
+48155,"Foard, TX",3,Current-dollar GDP (thousands of current dollars),28388,42386,53200,93354,111213,144490,136910
+48157,"Fort Bend, TX",1,Real GDP (thousands of chained 2017 dollars),27576129,29522284,31347685,30930747,32474693,34407483,36644969
+48157,"Fort Bend, TX",2,Chain-type quantity indexes for real GDP,100,107.057,113.677,112.165,117.764,124.773,132.887
+48157,"Fort Bend, TX",3,Current-dollar GDP (thousands of current dollars),27576129,30225470,32666692,32405483,35957332,41368894,45936809
+48159,"Franklin, TX",1,Real GDP (thousands of chained 2017 dollars),376427,396378,384280,374505,403356,456085,479858
+48159,"Franklin, TX",2,Chain-type quantity indexes for real GDP,100,105.3,102.086,99.49,107.154,121.162,127.477
+48159,"Franklin, TX",3,Current-dollar GDP (thousands of current dollars),376427,404835,389576,377137,454891,594235,610194
+48161,"Freestone, TX",1,Real GDP (thousands of chained 2017 dollars),1362994,980862,1010663,933897,887193,908746,1012281
+48161,"Freestone, TX",2,Chain-type quantity indexes for real GDP,100,71.964,74.15,68.518,65.091,66.673,74.269
+48161,"Freestone, TX",3,Current-dollar GDP (thousands of current dollars),1362994,1052782,1035751,877646,1052527,1318116,1319999
+48163,"Frio, TX",1,Real GDP (thousands of chained 2017 dollars),1104552,1205168,1187823,1027591,1063161,1032340,1263621
+48163,"Frio, TX",2,Chain-type quantity indexes for real GDP,100,109.109,107.539,93.032,96.253,93.462,114.401
+48163,"Frio, TX",3,Current-dollar GDP (thousands of current dollars),1104552,1291137,1184378,902929,1202238,1507373,1504911
+48165,"Gaines, TX",1,Real GDP (thousands of chained 2017 dollars),1901840,1755033,1958758,1851636,1661889,1544314,1998582
+48165,"Gaines, TX",2,Chain-type quantity indexes for real GDP,100,92.281,102.993,97.36,87.383,81.201,105.087
+48165,"Gaines, TX",3,Current-dollar GDP (thousands of current dollars),1901840,2019159,1894402,1382994,2039436,2731151,2554686
+48167,"Galveston, TX",1,Real GDP (thousands of chained 2017 dollars),15188107,15365270,15802738,15145787,16707952,17287088,18778210
+48167,"Galveston, TX",2,Chain-type quantity indexes for real GDP,100,101.166,104.047,99.721,110.007,113.82,123.638
+48167,"Galveston, TX",3,Current-dollar GDP (thousands of current dollars),15188107,16560525,16705510,15563073,19486034,24672601,25832933
+48169,"Garza, TX",1,Real GDP (thousands of chained 2017 dollars),240811,234310,251575,217082,220686,199534,244219
+48169,"Garza, TX",2,Chain-type quantity indexes for real GDP,100,97.3,104.47,90.146,91.643,82.859,101.415
+48169,"Garza, TX",3,Current-dollar GDP (thousands of current dollars),240811,259830,248702,179053,250683,301772,291119
+48171,"Gillespie, TX",1,Real GDP (thousands of chained 2017 dollars),993482,1033712,1123128,1132131,1264927,1352180,1357895
+48171,"Gillespie, TX",2,Chain-type quantity indexes for real GDP,100,104.049,113.05,113.956,127.323,136.105,136.68
+48171,"Gillespie, TX",3,Current-dollar GDP (thousands of current dollars),993482,1056334,1179094,1224373,1417735,1612974,1723281
+48173,"Glasscock, TX",1,Real GDP (thousands of chained 2017 dollars),1715900,2186202,2624310,2553161,2179425,2009356,3697934
+48173,"Glasscock, TX",2,Chain-type quantity indexes for real GDP,100,127.408,152.941,148.794,127.014,117.102,215.51
+48173,"Glasscock, TX",3,Current-dollar GDP (thousands of current dollars),1715900,2697604,2388579,1341705,2923000,4633244,4569298
+48175,"Goliad, TX",1,Real GDP (thousands of chained 2017 dollars),320313,311437,305550,261234,305026,278742,300533
+48175,"Goliad, TX",2,Chain-type quantity indexes for real GDP,100,97.229,95.391,81.556,95.227,87.022,93.825
+48175,"Goliad, TX",3,Current-dollar GDP (thousands of current dollars),320313,326270,319403,267305,355928,367338,385232
+48177,"Gonzales, TX",1,Real GDP (thousands of chained 2017 dollars),2448894,2459568,2807960,2526528,2528064,2275953,2938995
+48177,"Gonzales, TX",2,Chain-type quantity indexes for real GDP,100,100.436,114.662,103.17,103.233,92.938,120.013
+48177,"Gonzales, TX",3,Current-dollar GDP (thousands of current dollars),2448894,2817066,2643019,1738699,3126799,4195890,3656977
+48179,"Gray, TX",1,Real GDP (thousands of chained 2017 dollars),991169,1047021,1019422,971089,949373,980194,1088436
+48179,"Gray, TX",2,Chain-type quantity indexes for real GDP,100,105.635,102.85,97.974,95.783,98.893,109.813
+48179,"Gray, TX",3,Current-dollar GDP (thousands of current dollars),991169,1077649,1043982,972056,1068285,1267526,1377873
+48181,"Grayson, TX",1,Real GDP (thousands of chained 2017 dollars),4703414,4970642,5018905,4916806,5307070,5517752,5883798
+48181,"Grayson, TX",2,Chain-type quantity indexes for real GDP,100,105.682,106.708,104.537,112.834,117.314,125.096
+48181,"Grayson, TX",3,Current-dollar GDP (thousands of current dollars),4703414,5079264,5222917,5225328,5889103,6553883,7289716
+48183,"Gregg, TX",1,Real GDP (thousands of chained 2017 dollars),7304760,7740949,7870788,7271998,7595653,7967397,8348898
+48183,"Gregg, TX",2,Chain-type quantity indexes for real GDP,100,105.971,107.749,99.552,103.982,109.071,114.294
+48183,"Gregg, TX",3,Current-dollar GDP (thousands of current dollars),7304760,7889991,8151566,7539385,8247822,9482492,10229320
+48185,"Grimes, TX",1,Real GDP (thousands of chained 2017 dollars),1028934,1059692,1059954,994813,982211,1090959,1158490
+48185,"Grimes, TX",2,Chain-type quantity indexes for real GDP,100,102.989,103.015,96.684,95.459,106.028,112.591
+48185,"Grimes, TX",3,Current-dollar GDP (thousands of current dollars),1028934,1093779,1114674,1052587,1118130,1381031,1503579
+48187,"Guadalupe, TX",1,Real GDP (thousands of chained 2017 dollars),5945004,6150638,7516017,7744865,8906758,10187447,10710792
+48187,"Guadalupe, TX",2,Chain-type quantity indexes for real GDP,100,103.459,126.426,130.275,149.819,171.361,180.165
+48187,"Guadalupe, TX",3,Current-dollar GDP (thousands of current dollars),5945004,6247632,7728679,8020505,9084120,10870159,12298290
+48189,"Hale, TX",1,Real GDP (thousands of chained 2017 dollars),1116105,1151322,1269485,1277794,1252753,1315992,1352516
+48189,"Hale, TX",2,Chain-type quantity indexes for real GDP,100,103.155,113.742,114.487,112.243,117.909,121.182
+48189,"Hale, TX",3,Current-dollar GDP (thousands of current dollars),1116105,1184002,1310975,1319900,1460880,1752842,1767411
+48191,"Hall, TX",1,Real GDP (thousands of chained 2017 dollars),81177,71487,73626,71528,98602,86998,95176
+48191,"Hall, TX",2,Chain-type quantity indexes for real GDP,100,88.063,90.697,88.113,121.465,107.171,117.244
+48191,"Hall, TX",3,Current-dollar GDP (thousands of current dollars),81177,72285,75697,75507,114568,114628,123447
+48193,"Hamilton, TX",1,Real GDP (thousands of chained 2017 dollars),228167,237586,249932,263821,257567,270269,287600
+48193,"Hamilton, TX",2,Chain-type quantity indexes for real GDP,100,104.128,109.539,115.626,112.885,118.452,126.048
+48193,"Hamilton, TX",3,Current-dollar GDP (thousands of current dollars),228167,243263,263491,287636,294331,330509,366625
+48195,"Hansford, TX",1,Real GDP (thousands of chained 2017 dollars),563434,507505,514115,467940,459885,446879,754715
+48195,"Hansford, TX",2,Chain-type quantity indexes for real GDP,100,90.073,91.247,83.051,81.622,79.313,133.949
+48195,"Hansford, TX",3,Current-dollar GDP (thousands of current dollars),563434,509143,502878,439534,563658,684909,1059422
+48197,"Hardeman, TX",1,Real GDP (thousands of chained 2017 dollars),155863,166675,167801,196870,204319,223733,221999
+48197,"Hardeman, TX",2,Chain-type quantity indexes for real GDP,100,106.937,107.66,126.31,131.089,143.544,142.432
+48197,"Hardeman, TX",3,Current-dollar GDP (thousands of current dollars),155863,175989,169283,190539,232602,299272,276255
+48199,"Hardin, TX",1,Real GDP (thousands of chained 2017 dollars),1337835,1406916,1345762,1276893,1352164,1359570,1390239
+48199,"Hardin, TX",2,Chain-type quantity indexes for real GDP,100,105.164,100.593,95.445,101.071,101.625,103.917
+48199,"Hardin, TX",3,Current-dollar GDP (thousands of current dollars),1337835,1447314,1395629,1338478,1524703,1681769,1750193
+48201,"Harris, TX",1,Real GDP (thousands of chained 2017 dollars),377601083,391034432,383052139,375485710,393247205,409324110,429677330
+48201,"Harris, TX",2,Chain-type quantity indexes for real GDP,100,103.558,101.444,99.44,104.144,108.401,113.791
+48201,"Harris, TX",3,Current-dollar GDP (thousands of current dollars),377601083,403789170,399251991,387310504,436293567,503684095,542011920
+48203,"Harrison, TX",1,Real GDP (thousands of chained 2017 dollars),4142405,4474670,4124763,3945538,4146063,4279430,4379512
+48203,"Harrison, TX",2,Chain-type quantity indexes for real GDP,100,108.021,99.574,95.248,100.088,103.308,105.724
+48203,"Harrison, TX",3,Current-dollar GDP (thousands of current dollars),4142405,4624135,4184712,3781043,4906218,6332446,5606627
+48205,"Hartley, TX",1,Real GDP (thousands of chained 2017 dollars),772238,702144,743710,710797,689302,631974,875605
+48205,"Hartley, TX",2,Chain-type quantity indexes for real GDP,100,90.923,96.306,92.044,89.26,81.837,113.386
+48205,"Hartley, TX",3,Current-dollar GDP (thousands of current dollars),772238,683562,718562,676614,849847,977245,1241678
+48207,"Haskell, TX",1,Real GDP (thousands of chained 2017 dollars),215504,258967,298786,274814,284757,312792,383869
+48207,"Haskell, TX",2,Chain-type quantity indexes for real GDP,100,120.168,138.645,127.521,132.135,145.144,178.126
+48207,"Haskell, TX",3,Current-dollar GDP (thousands of current dollars),215504,271187,306238,269551,339324,441128,500080
+48209,"Hays, TX",1,Real GDP (thousands of chained 2017 dollars),7249219,7761570,8431102,8431820,9236601,10141695,10939214
+48209,"Hays, TX",2,Chain-type quantity indexes for real GDP,100,107.068,116.304,116.313,127.415,139.901,150.902
+48209,"Hays, TX",3,Current-dollar GDP (thousands of current dollars),7249219,7974904,8852717,9043203,10415474,12412837,14027032
+48211,"Hemphill, TX",1,Real GDP (thousands of chained 2017 dollars),708416,592612,583314,504649,434332,346145,403534
+48211,"Hemphill, TX",2,Chain-type quantity indexes for real GDP,100,83.653,82.341,71.236,61.31,48.862,56.963
+48211,"Hemphill, TX",3,Current-dollar GDP (thousands of current dollars),708416,684104,558008,361046,538151,639886,520799
+48213,"Henderson, TX",1,Real GDP (thousands of chained 2017 dollars),1721227,1741260,1825800,1850846,1827090,1903255,2004026
+48213,"Henderson, TX",2,Chain-type quantity indexes for real GDP,100,101.164,106.076,107.531,106.15,110.575,116.43
+48213,"Henderson, TX",3,Current-dollar GDP (thousands of current dollars),1721227,1793311,1910487,1979221,2064503,2324068,2543051
+48215,"Hidalgo, TX",1,Real GDP (thousands of chained 2017 dollars),20721197,21184628,21991095,21525990,22681955,23108370,23993556
+48215,"Hidalgo, TX",2,Chain-type quantity indexes for real GDP,100,102.237,106.128,103.884,109.463,111.52,115.792
+48215,"Hidalgo, TX",3,Current-dollar GDP (thousands of current dollars),20721197,21688589,23024066,23167379,25690478,28069132,30225234
+48217,"Hill, TX",1,Real GDP (thousands of chained 2017 dollars),888603,943412,978427,938534,1035875,1137965,1194810
+48217,"Hill, TX",2,Chain-type quantity indexes for real GDP,100,106.168,110.108,105.619,116.573,128.062,134.459
+48217,"Hill, TX",3,Current-dollar GDP (thousands of current dollars),888603,972778,1030479,1009189,1184294,1433510,1554820
+48219,"Hockley, TX",1,Real GDP (thousands of chained 2017 dollars),1630777,1701134,1756085,1508964,1503304,1439587,1698842
+48219,"Hockley, TX",2,Chain-type quantity indexes for real GDP,100,104.314,107.684,92.53,92.183,88.276,104.174
+48219,"Hockley, TX",3,Current-dollar GDP (thousands of current dollars),1630777,1837575,1721605,1224851,1661207,2104995,1982709
+48221,"Hood, TX",1,Real GDP (thousands of chained 2017 dollars),2101562,2309135,2466581,2217332,2336628,2565239,2788369
+48221,"Hood, TX",2,Chain-type quantity indexes for real GDP,100,109.877,117.369,105.509,111.185,122.063,132.681
+48221,"Hood, TX",3,Current-dollar GDP (thousands of current dollars),2101562,2371220,2568130,2312648,2641083,3207314,3536553
+48223,"Hopkins, TX",1,Real GDP (thousands of chained 2017 dollars),1426210,1533307,1661619,1579009,1628822,1809397,1889071
+48223,"Hopkins, TX",2,Chain-type quantity indexes for real GDP,100,107.509,116.506,110.714,114.206,126.868,132.454
+48223,"Hopkins, TX",3,Current-dollar GDP (thousands of current dollars),1426210,1551837,1707622,1647238,1824283,2218739,2357655
+48225,"Houston, TX",1,Real GDP (thousands of chained 2017 dollars),876745,908368,923362,911234,893445,895438,944423
+48225,"Houston, TX",2,Chain-type quantity indexes for real GDP,100,103.607,105.317,103.934,101.905,102.132,107.719
+48225,"Houston, TX",3,Current-dollar GDP (thousands of current dollars),876745,942812,965388,947456,1017364,1136741,1225271
+48227,"Howard, TX",1,Real GDP (thousands of chained 2017 dollars),3501424,4514213,5695839,5722202,6184553,5828093,9035206
+48227,"Howard, TX",2,Chain-type quantity indexes for real GDP,100,128.925,162.672,163.425,176.63,166.449,258.044
+48227,"Howard, TX",3,Current-dollar GDP (thousands of current dollars),3501424,5292776,5382567,3686430,8146651,12459571,11413857
+48229,"Hudspeth, TX",1,Real GDP (thousands of chained 2017 dollars),137571,156459,158214,154961,157670,156775,175870
+48229,"Hudspeth, TX",2,Chain-type quantity indexes for real GDP,100,113.73,115.005,112.641,114.61,113.959,127.839
+48229,"Hudspeth, TX",3,Current-dollar GDP (thousands of current dollars),137571,158831,163423,162924,175546,186874,213909
+48231,"Hunt, TX",1,Real GDP (thousands of chained 2017 dollars),4381391,4634922,4354088,4211955,4540267,4702099,5173197
+48231,"Hunt, TX",2,Chain-type quantity indexes for real GDP,100,105.787,99.377,96.133,103.626,107.32,118.072
+48231,"Hunt, TX",3,Current-dollar GDP (thousands of current dollars),4381391,4702115,4506895,4480752,4953667,5377306,6203934
+48233,"Hutchinson, TX",1,Real GDP (thousands of chained 2017 dollars),4261872,4259097,3669191,3140580,4321413,4105789,5289528
+48233,"Hutchinson, TX",2,Chain-type quantity indexes for real GDP,100,99.935,86.093,73.69,101.397,96.338,124.113
+48233,"Hutchinson, TX",3,Current-dollar GDP (thousands of current dollars),4261872,5389008,3907603,2402025,5534205,8931746,9283390
+48235,"Irion, TX",1,Real GDP (thousands of chained 2017 dollars),809921,715050,935662,870926,744581,665698,916822
+48235,"Irion, TX",2,Chain-type quantity indexes for real GDP,100,88.286,115.525,107.532,91.933,82.193,113.199
+48235,"Irion, TX",3,Current-dollar GDP (thousands of current dollars),809921,872513,856604,485599,941886,1391775,1097370
+48237,"Jack, TX",1,Real GDP (thousands of chained 2017 dollars),522639,583807,433679,429219,434249,427610,410804
+48237,"Jack, TX",2,Chain-type quantity indexes for real GDP,100,111.704,82.979,82.125,83.088,81.817,78.602
+48237,"Jack, TX",3,Current-dollar GDP (thousands of current dollars),522639,601553,436623,404343,485865,571854,507065
+48239,"Jackson, TX",1,Real GDP (thousands of chained 2017 dollars),627020,690951,719743,613906,608927,572533,607084
+48239,"Jackson, TX",2,Chain-type quantity indexes for real GDP,100,110.196,114.788,97.909,97.114,91.31,96.82
+48239,"Jackson, TX",3,Current-dollar GDP (thousands of current dollars),627020,719774,731376,598567,665121,735317,770061
+48241,"Jasper, TX",1,Real GDP (thousands of chained 2017 dollars),1004787,1019472,997250,977510,1014039,1006919,1047339
+48241,"Jasper, TX",2,Chain-type quantity indexes for real GDP,100,101.462,99.25,97.285,100.921,100.212,104.235
+48241,"Jasper, TX",3,Current-dollar GDP (thousands of current dollars),1004787,1055456,1029497,1006484,1143359,1261885,1329769
+48243,"Jeff Davis, TX",1,Real GDP (thousands of chained 2017 dollars),64233,67744,66196,64278,70963,72302,78615
+48243,"Jeff Davis, TX",2,Chain-type quantity indexes for real GDP,100,105.466,103.056,100.069,110.477,112.562,122.39
+48243,"Jeff Davis, TX",3,Current-dollar GDP (thousands of current dollars),64233,69694,69940,69099,79508,86979,98506
+48245,"Jefferson, TX",1,Real GDP (thousands of chained 2017 dollars),19546250,20441199,20559671,17063284,17219938,17036039,18212967
+48245,"Jefferson, TX",2,Chain-type quantity indexes for real GDP,100,104.579,105.185,87.297,88.098,87.158,93.179
+48245,"Jefferson, TX",3,Current-dollar GDP (thousands of current dollars),19546250,22273798,21469002,16528757,19395805,23217197,24250052
+48247,"Jim Hogg, TX",1,Real GDP (thousands of chained 2017 dollars),173320,168142,170935,172420,164382,160554,174176
+48247,"Jim Hogg, TX",2,Chain-type quantity indexes for real GDP,100,97.013,98.624,99.481,94.843,92.635,100.494
+48247,"Jim Hogg, TX",3,Current-dollar GDP (thousands of current dollars),173320,177037,176265,171994,188223,210038,218218
+48249,"Jim Wells, TX",1,Real GDP (thousands of chained 2017 dollars),1595209,1859355,1852863,1379949,1509043,1605779,1653705
+48249,"Jim Wells, TX",2,Chain-type quantity indexes for real GDP,100,116.559,116.152,86.506,94.598,100.663,103.667
+48249,"Jim Wells, TX",3,Current-dollar GDP (thousands of current dollars),1595209,1832924,1879104,1384282,1490917,1736994,1861624
+48251,"Johnson, TX",1,Real GDP (thousands of chained 2017 dollars),5737907,5773737,5817568,5731833,6199690,6524162,6669340
+48251,"Johnson, TX",2,Chain-type quantity indexes for real GDP,100,100.624,101.388,99.894,108.048,113.703,116.233
+48251,"Johnson, TX",3,Current-dollar GDP (thousands of current dollars),5737907,6005505,6065159,5993285,7108100,8455823,8839522
+48253,"Jones, TX",1,Real GDP (thousands of chained 2017 dollars),419229,408042,424614,424059,461825,509326,486136
+48253,"Jones, TX",2,Chain-type quantity indexes for real GDP,100,97.331,101.284,101.152,110.16,121.491,115.959
+48253,"Jones, TX",3,Current-dollar GDP (thousands of current dollars),419229,422073,443932,451051,536875,667148,622478
+48255,"Karnes, TX",1,Real GDP (thousands of chained 2017 dollars),6153979,6171233,6653682,5701136,5447997,4650771,6153388
+48255,"Karnes, TX",2,Chain-type quantity indexes for real GDP,100,100.28,108.12,92.641,88.528,75.573,99.99
+48255,"Karnes, TX",3,Current-dollar GDP (thousands of current dollars),6153979,7556897,6099081,3158923,7045885,10081226,7443726
+48257,"Kaufman, TX",1,Real GDP (thousands of chained 2017 dollars),3416434,3586380,3867539,3943921,4389754,4639909,5029048
+48257,"Kaufman, TX",2,Chain-type quantity indexes for real GDP,100,104.974,113.204,115.44,128.489,135.811,147.202
+48257,"Kaufman, TX",3,Current-dollar GDP (thousands of current dollars),3416434,3688671,4079192,4238384,4997932,5757619,6518286
+48259,"Kendall, TX",1,Real GDP (thousands of chained 2017 dollars),2000687,2137255,2207756,2086851,2239667,2450664,2660925
+48259,"Kendall, TX",2,Chain-type quantity indexes for real GDP,100,106.826,110.35,104.307,111.945,122.491,133.001
+48259,"Kendall, TX",3,Current-dollar GDP (thousands of current dollars),2000687,2184630,2307565,2241982,2512318,2949734,3359230
+48261,"Kenedy, TX",1,Real GDP (thousands of chained 2017 dollars),227129,234192,275987,206184,256500,248161,242735
+48261,"Kenedy, TX",2,Chain-type quantity indexes for real GDP,100,103.11,121.511,90.778,112.931,109.26,106.871
+48261,"Kenedy, TX",3,Current-dollar GDP (thousands of current dollars),227129,245822,274500,175376,312186,414416,320767
+48263,"Kent, TX",1,Real GDP (thousands of chained 2017 dollars),190205,178310,179138,157979,138251,115941,178909
+48263,"Kent, TX",2,Chain-type quantity indexes for real GDP,100,93.746,94.182,83.057,72.685,60.956,94.061
+48263,"Kent, TX",3,Current-dollar GDP (thousands of current dollars),190205,214620,165713,94465,177343,237424,222839
+48265,"Kerr, TX",1,Real GDP (thousands of chained 2017 dollars),1906339,2032463,2156656,2109568,2244757,2370969,2474023
+48265,"Kerr, TX",2,Chain-type quantity indexes for real GDP,100,106.616,113.131,110.661,117.752,124.373,129.779
+48265,"Kerr, TX",3,Current-dollar GDP (thousands of current dollars),1906339,2073550,2256123,2267196,2490907,2794847,3078066
+48267,"Kimble, TX",1,Real GDP (thousands of chained 2017 dollars),117167,132596,130118,133837,142924,145374,158642
+48267,"Kimble, TX",2,Chain-type quantity indexes for real GDP,100,113.169,111.053,114.228,121.983,124.074,135.398
+48267,"Kimble, TX",3,Current-dollar GDP (thousands of current dollars),117167,136154,136727,144389,162766,178358,200148
+48269,"King, TX",1,Real GDP (thousands of chained 2017 dollars),111950,105343,100590,83393,72650,65662,91216
+48269,"King, TX",2,Chain-type quantity indexes for real GDP,100,94.098,89.853,74.491,64.895,58.653,81.48
+48269,"King, TX",3,Current-dollar GDP (thousands of current dollars),111950,123182,92792,52042,93422,134039,115610
+48271,"Kinney, TX",1,Real GDP (thousands of chained 2017 dollars),108543,107119,110742,113973,111445,111430,117967
+48271,"Kinney, TX",2,Chain-type quantity indexes for real GDP,100,98.688,102.026,105.002,102.674,102.659,108.682
+48271,"Kinney, TX",3,Current-dollar GDP (thousands of current dollars),108543,110275,117169,122794,128742,137938,147521
+48273,"Kleberg, TX",1,Real GDP (thousands of chained 2017 dollars),1083898,1040904,1108383,1054918,1105157,1111708,1206495
+48273,"Kleberg, TX",2,Chain-type quantity indexes for real GDP,100,96.033,102.259,97.326,101.961,102.566,111.311
+48273,"Kleberg, TX",3,Current-dollar GDP (thousands of current dollars),1083898,1067537,1150175,1117552,1237575,1333847,1477990
+48275,"Knox, TX",1,Real GDP (thousands of chained 2017 dollars),136507,144875,142617,145348,189882,262322,262516
+48275,"Knox, TX",2,Chain-type quantity indexes for real GDP,100,106.13,104.476,106.476,139.1,192.168,192.309
+48275,"Knox, TX",3,Current-dollar GDP (thousands of current dollars),136507,149321,146164,145611,221321,351135,335614
+48277,"Lamar, TX",1,Real GDP (thousands of chained 2017 dollars),2620703,2796541,2703574,2480456,2637157,2725950,2768182
+48277,"Lamar, TX",2,Chain-type quantity indexes for real GDP,100,106.71,103.162,94.648,100.628,104.016,105.627
+48277,"Lamar, TX",3,Current-dollar GDP (thousands of current dollars),2620703,2824523,2782667,2598267,2852786,3178558,3433946
+48279,"Lamb, TX",1,Real GDP (thousands of chained 2017 dollars),784421,744694,729351,702156,684964,732749,814152
+48279,"Lamb, TX",2,Chain-type quantity indexes for real GDP,100,94.936,92.98,89.513,87.321,93.413,103.79
+48279,"Lamb, TX",3,Current-dollar GDP (thousands of current dollars),784421,751023,741484,709593,827785,1046937,1102864
+48281,"Lampasas, TX",1,Real GDP (thousands of chained 2017 dollars),457630,473038,502171,505815,509199,547083,555598
+48281,"Lampasas, TX",2,Chain-type quantity indexes for real GDP,100,103.367,109.733,110.529,111.269,119.547,121.408
+48281,"Lampasas, TX",3,Current-dollar GDP (thousands of current dollars),457630,482700,526292,549935,578913,666609,715159
+48283,"La Salle, TX",1,Real GDP (thousands of chained 2017 dollars),3358869,3476682,3798788,3006279,2910723,2216654,3137796
+48283,"La Salle, TX",2,Chain-type quantity indexes for real GDP,100,103.508,113.097,89.503,86.658,65.994,93.418
+48283,"La Salle, TX",3,Current-dollar GDP (thousands of current dollars),3358869,4192556,3488675,1677951,3683306,4651477,3750769
+48285,"Lavaca, TX",1,Real GDP (thousands of chained 2017 dollars),1066284,1110003,1224228,1108116,1090265,1096326,1311739
+48285,"Lavaca, TX",2,Chain-type quantity indexes for real GDP,100,104.1,114.813,103.923,102.249,102.817,123.02
+48285,"Lavaca, TX",3,Current-dollar GDP (thousands of current dollars),1066284,1190081,1199802,948225,1234946,1614645,1529351
+48287,"Lee, TX",1,Real GDP (thousands of chained 2017 dollars),842849,847378,981124,881856,860543,762578,891571
+48287,"Lee, TX",2,Chain-type quantity indexes for real GDP,100,100.537,116.406,104.628,102.099,90.476,105.781
+48287,"Lee, TX",3,Current-dollar GDP (thousands of current dollars),842849,884381,1015087,888534,979846,1030305,1130056
+48289,"Leon, TX",1,Real GDP (thousands of chained 2017 dollars),705484,687532,688958,693318,737346,748943,866668
+48289,"Leon, TX",2,Chain-type quantity indexes for real GDP,100,97.455,97.657,98.276,104.516,106.16,122.847
+48289,"Leon, TX",3,Current-dollar GDP (thousands of current dollars),705484,736330,703376,645203,843338,996873,1056485
+48291,"Liberty, TX",1,Real GDP (thousands of chained 2017 dollars),1958578,2133017,2223517,2102613,2244014,2368068,2512302
+48291,"Liberty, TX",2,Chain-type quantity indexes for real GDP,100,108.906,113.527,107.354,114.574,120.908,128.272
+48291,"Liberty, TX",3,Current-dollar GDP (thousands of current dollars),1958578,2190478,2325758,2226800,2500083,2880571,3149918
+48293,"Limestone, TX",1,Real GDP (thousands of chained 2017 dollars),1267240,1362952,1388034,1253733,1258535,1326271,1466241
+48293,"Limestone, TX",2,Chain-type quantity indexes for real GDP,100,107.553,109.532,98.934,99.313,104.658,115.704
+48293,"Limestone, TX",3,Current-dollar GDP (thousands of current dollars),1267240,1421912,1448913,1294733,1483744,1775043,1951076
+48295,"Lipscomb, TX",1,Real GDP (thousands of chained 2017 dollars),536796,489021,517454,484807,476290,446489,516972
+48295,"Lipscomb, TX",2,Chain-type quantity indexes for real GDP,100,91.1,96.397,90.315,88.728,83.177,96.307
+48295,"Lipscomb, TX",3,Current-dollar GDP (thousands of current dollars),536796,549775,515238,415939,563922,696017,663130
+48297,"Live Oak, TX",1,Real GDP (thousands of chained 2017 dollars),1284619,1171177,1490412,1249109,1300783,1366775,1925832
+48297,"Live Oak, TX",2,Chain-type quantity indexes for real GDP,100,91.169,116.02,97.236,101.258,106.395,149.915
+48297,"Live Oak, TX",3,Current-dollar GDP (thousands of current dollars),1284619,1388663,1441302,860513,1612006,2688495,2461641
+48299,"Llano, TX",1,Real GDP (thousands of chained 2017 dollars),738973,724008,753021,756101,773044,821358,896144
+48299,"Llano, TX",2,Chain-type quantity indexes for real GDP,100,97.975,101.901,102.318,104.611,111.149,121.269
+48299,"Llano, TX",3,Current-dollar GDP (thousands of current dollars),738973,745252,796776,812626,882477,1013400,1149769
+48301,"Loving, TX",1,Real GDP (thousands of chained 2017 dollars),3228124,4400055,5916987,6164955,5960139,5255204,8297119
+48301,"Loving, TX",2,Chain-type quantity indexes for real GDP,100,136.304,183.295,190.976,184.632,162.794,257.026
+48301,"Loving, TX",3,Current-dollar GDP (thousands of current dollars),3228124,5495871,5335687,3039085,8055997,12470337,10235595
+48303,"Lubbock, TX",1,Real GDP (thousands of chained 2017 dollars),13267508,13599091,13980401,13997675,14408086,14664750,15144655
+48303,"Lubbock, TX",2,Chain-type quantity indexes for real GDP,100,102.499,105.373,105.503,108.597,110.531,114.148
+48303,"Lubbock, TX",3,Current-dollar GDP (thousands of current dollars),13267508,13906031,14628522,15051299,16139764,17541348,18885771
+48305,"Lynn, TX",1,Real GDP (thousands of chained 2017 dollars),175411,192913,215500,260985,305631,374001,346025
+48305,"Lynn, TX",2,Chain-type quantity indexes for real GDP,100,109.977,122.854,148.785,174.237,213.214,197.265
+48305,"Lynn, TX",3,Current-dollar GDP (thousands of current dollars),175411,198825,222514,268095,355444,496032,441939
+48307,"McCulloch, TX",1,Real GDP (thousands of chained 2017 dollars),358980,377750,335337,313443,311484,333190,366199
+48307,"McCulloch, TX",2,Chain-type quantity indexes for real GDP,100,105.229,93.414,87.315,86.769,92.816,102.011
+48307,"McCulloch, TX",3,Current-dollar GDP (thousands of current dollars),358980,389967,352807,335093,361300,428652,481902
+48309,"McLennan, TX",1,Real GDP (thousands of chained 2017 dollars),12377748,12894071,12636295,12266429,13010008,13521577,14070337
+48309,"McLennan, TX",2,Chain-type quantity indexes for real GDP,100,104.171,102.089,99.101,105.108,109.241,113.674
+48309,"McLennan, TX",3,Current-dollar GDP (thousands of current dollars),12377748,13156516,13178914,13137466,14459448,16017012,17516788
+48311,"McMullen, TX",1,Real GDP (thousands of chained 2017 dollars),1593724,1439872,1617882,1395218,1136263,881194,1544293
+48311,"McMullen, TX",2,Chain-type quantity indexes for real GDP,100,90.346,101.516,87.545,71.296,55.291,96.898
+48311,"McMullen, TX",3,Current-dollar GDP (thousands of current dollars),1593724,1786347,1466777,714935,1501760,2004642,1884321
+48313,"Madison, TX",1,Real GDP (thousands of chained 2017 dollars),540221,508661,533440,504850,509287,498374,563256
+48313,"Madison, TX",2,Chain-type quantity indexes for real GDP,100,94.158,98.745,93.452,94.274,92.254,104.264
+48313,"Madison, TX",3,Current-dollar GDP (thousands of current dollars),540221,548969,535618,465569,570932,663956,686063
+48315,"Marion, TX",1,Real GDP (thousands of chained 2017 dollars),239062,249640,253328,249968,272314,260819,284063
+48315,"Marion, TX",2,Chain-type quantity indexes for real GDP,100,104.425,105.967,104.562,113.909,109.101,118.824
+48315,"Marion, TX",3,Current-dollar GDP (thousands of current dollars),239062,264168,263240,259885,326803,349956,367713
+48317,"Martin, TX",1,Real GDP (thousands of chained 2017 dollars),3014525,4141905,6297460,6537278,7018278,6429900,11396694
+48317,"Martin, TX",2,Chain-type quantity indexes for real GDP,100,137.398,208.904,216.859,232.815,213.297,378.059
+48317,"Martin, TX",3,Current-dollar GDP (thousands of current dollars),3014525,5100562,5716432,3380550,9526208,15162349,14166864
+48319,"Mason, TX",1,Real GDP (thousands of chained 2017 dollars),110763,117039,117467,113365,111938,114124,133027
+48319,"Mason, TX",2,Chain-type quantity indexes for real GDP,100,105.666,106.053,102.349,101.061,103.034,120.101
+48319,"Mason, TX",3,Current-dollar GDP (thousands of current dollars),110763,120419,124091,122884,125913,137432,166943
+48321,"Matagorda, TX",1,Real GDP (thousands of chained 2017 dollars),2189072,2054025,2285383,2225684,2258490,2268433,2418666
+48321,"Matagorda, TX",2,Chain-type quantity indexes for real GDP,100,93.831,104.4,101.672,103.171,103.625,110.488
+48321,"Matagorda, TX",3,Current-dollar GDP (thousands of current dollars),2189072,2117607,2400533,2328018,2647612,2963316,3130261
+48323,"Maverick, TX",1,Real GDP (thousands of chained 2017 dollars),1575758,1672797,1696289,1592720,1728376,1848382,2021842
+48323,"Maverick, TX",2,Chain-type quantity indexes for real GDP,100,106.158,107.649,101.076,109.685,117.301,128.309
+48323,"Maverick, TX",3,Current-dollar GDP (thousands of current dollars),1575758,1717124,1762255,1680487,1941349,2257819,2450851
+48325,"Medina, TX",1,Real GDP (thousands of chained 2017 dollars),986422,1036851,1098596,1075886,1106469,1161319,1231255
+48325,"Medina, TX",2,Chain-type quantity indexes for real GDP,100,105.112,111.372,109.069,112.17,117.73,124.82
+48325,"Medina, TX",3,Current-dollar GDP (thousands of current dollars),986422,1058867,1152025,1162476,1250789,1415032,1557075
+48327,"Menard, TX",1,Real GDP (thousands of chained 2017 dollars),43639,47890,48279,50913,49965,45800,52872
+48327,"Menard, TX",2,Chain-type quantity indexes for real GDP,100,109.741,110.631,116.669,114.495,104.951,121.157
+48327,"Menard, TX",3,Current-dollar GDP (thousands of current dollars),43639,50037,50373,53270,56945,57734,66146
+48329,"Midland, TX",1,Real GDP (thousands of chained 2017 dollars),18874725,23395416,26788649,24681178,24729314,24710072,32680851
+48329,"Midland, TX",2,Chain-type quantity indexes for real GDP,100,123.951,141.929,130.763,131.018,130.916,173.146
+48329,"Midland, TX",3,Current-dollar GDP (thousands of current dollars),18874725,25350281,26120279,19437644,28656795,39623719,39497707
+48331,"Milam, TX",1,Real GDP (thousands of chained 2017 dollars),900706,556058,623476,588790,630690,653270,722426
+48331,"Milam, TX",2,Chain-type quantity indexes for real GDP,100,61.736,69.221,65.37,70.022,72.529,80.207
+48331,"Milam, TX",3,Current-dollar GDP (thousands of current dollars),900706,577854,637262,580023,709995,857215,904461
+48333,"Mills, TX",1,Real GDP (thousands of chained 2017 dollars),155725,189540,211369,213784,208205,256378,305403
+48333,"Mills, TX",2,Chain-type quantity indexes for real GDP,100,121.714,135.732,137.283,133.7,164.635,196.116
+48333,"Mills, TX",3,Current-dollar GDP (thousands of current dollars),155725,193415,220510,226630,234564,309708,370474
+48335,"Mitchell, TX",1,Real GDP (thousands of chained 2017 dollars),333564,314404,313734,298933,280620,270991,344793
+48335,"Mitchell, TX",2,Chain-type quantity indexes for real GDP,100,94.256,94.055,89.618,84.128,81.241,103.366
+48335,"Mitchell, TX",3,Current-dollar GDP (thousands of current dollars),333564,349268,313556,259009,330362,409594,416398
+48337,"Montague, TX",1,Real GDP (thousands of chained 2017 dollars),767714,708374,699820,620584,649766,622040,646531
+48337,"Montague, TX",2,Chain-type quantity indexes for real GDP,100,92.271,91.156,80.835,84.636,81.025,84.215
+48337,"Montague, TX",3,Current-dollar GDP (thousands of current dollars),767714,764312,712329,578082,740175,873621,815216
+48339,"Montgomery, TX",1,Real GDP (thousands of chained 2017 dollars),26495280,30009488,31196053,31349670,32852850,34793123,37046507
+48339,"Montgomery, TX",2,Chain-type quantity indexes for real GDP,100,113.264,117.742,118.322,123.995,131.318,139.823
+48339,"Montgomery, TX",3,Current-dollar GDP (thousands of current dollars),26495280,30666817,32418565,32906392,36319667,41594670,45831701
+48341,"Moore, TX",1,Real GDP (thousands of chained 2017 dollars),1774158,2065446,2487404,2006942,2934395,2921770,3294078
+48341,"Moore, TX",2,Chain-type quantity indexes for real GDP,100,116.418,140.202,113.121,165.397,164.685,185.67
+48341,"Moore, TX",3,Current-dollar GDP (thousands of current dollars),1774158,2262293,2499450,1729523,3511199,5289920,5112919
+48343,"Morris, TX",1,Real GDP (thousands of chained 2017 dollars),556489,590070,568094,510679,560212,596750,646714
+48343,"Morris, TX",2,Chain-type quantity indexes for real GDP,100,106.034,102.085,91.768,100.669,107.235,116.213
+48343,"Morris, TX",3,Current-dollar GDP (thousands of current dollars),556489,634714,585564,481152,630100,809967,810894
+48345,"Motley, TX",1,Real GDP (thousands of chained 2017 dollars),26407,28163,28982,34341,27003,36928,44764
+48345,"Motley, TX",2,Chain-type quantity indexes for real GDP,100,106.646,109.751,130.044,102.254,139.839,169.513
+48345,"Motley, TX",3,Current-dollar GDP (thousands of current dollars),26407,29067,30139,35953,31972,49793,58285
+48347,"Nacogdoches, TX",1,Real GDP (thousands of chained 2017 dollars),2443129,2500528,2423688,2456231,2592076,2674682,2812840
+48347,"Nacogdoches, TX",2,Chain-type quantity indexes for real GDP,100,102.349,99.204,100.536,106.097,109.478,115.133
+48347,"Nacogdoches, TX",3,Current-dollar GDP (thousands of current dollars),2443129,2574677,2489190,2507881,3035823,3637225,3633472
+48349,"Navarro, TX",1,Real GDP (thousands of chained 2017 dollars),1526075,1627222,1633470,1541165,1607638,1666950,1787748
+48349,"Navarro, TX",2,Chain-type quantity indexes for real GDP,100,106.628,107.037,100.989,105.345,109.231,117.147
+48349,"Navarro, TX",3,Current-dollar GDP (thousands of current dollars),1526075,1666468,1702054,1635556,1785181,2003348,2242394
+48351,"Newton, TX",1,Real GDP (thousands of chained 2017 dollars),439312,460839,485945,428134,429400,469338,485650
+48351,"Newton, TX",2,Chain-type quantity indexes for real GDP,100,104.9,110.615,97.455,97.744,106.835,110.548
+48351,"Newton, TX",3,Current-dollar GDP (thousands of current dollars),439312,483642,509985,437518,518238,651422,629279
+48353,"Nolan, TX",1,Real GDP (thousands of chained 2017 dollars),877417,862937,919858,890874,952090,957317,1028173
+48353,"Nolan, TX",2,Chain-type quantity indexes for real GDP,100,98.35,104.837,101.534,108.511,109.106,117.182
+48353,"Nolan, TX",3,Current-dollar GDP (thousands of current dollars),877417,895419,958801,920016,1090982,1235865,1298619
+48355,"Nueces, TX",1,Real GDP (thousands of chained 2017 dollars),18743020,19303203,20055449,18266764,19486201,18977459,20228929
+48355,"Nueces, TX",2,Chain-type quantity indexes for real GDP,100,102.989,107.002,97.459,103.965,101.251,107.928
+48355,"Nueces, TX",3,Current-dollar GDP (thousands of current dollars),18743020,20483471,20980101,18505113,22124571,25709696,26938700
+48357,"Ochiltree, TX",1,Real GDP (thousands of chained 2017 dollars),1028767,991429,980405,813155,845715,758730,926669
+48357,"Ochiltree, TX",2,Chain-type quantity indexes for real GDP,100,96.371,95.299,79.042,82.207,73.751,90.076
+48357,"Ochiltree, TX",3,Current-dollar GDP (thousands of current dollars),1028767,1057839,960118,693325,973249,1145844,1167215
+48359,"Oldham, TX",1,Real GDP (thousands of chained 2017 dollars),288004,306536,275707,307847,301448,302261,345497
+48359,"Oldham, TX",2,Chain-type quantity indexes for real GDP,100,106.435,95.73,106.89,104.668,104.95,119.963
+48359,"Oldham, TX",3,Current-dollar GDP (thousands of current dollars),288004,312134,279287,303988,360770,423458,452213
+48361,"Orange, TX",1,Real GDP (thousands of chained 2017 dollars),3570084,3811611,3542155,3524825,3646894,3846683,4084085
+48361,"Orange, TX",2,Chain-type quantity indexes for real GDP,100,106.765,99.218,98.732,102.151,107.748,114.397
+48361,"Orange, TX",3,Current-dollar GDP (thousands of current dollars),3570084,3918155,3678695,3672562,4108896,4706507,5114381
+48363,"Palo Pinto, TX",1,Real GDP (thousands of chained 2017 dollars),988849,1071756,1086452,994580,978882,1000293,1044056
+48363,"Palo Pinto, TX",2,Chain-type quantity indexes for real GDP,100,108.384,109.87,100.58,98.992,101.157,105.583
+48363,"Palo Pinto, TX",3,Current-dollar GDP (thousands of current dollars),988849,1086725,1123528,1040794,1064442,1180144,1291325
+48365,"Panola, TX",1,Real GDP (thousands of chained 2017 dollars),1663424,1690070,1878750,1949026,2368740,2311820,2167161
+48365,"Panola, TX",2,Chain-type quantity indexes for real GDP,100,101.602,112.945,117.17,142.401,138.98,130.283
+48365,"Panola, TX",3,Current-dollar GDP (thousands of current dollars),1663424,1886628,1826512,1465380,3168054,4779303,2922750
+48367,"Parker, TX",1,Real GDP (thousands of chained 2017 dollars),4209685,4384703,4452342,4421841,4808434,5329905,5661099
+48367,"Parker, TX",2,Chain-type quantity indexes for real GDP,100,104.158,105.764,105.04,114.223,126.611,134.478
+48367,"Parker, TX",3,Current-dollar GDP (thousands of current dollars),4209685,4490388,4625247,4664149,5347906,6468682,7163171
+48369,"Parmer, TX",1,Real GDP (thousands of chained 2017 dollars),976264,919378,926642,958136,969289,981171,1098454
+48369,"Parmer, TX",2,Chain-type quantity indexes for real GDP,100,94.173,94.917,98.143,99.286,100.503,112.516
+48369,"Parmer, TX",3,Current-dollar GDP (thousands of current dollars),976264,906447,927608,973601,1136166,1312007,1452675
+48371,"Pecos, TX",1,Real GDP (thousands of chained 2017 dollars),1575454,1882725,2431893,2416013,2248594,1839308,2337916
+48371,"Pecos, TX",2,Chain-type quantity indexes for real GDP,100,119.504,154.361,153.353,142.727,116.748,148.396
+48371,"Pecos, TX",3,Current-dollar GDP (thousands of current dollars),1575454,2184579,2282542,1544993,2876247,3669330,2919865
+48373,"Polk, TX",1,Real GDP (thousands of chained 2017 dollars),1232138,1234007,1303731,1264226,1266390,1345528,1418490
+48373,"Polk, TX",2,Chain-type quantity indexes for real GDP,100,100.152,105.81,102.604,102.78,109.203,115.124
+48373,"Polk, TX",3,Current-dollar GDP (thousands of current dollars),1232138,1298324,1360587,1332816,1481183,1724313,1816364
+48375,"Potter, TX",1,Real GDP (thousands of chained 2017 dollars),7978353,8256449,8446594,8481220,8819396,8808074,8972937
+48375,"Potter, TX",2,Chain-type quantity indexes for real GDP,100,103.486,105.869,106.303,110.542,110.4,112.466
+48375,"Potter, TX",3,Current-dollar GDP (thousands of current dollars),7978353,8449412,8819568,9058926,9853080,10500883,11174726
+48377,"Presidio, TX",1,Real GDP (thousands of chained 2017 dollars),213429,227900,226845,225839,242243,236040,259174
+48377,"Presidio, TX",2,Chain-type quantity indexes for real GDP,100,106.78,106.286,105.814,113.501,110.594,121.433
+48377,"Presidio, TX",3,Current-dollar GDP (thousands of current dollars),213429,232784,236640,239934,278056,295700,332990
+48379,"Rains, TX",1,Real GDP (thousands of chained 2017 dollars),183130,196426,206023,219061,218152,231397,248778
+48379,"Rains, TX",2,Chain-type quantity indexes for real GDP,100,107.26,112.501,119.62,119.124,126.357,135.848
+48379,"Rains, TX",3,Current-dollar GDP (thousands of current dollars),183130,201586,217045,237294,248017,282475,318626
+48381,"Randall, TX",1,Real GDP (thousands of chained 2017 dollars),3822607,3876867,4042051,4104042,4276045,4272395,4568173
+48381,"Randall, TX",2,Chain-type quantity indexes for real GDP,100,101.419,105.741,107.362,111.862,111.767,119.504
+48381,"Randall, TX",3,Current-dollar GDP (thousands of current dollars),3822607,3940152,4202718,4374726,4803319,5190028,5775107
+48383,"Reagan, TX",1,Real GDP (thousands of chained 2017 dollars),2302906,2511314,3042732,2801904,2675598,2184414,3318525
+48383,"Reagan, TX",2,Chain-type quantity indexes for real GDP,100,109.05,132.126,121.668,116.184,94.855,144.102
+48383,"Reagan, TX",3,Current-dollar GDP (thousands of current dollars),2302906,3066925,2786164,1512960,3581714,4999462,4113866
+48385,"Real, TX",1,Real GDP (thousands of chained 2017 dollars),70424,72763,75011,78060,82776,77928,80492
+48385,"Real, TX",2,Chain-type quantity indexes for real GDP,100,103.321,106.513,110.842,117.538,110.655,114.296
+48385,"Real, TX",3,Current-dollar GDP (thousands of current dollars),70424,74756,78938,84005,93042,93667,101257
+48387,"Red River, TX",1,Real GDP (thousands of chained 2017 dollars),252489,255172,276641,293899,309677,324447,349007
+48387,"Red River, TX",2,Chain-type quantity indexes for real GDP,100,101.063,109.565,116.401,122.65,128.499,138.226
+48387,"Red River, TX",3,Current-dollar GDP (thousands of current dollars),252489,260704,289849,314772,344562,391695,434346
+48389,"Reeves, TX",1,Real GDP (thousands of chained 2017 dollars),5251844,6260557,11538361,10432880,9598746,7988532,11630083
+48389,"Reeves, TX",2,Chain-type quantity indexes for real GDP,100,119.207,219.701,198.652,182.769,152.109,221.448
+48389,"Reeves, TX",3,Current-dollar GDP (thousands of current dollars),5251844,7628442,10589697,5672488,12794792,18123100,14449142
+48391,"Refugio, TX",1,Real GDP (thousands of chained 2017 dollars),332992,329610,335078,302303,294494,357795,408407
+48391,"Refugio, TX",2,Chain-type quantity indexes for real GDP,100,98.984,100.626,90.784,88.439,107.449,122.648
+48391,"Refugio, TX",3,Current-dollar GDP (thousands of current dollars),332992,361134,335024,264402,344169,544206,491232
+48393,"Roberts, TX",1,Real GDP (thousands of chained 2017 dollars),281430,219456,219330,196607,174872,160320,181482
+48393,"Roberts, TX",2,Chain-type quantity indexes for real GDP,100,77.979,77.934,69.86,62.137,56.966,64.486
+48393,"Roberts, TX",3,Current-dollar GDP (thousands of current dollars),281430,260812,208325,131832,220864,308557,226048
+48395,"Robertson, TX",1,Real GDP (thousands of chained 2017 dollars),2004381,1877977,2033322,2080739,2137914,2248888,2488311
+48395,"Robertson, TX",2,Chain-type quantity indexes for real GDP,100,93.694,101.444,103.81,106.662,112.199,124.144
+48395,"Robertson, TX",3,Current-dollar GDP (thousands of current dollars),2004381,1978876,2140879,2105068,2559771,3173810,3296664
+48397,"Rockwall, TX",1,Real GDP (thousands of chained 2017 dollars),3310264,3700154,4569544,4521008,4796414,5201657,5651827
+48397,"Rockwall, TX",2,Chain-type quantity indexes for real GDP,100,111.778,138.042,136.575,144.895,157.137,170.736
+48397,"Rockwall, TX",3,Current-dollar GDP (thousands of current dollars),3310264,3845197,4712258,4536837,5266492,6616341,7253889
+48399,"Runnels, TX",1,Real GDP (thousands of chained 2017 dollars),289944,300427,304769,283485,300247,354525,327446
+48399,"Runnels, TX",2,Chain-type quantity indexes for real GDP,100,103.615,105.113,97.772,103.553,122.273,112.934
+48399,"Runnels, TX",3,Current-dollar GDP (thousands of current dollars),289944,310214,316499,297431,340717,453257,417847
+48401,"Rusk, TX",1,Real GDP (thousands of chained 2017 dollars),2373879,2406352,2413423,2428377,2406353,2392576,2415681
+48401,"Rusk, TX",2,Chain-type quantity indexes for real GDP,100,101.368,101.666,102.296,101.368,100.788,101.761
+48401,"Rusk, TX",3,Current-dollar GDP (thousands of current dollars),2373879,2535363,2487981,2403612,2826154,3301623,3118401
+48403,"Sabine, TX",1,Real GDP (thousands of chained 2017 dollars),219596,227224,227357,233305,242695,246676,290039
+48403,"Sabine, TX",2,Chain-type quantity indexes for real GDP,100,103.474,103.534,106.243,110.519,112.332,132.079
+48403,"Sabine, TX",3,Current-dollar GDP (thousands of current dollars),219596,236854,237215,247963,295698,326589,365621
+48405,"San Augustine, TX",1,Real GDP (thousands of chained 2017 dollars),466025,502816,654554,640191,877754,620727,728045
+48405,"San Augustine, TX",2,Chain-type quantity indexes for real GDP,100,107.895,140.455,137.373,188.349,133.196,156.225
+48405,"San Augustine, TX",3,Current-dollar GDP (thousands of current dollars),466025,582469,617648,421816,1199865,1355982,993448
+48407,"San Jacinto, TX",1,Real GDP (thousands of chained 2017 dollars),319510,324035,368466,350889,349303,367062,378294
+48407,"San Jacinto, TX",2,Chain-type quantity indexes for real GDP,100,101.416,115.322,109.821,109.324,114.883,118.398
+48407,"San Jacinto, TX",3,Current-dollar GDP (thousands of current dollars),319510,335635,388160,376573,399180,455444,486627
+48409,"San Patricio, TX",1,Real GDP (thousands of chained 2017 dollars),2329989,2456163,2529835,3204994,2913526,2877365,3105839
+48409,"San Patricio, TX",2,Chain-type quantity indexes for real GDP,100,105.415,108.577,137.554,125.045,123.493,133.298
+48409,"San Patricio, TX",3,Current-dollar GDP (thousands of current dollars),2329989,2527933,2641177,3340221,3315009,3682054,3992220
+48411,"San Saba, TX",1,Real GDP (thousands of chained 2017 dollars),161379,175290,181603,154640,149094,149859,160287
+48411,"San Saba, TX",2,Chain-type quantity indexes for real GDP,100,108.62,112.532,95.824,92.387,92.861,99.323
+48411,"San Saba, TX",3,Current-dollar GDP (thousands of current dollars),161379,180107,191452,166807,169132,182123,203777
+48413,"Schleicher, TX",1,Real GDP (thousands of chained 2017 dollars),109971,106815,129163,128550,120924,125518,133762
+48413,"Schleicher, TX",2,Chain-type quantity indexes for real GDP,100,97.13,117.451,116.894,109.959,114.137,121.633
+48413,"Schleicher, TX",3,Current-dollar GDP (thousands of current dollars),109971,116468,133468,123725,143582,181673,172757
+48415,"Scurry, TX",1,Real GDP (thousands of chained 2017 dollars),1570943,1607942,1605528,1467412,1459816,1362680,1631028
+48415,"Scurry, TX",2,Chain-type quantity indexes for real GDP,100,102.355,102.202,93.41,92.926,86.743,103.825
+48415,"Scurry, TX",3,Current-dollar GDP (thousands of current dollars),1570943,1792789,1565777,1143113,1756718,2303147,2042176
+48417,"Shackelford, TX",1,Real GDP (thousands of chained 2017 dollars),226567,253983,258175,237618,260493,289616,315480
+48417,"Shackelford, TX",2,Chain-type quantity indexes for real GDP,100,112.101,113.951,104.878,114.974,127.828,139.244
+48417,"Shackelford, TX",3,Current-dollar GDP (thousands of current dollars),226567,260740,263289,228353,268611,343875,366135
+48419,"Shelby, TX",1,Real GDP (thousands of chained 2017 dollars),1130100,1192808,1147884,1083637,1331075,1450592,1438094
+48419,"Shelby, TX",2,Chain-type quantity indexes for real GDP,100,105.549,101.574,95.889,117.784,128.36,127.254
+48419,"Shelby, TX",3,Current-dollar GDP (thousands of current dollars),1130100,1218357,1148414,1036483,1521127,2050446,1842937
+48421,"Sherman, TX",1,Real GDP (thousands of chained 2017 dollars),509742,426360,439385,384045,451652,321595,532950
+48421,"Sherman, TX",2,Chain-type quantity indexes for real GDP,100,83.642,86.198,75.341,88.604,63.09,104.553
+48421,"Sherman, TX",3,Current-dollar GDP (thousands of current dollars),509742,419035,419891,350217,573052,535593,774341
+48423,"Smith, TX",1,Real GDP (thousands of chained 2017 dollars),10500988,11028005,11480649,11180499,11726815,11990618,12494743
+48423,"Smith, TX",2,Chain-type quantity indexes for real GDP,100,105.019,109.329,106.471,111.673,114.186,118.986
+48423,"Smith, TX",3,Current-dollar GDP (thousands of current dollars),10500988,11343847,11950480,11748808,13140432,14744883,15683898
+48425,"Somervell, TX",1,Real GDP (thousands of chained 2017 dollars),1206404,1297063,1228780,1200761,1224869,1300058,1417721
+48425,"Somervell, TX",2,Chain-type quantity indexes for real GDP,100,107.515,101.855,99.532,101.531,107.763,117.516
+48425,"Somervell, TX",3,Current-dollar GDP (thousands of current dollars),1206404,1342484,1298949,1252906,1464346,1736398,1841159
+48427,"Starr, TX",1,Real GDP (thousands of chained 2017 dollars),1257124,1220752,1268636,1297590,1286522,1283503,1295181
+48427,"Starr, TX",2,Chain-type quantity indexes for real GDP,100,97.107,100.916,103.219,102.338,102.098,103.027
+48427,"Starr, TX",3,Current-dollar GDP (thousands of current dollars),1257124,1280477,1318721,1340792,1488092,1641354,1624168
+48429,"Stephens, TX",1,Real GDP (thousands of chained 2017 dollars),388097,391272,408557,380417,358876,338113,380693
+48429,"Stephens, TX",2,Chain-type quantity indexes for real GDP,100,100.818,105.272,98.021,92.471,87.121,98.092
+48429,"Stephens, TX",3,Current-dollar GDP (thousands of current dollars),388097,423405,411123,348067,419918,489563,473916
+48431,"Sterling, TX",1,Real GDP (thousands of chained 2017 dollars),221504,210867,219717,215516,214669,205329,240337
+48431,"Sterling, TX",2,Chain-type quantity indexes for real GDP,100,95.198,99.193,97.297,96.915,92.698,108.503
+48431,"Sterling, TX",3,Current-dollar GDP (thousands of current dollars),221504,230071,226101,200344,260653,303215,310768
+48433,"Stonewall, TX",1,Real GDP (thousands of chained 2017 dollars),153348,144921,141991,124636,120744,117110,131368
+48433,"Stonewall, TX",2,Chain-type quantity indexes for real GDP,100,94.505,92.594,81.277,78.739,76.369,85.667
+48433,"Stonewall, TX",3,Current-dollar GDP (thousands of current dollars),153348,167446,137471,96080,134998,173344,151748
+48435,"Sutton, TX",1,Real GDP (thousands of chained 2017 dollars),310719,309119,287301,245594,226252,194995,212690
+48435,"Sutton, TX",2,Chain-type quantity indexes for real GDP,100,99.485,92.463,79.04,72.816,62.756,68.451
+48435,"Sutton, TX",3,Current-dollar GDP (thousands of current dollars),310719,331112,293633,222924,263386,290751,276477
+48437,"Swisher, TX",1,Real GDP (thousands of chained 2017 dollars),515581,528714,464847,409954,471226,423224,522307
+48437,"Swisher, TX",2,Chain-type quantity indexes for real GDP,100,102.547,90.16,79.513,91.397,82.087,101.305
+48437,"Swisher, TX",3,Current-dollar GDP (thousands of current dollars),515581,513171,449834,394635,572694,636643,727031
+48439,"Tarrant, TX",1,Real GDP (thousands of chained 2017 dollars),111059066,116836265,119023025,113996603,123216402,128639322,133198886
+48439,"Tarrant, TX",2,Chain-type quantity indexes for real GDP,100,105.202,107.171,102.645,110.947,115.83,119.935
+48439,"Tarrant, TX",3,Current-dollar GDP (thousands of current dollars),111059066,119211300,124179194,120335158,134853077,151911262,164772714
+48441,"Taylor, TX",1,Real GDP (thousands of chained 2017 dollars),6146666,6439343,6726220,6672118,6844209,7127738,7371530
+48441,"Taylor, TX",2,Chain-type quantity indexes for real GDP,100,104.762,109.429,108.549,111.348,115.961,119.927
+48441,"Taylor, TX",3,Current-dollar GDP (thousands of current dollars),6146666,6578038,7029047,7126186,7624221,8479771,9157646
+48443,"Terrell, TX",1,Real GDP (thousands of chained 2017 dollars),91391,69230,70158,61364,76522,70858,56969
+48443,"Terrell, TX",2,Chain-type quantity indexes for real GDP,100,75.752,76.767,67.145,83.731,77.533,62.336
+48443,"Terrell, TX",3,Current-dollar GDP (thousands of current dollars),91391,81082,68185,46508,91850,122893,71892
+48445,"Terry, TX",1,Real GDP (thousands of chained 2017 dollars),620198,583777,571551,515865,477442,523249,535517
+48445,"Terry, TX",2,Chain-type quantity indexes for real GDP,100,94.127,92.156,83.177,76.982,84.368,86.346
+48445,"Terry, TX",3,Current-dollar GDP (thousands of current dollars),620198,614695,566030,465888,552590,758686,667264
+48447,"Throckmorton, TX",1,Real GDP (thousands of chained 2017 dollars),74298,73176,66464,60405,97289,71052,160434
+48447,"Throckmorton, TX",2,Chain-type quantity indexes for real GDP,100,98.49,89.456,81.3,130.943,95.631,215.932
+48447,"Throckmorton, TX",3,Current-dollar GDP (thousands of current dollars),74298,83466,64715,47573,107709,104555,196431
+48449,"Titus, TX",1,Real GDP (thousands of chained 2017 dollars),2355814,1986451,1858062,1711707,1891154,2104588,2059600
+48449,"Titus, TX",2,Chain-type quantity indexes for real GDP,100,84.321,78.871,72.659,80.276,89.336,87.426
+48449,"Titus, TX",3,Current-dollar GDP (thousands of current dollars),2355814,2005123,1908049,1798553,2054797,2431487,2499304
+48451,"Tom Green, TX",1,Real GDP (thousands of chained 2017 dollars),5302404,5757178,6163705,6240531,6438315,6603996,6779617
+48451,"Tom Green, TX",2,Chain-type quantity indexes for real GDP,100,108.577,116.244,117.692,121.423,124.547,127.859
+48451,"Tom Green, TX",3,Current-dollar GDP (thousands of current dollars),5302404,5864303,6390322,6580803,7014626,7640587,8205071
+48453,"Travis, TX",1,Real GDP (thousands of chained 2017 dollars),109993936,116115981,123081984,125876258,140405688,154055075,159612559
+48453,"Travis, TX",2,Chain-type quantity indexes for real GDP,100,105.566,111.899,114.439,127.649,140.058,145.11
+48453,"Travis, TX",3,Current-dollar GDP (thousands of current dollars),109993936,117874107,127192180,131870162,151421805,174606869,188267451
+48455,"Trinity, TX",1,Real GDP (thousands of chained 2017 dollars),247083,245180,266505,252819,253080,272649,270492
+48455,"Trinity, TX",2,Chain-type quantity indexes for real GDP,100,99.23,107.861,102.321,102.427,110.347,109.474
+48455,"Trinity, TX",3,Current-dollar GDP (thousands of current dollars),247083,251792,281016,274035,283101,327103,342978
+48457,"Tyler, TX",1,Real GDP (thousands of chained 2017 dollars),414647,397963,407215,418138,439887,458653,533217
+48457,"Tyler, TX",2,Chain-type quantity indexes for real GDP,100,95.976,98.208,100.842,106.087,110.613,128.595
+48457,"Tyler, TX",3,Current-dollar GDP (thousands of current dollars),414647,424518,421251,419672,518892,645892,643764
+48459,"Upshur, TX",1,Real GDP (thousands of chained 2017 dollars),764328,764748,824531,814573,853799,829231,857281
+48459,"Upshur, TX",2,Chain-type quantity indexes for real GDP,100,100.055,107.877,106.574,111.706,108.491,112.161
+48459,"Upshur, TX",3,Current-dollar GDP (thousands of current dollars),764328,794546,854862,840402,958890,1037163,1070140
+48461,"Upton, TX",1,Real GDP (thousands of chained 2017 dollars),2868424,2954032,3824549,4055826,3959965,3797112,5905832
+48461,"Upton, TX",2,Chain-type quantity indexes for real GDP,100,102.984,133.333,141.396,138.054,132.376,205.891
+48461,"Upton, TX",3,Current-dollar GDP (thousands of current dollars),2868424,3652148,3479904,2131020,5209165,8512509,7216629
+48463,"Uvalde, TX",1,Real GDP (thousands of chained 2017 dollars),828123,810462,862865,870716,911213,904477,963594
+48463,"Uvalde, TX",2,Chain-type quantity indexes for real GDP,100,97.867,104.195,105.143,110.034,109.22,116.359
+48463,"Uvalde, TX",3,Current-dollar GDP (thousands of current dollars),828123,833364,903932,928453,1036824,1132321,1231265
+48465,"Val Verde, TX",1,Real GDP (thousands of chained 2017 dollars),1702347,1695343,1752224,1730936,1835046,1863946,1902952
+48465,"Val Verde, TX",2,Chain-type quantity indexes for real GDP,100,99.589,102.93,101.679,107.795,109.493,111.784
+48465,"Val Verde, TX",3,Current-dollar GDP (thousands of current dollars),1702347,1734720,1831772,1850608,2055435,2229855,2367079
+48467,"Van Zandt, TX",1,Real GDP (thousands of chained 2017 dollars),1144814,1191779,1185890,1225803,1251593,1353743,1441503
+48467,"Van Zandt, TX",2,Chain-type quantity indexes for real GDP,100,104.102,103.588,107.074,109.327,118.25,125.916
+48467,"Van Zandt, TX",3,Current-dollar GDP (thousands of current dollars),1144814,1220826,1237994,1306570,1404435,1651683,1829639
+48469,"Victoria, TX",1,Real GDP (thousands of chained 2017 dollars),4242680,4555329,4459105,4291342,4469956,4667280,4842038
+48469,"Victoria, TX",2,Chain-type quantity indexes for real GDP,100,107.369,105.101,101.147,105.357,110.008,114.127
+48469,"Victoria, TX",3,Current-dollar GDP (thousands of current dollars),4242680,4651056,4610698,4455226,4909553,5595411,5937976
+48471,"Walker, TX",1,Real GDP (thousands of chained 2017 dollars),2147210,2201338,2240575,2171259,2144281,2306576,2418498
+48471,"Walker, TX",2,Chain-type quantity indexes for real GDP,100,102.521,104.348,101.12,99.864,107.422,112.634
+48471,"Walker, TX",3,Current-dollar GDP (thousands of current dollars),2147210,2259995,2350809,2374571,2452777,2782884,3022966
+48473,"Waller, TX",1,Real GDP (thousands of chained 2017 dollars),2287710,2372188,3366668,3370167,3532235,3757073,4098626
+48473,"Waller, TX",2,Chain-type quantity indexes for real GDP,100,103.693,147.163,147.316,154.4,164.229,179.158
+48473,"Waller, TX",3,Current-dollar GDP (thousands of current dollars),2287710,2416400,3523170,3582864,3876202,4839068,5706466
+48475,"Ward, TX",1,Real GDP (thousands of chained 2017 dollars),1897650,2531367,3444639,2933705,2902298,2466832,3823574
+48475,"Ward, TX",2,Chain-type quantity indexes for real GDP,100,133.395,181.521,154.597,152.942,129.994,201.49
+48475,"Ward, TX",3,Current-dollar GDP (thousands of current dollars),1897650,2946561,3221144,1819863,3788465,5212077,4818052
+48477,"Washington, TX",1,Real GDP (thousands of chained 2017 dollars),1516120,1723021,1873865,1937204,2177109,2267283,2548166
+48477,"Washington, TX",2,Chain-type quantity indexes for real GDP,100,113.647,123.596,127.774,143.597,149.545,168.071
+48477,"Washington, TX",3,Current-dollar GDP (thousands of current dollars),1516120,1784904,1908113,1921109,2498710,3145252,3112117
+48479,"Webb, TX",1,Real GDP (thousands of chained 2017 dollars),11313473,10859468,11332349,10962638,11422646,11819506,12970009
+48479,"Webb, TX",2,Chain-type quantity indexes for real GDP,100,95.987,100.167,96.899,100.965,104.473,114.642
+48479,"Webb, TX",3,Current-dollar GDP (thousands of current dollars),11313473,11655026,11668938,10651693,13459182,17129191,16186701
+48481,"Wharton, TX",1,Real GDP (thousands of chained 2017 dollars),1643944,1665750,1890037,1799960,1865679,1848145,2136467
+48481,"Wharton, TX",2,Chain-type quantity indexes for real GDP,100,101.326,114.97,109.49,113.488,112.421,129.96
+48481,"Wharton, TX",3,Current-dollar GDP (thousands of current dollars),1643944,1711957,1970232,1875559,2122332,2353354,2731930
+48483,"Wheeler, TX",1,Real GDP (thousands of chained 2017 dollars),686552,585947,504824,463780,421634,325268,373920
+48483,"Wheeler, TX",2,Chain-type quantity indexes for real GDP,100,85.346,73.53,67.552,61.413,47.377,54.463
+48483,"Wheeler, TX",3,Current-dollar GDP (thousands of current dollars),686552,684568,482139,327303,521364,604323,464906
+48485,"Wichita, TX",1,Real GDP (thousands of chained 2017 dollars),5447178,5563315,5775721,5668067,5734978,5853582,6048425
+48485,"Wichita, TX",2,Chain-type quantity indexes for real GDP,100,102.132,106.031,104.055,105.283,107.461,111.038
+48485,"Wichita, TX",3,Current-dollar GDP (thousands of current dollars),5447178,5708555,6008059,6002010,6371093,6987899,7507817
+48487,"Wilbarger, TX",1,Real GDP (thousands of chained 2017 dollars),705424,782794,783436,719543,699764,778408,815120
+48487,"Wilbarger, TX",2,Chain-type quantity indexes for real GDP,100,110.968,111.059,102.002,99.198,110.346,115.55
+48487,"Wilbarger, TX",3,Current-dollar GDP (thousands of current dollars),705424,805538,814010,752881,802670,977547,1011663
+48489,"Willacy, TX",1,Real GDP (thousands of chained 2017 dollars),417744,480715,474323,449028,554788,556351,566964
+48489,"Willacy, TX",2,Chain-type quantity indexes for real GDP,100,115.074,113.544,107.489,132.806,133.18,135.72
+48489,"Willacy, TX",3,Current-dollar GDP (thousands of current dollars),417744,490832,485260,459530,638099,709101,709741
+48491,"Williamson, TX",1,Real GDP (thousands of chained 2017 dollars),20846495,22203103,24165099,25735357,27756721,30360665,32638884
+48491,"Williamson, TX",2,Chain-type quantity indexes for real GDP,100,106.508,115.919,123.452,133.148,145.639,156.568
+48491,"Williamson, TX",3,Current-dollar GDP (thousands of current dollars),20846495,22591668,25155422,27376949,30611348,35831321,40488298
+48493,"Wilson, TX",1,Real GDP (thousands of chained 2017 dollars),870174,957215,1099796,1036913,1070167,1172242,1378529
+48493,"Wilson, TX",2,Chain-type quantity indexes for real GDP,100,110.003,126.388,119.162,122.983,134.714,158.42
+48493,"Wilson, TX",3,Current-dollar GDP (thousands of current dollars),870174,992292,1137484,1051919,1203526,1519961,1691716
+48495,"Winkler, TX",1,Real GDP (thousands of chained 2017 dollars),841104,1167142,1560881,1586596,1422476,1200246,1655686
+48495,"Winkler, TX",2,Chain-type quantity indexes for real GDP,100,138.763,185.575,188.632,169.12,142.699,196.847
+48495,"Winkler, TX",3,Current-dollar GDP (thousands of current dollars),841104,1358765,1467441,1038000,1788597,2345106,2117249
+48497,"Wise, TX",1,Real GDP (thousands of chained 2017 dollars),2912295,2916988,3007609,2812854,3007932,3230507,3521247
+48497,"Wise, TX",2,Chain-type quantity indexes for real GDP,100,100.161,103.273,96.585,103.284,110.926,120.91
+48497,"Wise, TX",3,Current-dollar GDP (thousands of current dollars),2912295,3063824,3087209,2758140,3421711,4348011,4501213
+48499,"Wood, TX",1,Real GDP (thousands of chained 2017 dollars),1399531,1413157,1438078,1472036,1474085,1491782,1582826
+48499,"Wood, TX",2,Chain-type quantity indexes for real GDP,100,100.974,102.754,105.181,105.327,106.592,113.097
+48499,"Wood, TX",3,Current-dollar GDP (thousands of current dollars),1399531,1495221,1461057,1423424,1711535,2078889,2008877
+48501,"Yoakum, TX",1,Real GDP (thousands of chained 2017 dollars),1657244,1679609,1871029,1699778,1457033,1344392,1983345
+48501,"Yoakum, TX",2,Chain-type quantity indexes for real GDP,100,101.35,112.9,102.567,87.919,81.122,119.677
+48501,"Yoakum, TX",3,Current-dollar GDP (thousands of current dollars),1657244,1970694,1761747,1101332,1901082,2780796,2527332
+48503,"Young, TX",1,Real GDP (thousands of chained 2017 dollars),828933,810606,795138,800156,892781,935355,1152963
+48503,"Young, TX",2,Chain-type quantity indexes for real GDP,100,97.789,95.923,96.528,107.702,112.838,139.09
+48503,"Young, TX",3,Current-dollar GDP (thousands of current dollars),828933,846089,822361,801523,984887,1145640,1392759
+48505,"Zapata, TX",1,Real GDP (thousands of chained 2017 dollars),618241,625833,629278,551863,612498,605206,586267
+48505,"Zapata, TX",2,Chain-type quantity indexes for real GDP,100,101.228,101.785,89.263,99.071,97.892,94.828
+48505,"Zapata, TX",3,Current-dollar GDP (thousands of current dollars),618241,665133,630246,489638,674754,834289,717575
+48507,"Zavala, TX",1,Real GDP (thousands of chained 2017 dollars),545461,508380,594219,569285,579646,525235,804738
+48507,"Zavala, TX",2,Chain-type quantity indexes for real GDP,100,93.202,108.939,104.368,106.267,96.292,147.534
+48507,"Zavala, TX",3,Current-dollar GDP (thousands of current dollars),545461,576529,577853,441056,696664,894916,950600
+22001,"Acadia, LA",1,Real GDP (thousands of chained 2017 dollars),1579324,1603955,1548806,1529858,1482730,1458507,1554051
+22001,"Acadia, LA",2,Chain-type quantity indexes for real GDP,100,101.56,98.068,96.868,93.884,92.35,98.4
+22001,"Acadia, LA",3,Current-dollar GDP (thousands of current dollars),1579324,1642301,1621748,1628503,1691768,1809686,1982022
+22003,"Allen, LA",1,Real GDP (thousands of chained 2017 dollars),703014,717493,705226,696072,698546,714788,744574
+22003,"Allen, LA",2,Chain-type quantity indexes for real GDP,100,102.06,100.315,99.013,99.364,101.675,105.912
+22003,"Allen, LA",3,Current-dollar GDP (thousands of current dollars),703014,741510,739749,759217,841876,915977,955799
+22005,"Ascension, LA",1,Real GDP (thousands of chained 2017 dollars),8222868,8587975,8953419,8130527,8684821,9116232,9397317
+22005,"Ascension, LA",2,Chain-type quantity indexes for real GDP,100,104.44,108.884,98.877,105.618,110.864,114.283
+22005,"Ascension, LA",3,Current-dollar GDP (thousands of current dollars),8222868,9146913,9394878,8404607,9730107,11245419,11913088
+22007,"Assumption, LA",1,Real GDP (thousands of chained 2017 dollars),470291,485020,501514,458518,494324,491270,504452
+22007,"Assumption, LA",2,Chain-type quantity indexes for real GDP,100,103.132,106.639,97.497,105.11,104.461,107.264
+22007,"Assumption, LA",3,Current-dollar GDP (thousands of current dollars),470291,497583,526804,493616,558309,597421,644076
+22009,"Avoyelles, LA",1,Real GDP (thousands of chained 2017 dollars),911715,932897,922211,901764,895716,881979,949990
+22009,"Avoyelles, LA",2,Chain-type quantity indexes for real GDP,100,102.323,101.151,98.909,98.245,96.738,104.198
+22009,"Avoyelles, LA",3,Current-dollar GDP (thousands of current dollars),911715,952107,962233,966907,1021126,1089674,1209851
+22011,"Beauregard, LA",1,Real GDP (thousands of chained 2017 dollars),995535,1117402,1353136,1455717,1368578,1316631,1415291
+22011,"Beauregard, LA",2,Chain-type quantity indexes for real GDP,100,112.241,135.92,146.225,137.472,132.254,142.164
+22011,"Beauregard, LA",3,Current-dollar GDP (thousands of current dollars),995535,1148925,1392601,1491175,1472512,1561270,1784246
+22013,"Bienville, LA",1,Real GDP (thousands of chained 2017 dollars),549223,545158,516759,530510,597861,563311,658673
+22013,"Bienville, LA",2,Chain-type quantity indexes for real GDP,100,99.26,94.089,96.593,108.856,102.565,119.928
+22013,"Bienville, LA",3,Current-dollar GDP (thousands of current dollars),549223,588736,522802,483718,759616,974754,856973
+22015,"Bossier, LA",1,Real GDP (thousands of chained 2017 dollars),5236297,5387741,5428588,5168987,5456034,5421104,5719967
+22015,"Bossier, LA",2,Chain-type quantity indexes for real GDP,100,102.892,103.672,98.715,104.196,103.529,109.237
+22015,"Bossier, LA",3,Current-dollar GDP (thousands of current dollars),5236297,5613686,5639995,5287393,6119475,6904054,7136566
+22017,"Caddo, LA",1,Real GDP (thousands of chained 2017 dollars),12698260,12980122,13250456,12502095,13174952,13305329,14118726
+22017,"Caddo, LA",2,Chain-type quantity indexes for real GDP,100,102.22,104.349,98.455,103.754,104.781,111.186
+22017,"Caddo, LA",3,Current-dollar GDP (thousands of current dollars),12698260,13551127,13784813,12857561,14843706,16976228,17538838
+22019,"Calcasieu, LA",1,Real GDP (thousands of chained 2017 dollars),14990636,14780114,15627306,12884896,13370068,12900046,13869163
+22019,"Calcasieu, LA",2,Chain-type quantity indexes for real GDP,100,98.596,104.247,85.953,89.189,86.054,92.519
+22019,"Calcasieu, LA",3,Current-dollar GDP (thousands of current dollars),14990636,16046100,16412052,12661389,15299872,18054985,18754940
+22021,"Caldwell, LA",1,Real GDP (thousands of chained 2017 dollars),188215,191579,197054,189065,189923,178846,187609
+22021,"Caldwell, LA",2,Chain-type quantity indexes for real GDP,100,101.787,104.696,100.451,100.908,95.022,99.678
+22021,"Caldwell, LA",3,Current-dollar GDP (thousands of current dollars),188215,197026,208281,205834,218244,220745,240246
+22023,"Cameron, LA",1,Real GDP (thousands of chained 2017 dollars),1652487,1617342,1312016,1019697,1127587,820707,733161
+22023,"Cameron, LA",2,Chain-type quantity indexes for real GDP,100,97.873,79.396,61.707,68.236,49.665,44.367
+22023,"Cameron, LA",3,Current-dollar GDP (thousands of current dollars),1652487,1674462,1384441,1078392,1271295,1055142,952424
+22025,"Catahoula, LA",1,Real GDP (thousands of chained 2017 dollars),176572,167101,179946,182588,178058,165957,183886
+22025,"Catahoula, LA",2,Chain-type quantity indexes for real GDP,100,94.636,101.911,103.407,100.842,93.989,104.142
+22025,"Catahoula, LA",3,Current-dollar GDP (thousands of current dollars),176572,172531,188083,193289,203516,207907,235133
+22027,"Claiborne, LA",1,Real GDP (thousands of chained 2017 dollars),409234,409376,389603,351619,370835,378786,384953
+22027,"Claiborne, LA",2,Chain-type quantity indexes for real GDP,100,100.035,95.203,85.921,90.617,92.56,94.067
+22027,"Claiborne, LA",3,Current-dollar GDP (thousands of current dollars),409234,423276,396038,348495,401560,469335,458259
+22029,"Concordia, LA",1,Real GDP (thousands of chained 2017 dollars),556070,566889,581201,561410,572163,586040,586711
+22029,"Concordia, LA",2,Chain-type quantity indexes for real GDP,100,101.945,104.519,100.96,102.894,105.39,105.51
+22029,"Concordia, LA",3,Current-dollar GDP (thousands of current dollars),556070,578477,602480,589958,653429,735131,745781
+22031,"De Soto, LA",1,Real GDP (thousands of chained 2017 dollars),2143249,2314120,2580613,2265308,2372984,2033763,2694250
+22031,"De Soto, LA",2,Chain-type quantity indexes for real GDP,100,107.973,120.407,105.695,110.719,94.892,125.709
+22031,"De Soto, LA",3,Current-dollar GDP (thousands of current dollars),2143249,2648355,2454776,1620658,2833410,3612294,3237717
+22033,"East Baton Rouge, LA",1,Real GDP (thousands of chained 2017 dollars),33886953,36699917,34840751,32116771,33064568,34476067,35303037
+22033,"East Baton Rouge, LA",2,Chain-type quantity indexes for real GDP,100,108.301,102.815,94.776,97.573,101.738,104.179
+22033,"East Baton Rouge, LA",3,Current-dollar GDP (thousands of current dollars),33886953,38227967,36484691,33872056,36685691,41071739,43665913
+22035,"East Carroll, LA",1,Real GDP (thousands of chained 2017 dollars),180226,171355,161079,163194,161648,136553,124236
+22035,"East Carroll, LA",2,Chain-type quantity indexes for real GDP,100,95.078,89.376,90.55,89.692,75.768,68.934
+22035,"East Carroll, LA",3,Current-dollar GDP (thousands of current dollars),180226,172755,165483,171065,190700,180520,168394
+22037,"East Feliciana, LA",1,Real GDP (thousands of chained 2017 dollars),487078,510467,505158,478295,473257,470959,512387
+22037,"East Feliciana, LA",2,Chain-type quantity indexes for real GDP,100,104.802,103.712,98.197,97.163,96.691,105.196
+22037,"East Feliciana, LA",3,Current-dollar GDP (thousands of current dollars),487078,527828,531881,520004,540797,574501,643931
+22039,"Evangeline, LA",1,Real GDP (thousands of chained 2017 dollars),860264,852630,879169,843923,783357,842175,936274
+22039,"Evangeline, LA",2,Chain-type quantity indexes for real GDP,100,99.113,102.198,98.101,91.06,97.897,108.836
+22039,"Evangeline, LA",3,Current-dollar GDP (thousands of current dollars),860264,874802,917118,890654,896794,1051210,1186059
+22041,"Franklin, LA",1,Real GDP (thousands of chained 2017 dollars),434581,447687,476819,474741,476443,434084,497508
+22041,"Franklin, LA",2,Chain-type quantity indexes for real GDP,100,103.016,109.719,109.241,109.633,99.886,114.48
+22041,"Franklin, LA",3,Current-dollar GDP (thousands of current dollars),434581,455332,496037,506868,555079,555886,647924
+22043,"Grant, LA",1,Real GDP (thousands of chained 2017 dollars),374953,383769,372814,384374,397698,454898,426166
+22043,"Grant, LA",2,Chain-type quantity indexes for real GDP,100,102.351,99.43,102.513,106.066,121.321,113.658
+22043,"Grant, LA",3,Current-dollar GDP (thousands of current dollars),374953,398809,392431,416633,473147,583216,557003
+22045,"Iberia, LA",1,Real GDP (thousands of chained 2017 dollars),3017553,3113788,3091802,2880042,2859831,2716326,2831501
+22045,"Iberia, LA",2,Chain-type quantity indexes for real GDP,100,103.189,102.461,95.443,94.773,90.018,93.834
+22045,"Iberia, LA",3,Current-dollar GDP (thousands of current dollars),3017553,3164649,3190755,2958556,3105195,3225879,3459362
+22047,"Iberville, LA",1,Real GDP (thousands of chained 2017 dollars),2670278,2585594,2624507,2446512,2301249,2219860,2473237
+22047,"Iberville, LA",2,Chain-type quantity indexes for real GDP,100,96.829,98.286,91.62,86.18,83.132,92.621
+22047,"Iberville, LA",3,Current-dollar GDP (thousands of current dollars),2670278,2665642,2760759,2595586,2637975,2793584,3158321
+22049,"Jackson, LA",1,Real GDP (thousands of chained 2017 dollars),461629,460296,430429,423923,416425,430162,435954
+22049,"Jackson, LA",2,Chain-type quantity indexes for real GDP,100,99.711,93.241,91.832,90.208,93.183,94.438
+22049,"Jackson, LA",3,Current-dollar GDP (thousands of current dollars),461629,475052,442697,433376,462610,537885,554510
+22051,"Jefferson, LA",1,Real GDP (thousands of chained 2017 dollars),23753659,23670012,24043831,22501579,23965785,24110529,24410200
+22051,"Jefferson, LA",2,Chain-type quantity indexes for real GDP,100,99.648,101.222,94.729,100.893,101.502,102.764
+22051,"Jefferson, LA",3,Current-dollar GDP (thousands of current dollars),23753659,24188150,25140458,24043971,26728194,28848945,30612563
+22053,"Jefferson Davis, LA",1,Real GDP (thousands of chained 2017 dollars),873265,858035,849123,841426,804179,760441,782510
+22053,"Jefferson Davis, LA",2,Chain-type quantity indexes for real GDP,100,98.256,97.235,96.354,92.089,87.08,89.607
+22053,"Jefferson Davis, LA",3,Current-dollar GDP (thousands of current dollars),873265,876850,879559,885255,908594,932461,984695
+22055,"Lafayette, LA",1,Real GDP (thousands of chained 2017 dollars),13732242,14479663,14384499,13771860,14689131,14960354,15460525
+22055,"Lafayette, LA",2,Chain-type quantity indexes for real GDP,100,105.443,104.75,100.289,106.968,108.943,112.586
+22055,"Lafayette, LA",3,Current-dollar GDP (thousands of current dollars),13732242,14689606,14876448,14376691,15783443,17375651,18707261
+22057,"Lafourche, LA",1,Real GDP (thousands of chained 2017 dollars),3894504,3983611,4014754,3813966,3848854,3972575,4364179
+22057,"Lafourche, LA",2,Chain-type quantity indexes for real GDP,100,102.288,103.088,97.932,98.828,102.005,112.06
+22057,"Lafourche, LA",3,Current-dollar GDP (thousands of current dollars),3894504,4107735,4206136,3927363,4326935,4991264,5495473
+22059,"LaSalle, LA",1,Real GDP (thousands of chained 2017 dollars),422686,466756,492323,452198,428455,437888,485221
+22059,"LaSalle, LA",2,Chain-type quantity indexes for real GDP,100,110.426,116.475,106.982,101.365,103.597,114.795
+22059,"LaSalle, LA",3,Current-dollar GDP (thousands of current dollars),422686,489304,510884,465422,494546,564235,607940
+22061,"Lincoln, LA",1,Real GDP (thousands of chained 2017 dollars),2213150,2186602,2121748,1979279,2036296,1991968,2076857
+22061,"Lincoln, LA",2,Chain-type quantity indexes for real GDP,100,98.8,95.87,89.433,92.009,90.006,93.842
+22061,"Lincoln, LA",3,Current-dollar GDP (thousands of current dollars),2213150,2303144,2197449,2051680,2350747,2557025,2635411
+22063,"Livingston, LA",1,Real GDP (thousands of chained 2017 dollars),2891747,3173272,3297494,3134877,3268867,3236104,3321450
+22063,"Livingston, LA",2,Chain-type quantity indexes for real GDP,100,109.735,114.031,108.408,113.041,111.908,114.86
+22063,"Livingston, LA",3,Current-dollar GDP (thousands of current dollars),2891747,3253259,3460494,3376779,3712881,3958654,4265281
+22065,"Madison, LA",1,Real GDP (thousands of chained 2017 dollars),372472,369962,377228,355995,356760,312818,345978
+22065,"Madison, LA",2,Chain-type quantity indexes for real GDP,100,99.326,101.277,95.576,95.782,83.984,92.887
+22065,"Madison, LA",3,Current-dollar GDP (thousands of current dollars),372472,409624,394376,340405,414975,460788,482097
+22067,"Morehouse, LA",1,Real GDP (thousands of chained 2017 dollars),584623,578550,588485,588768,581150,520040,557512
+22067,"Morehouse, LA",2,Chain-type quantity indexes for real GDP,100,98.961,100.661,100.709,99.406,88.953,95.363
+22067,"Morehouse, LA",3,Current-dollar GDP (thousands of current dollars),584623,587846,610366,625048,673479,658111,725572
+22069,"Natchitoches, LA",1,Real GDP (thousands of chained 2017 dollars),1412923,1395288,1427065,1404601,1561941,1509597,1487520
+22069,"Natchitoches, LA",2,Chain-type quantity indexes for real GDP,100,98.752,101.001,99.411,110.547,106.842,105.28
+22069,"Natchitoches, LA",3,Current-dollar GDP (thousands of current dollars),1412923,1423058,1484231,1484727,1827353,2012759,1975855
+22071,"Orleans, LA",1,Real GDP (thousands of chained 2017 dollars),23831419,24035109,24326341,22244212,22868743,23568599,23805024
+22071,"Orleans, LA",2,Chain-type quantity indexes for real GDP,100,100.855,102.077,93.34,95.96,98.897,99.889
+22071,"Orleans, LA",3,Current-dollar GDP (thousands of current dollars),23831419,24802582,25448961,23401307,25379826,28108831,29482170
+22073,"Ouachita, LA",1,Real GDP (thousands of chained 2017 dollars),7231511,7375547,7093601,6831683,6959316,7067658,7254241
+22073,"Ouachita, LA",2,Chain-type quantity indexes for real GDP,100,101.992,98.093,94.471,96.236,97.734,100.314
+22073,"Ouachita, LA",3,Current-dollar GDP (thousands of current dollars),7231511,7512907,7356696,7226132,7683925,8335686,8911597
+22075,"Plaquemines, LA",1,Real GDP (thousands of chained 2017 dollars),3011481,2951476,3072650,2657239,2458982,2326241,2689374
+22075,"Plaquemines, LA",2,Chain-type quantity indexes for real GDP,100,98.007,102.031,88.237,81.654,77.246,89.304
+22075,"Plaquemines, LA",3,Current-dollar GDP (thousands of current dollars),3011481,3332950,3183147,2353819,2825373,3462936,3638639
+22077,"Pointe Coupee, LA",1,Real GDP (thousands of chained 2017 dollars),858965,833971,825707,704532,797718,792319,784186
+22077,"Pointe Coupee, LA",2,Chain-type quantity indexes for real GDP,100,97.09,96.128,82.021,92.87,92.241,91.294
+22077,"Pointe Coupee, LA",3,Current-dollar GDP (thousands of current dollars),858965,858263,867489,749862,918447,1003369,1008962
+22079,"Rapides, LA",1,Real GDP (thousands of chained 2017 dollars),5706755,5777296,5786075,5613037,5762260,5562339,5658355
+22079,"Rapides, LA",2,Chain-type quantity indexes for real GDP,100,101.236,101.39,98.358,100.973,97.469,99.152
+22079,"Rapides, LA",3,Current-dollar GDP (thousands of current dollars),5706755,5913510,6047511,6031100,6621575,6875170,7196571
+22081,"Red River, LA",1,Real GDP (thousands of chained 2017 dollars),599235,612730,671678,606240,686711,607101,786153
+22081,"Red River, LA",2,Chain-type quantity indexes for real GDP,100,102.252,112.089,101.169,114.598,101.313,131.193
+22081,"Red River, LA",3,Current-dollar GDP (thousands of current dollars),599235,706018,638654,427618,884399,1193697,972631
+22083,"Richland, LA",1,Real GDP (thousands of chained 2017 dollars),640484,640908,686354,671893,660291,640099,667505
+22083,"Richland, LA",2,Chain-type quantity indexes for real GDP,100,100.066,107.162,104.904,103.092,99.94,104.219
+22083,"Richland, LA",3,Current-dollar GDP (thousands of current dollars),640484,672937,706349,674988,744767,797706,820633
+22085,"Sabine, LA",1,Real GDP (thousands of chained 2017 dollars),680607,765707,819445,792803,895349,922770,1064109
+22085,"Sabine, LA",2,Chain-type quantity indexes for real GDP,100,112.503,120.399,116.485,131.552,135.58,156.347
+22085,"Sabine, LA",3,Current-dollar GDP (thousands of current dollars),680607,807322,806591,716127,1114990,1479236,1336955
+22087,"St. Bernard, LA",1,Real GDP (thousands of chained 2017 dollars),1880424,1901088,1390346,1284474,1192392,1129424,1239124
+22087,"St. Bernard, LA",2,Chain-type quantity indexes for real GDP,100,101.099,73.938,68.308,63.411,60.062,65.896
+22087,"St. Bernard, LA",3,Current-dollar GDP (thousands of current dollars),1880424,2230050,1509782,1258624,1394721,1612900,1744382
+22089,"St. Charles, LA",1,Real GDP (thousands of chained 2017 dollars),7586060,7217103,7959161,7488335,8175846,7605083,8921067
+22089,"St. Charles, LA",2,Chain-type quantity indexes for real GDP,100,95.136,104.918,98.712,107.775,100.251,117.598
+22089,"St. Charles, LA",3,Current-dollar GDP (thousands of current dollars),7586060,8115714,8421049,6991977,9763040,12195428,13059833
+22091,"St. Helena, LA",1,Real GDP (thousands of chained 2017 dollars),171398,200607,209302,189105,199969,192939,205351
+22091,"St. Helena, LA",2,Chain-type quantity indexes for real GDP,100,117.041,122.114,110.331,116.669,112.568,119.809
+22091,"St. Helena, LA",3,Current-dollar GDP (thousands of current dollars),171398,206484,219823,203669,225535,235009,260655
+22093,"St. James, LA",1,Real GDP (thousands of chained 2017 dollars),3002750,2952704,2840172,2308571,2315964,2117892,2423056
+22093,"St. James, LA",2,Chain-type quantity indexes for real GDP,100,98.333,94.586,76.882,77.128,70.532,80.695
+22093,"St. James, LA",3,Current-dollar GDP (thousands of current dollars),3002750,3384997,3010643,2123620,2671214,3131388,3304245
+22095,"St. John the Baptist, LA",1,Real GDP (thousands of chained 2017 dollars),3345011,3307812,3541924,2770169,2697622,2399742,2781487
+22095,"St. John the Baptist, LA",2,Chain-type quantity indexes for real GDP,100,98.888,105.887,82.815,80.646,71.741,83.153
+22095,"St. John the Baptist, LA",3,Current-dollar GDP (thousands of current dollars),3345011,3876456,3758464,2472466,3161744,3888025,4060192
+22097,"St. Landry, LA",1,Real GDP (thousands of chained 2017 dollars),2441672,2383505,2467271,2386262,2388326,2251920,2382202
+22097,"St. Landry, LA",2,Chain-type quantity indexes for real GDP,100,97.618,101.048,97.731,97.815,92.229,97.564
+22097,"St. Landry, LA",3,Current-dollar GDP (thousands of current dollars),2441672,2512615,2597092,2499859,2728443,2913565,3111947
+22099,"St. Martin, LA",1,Real GDP (thousands of chained 2017 dollars),1312763,1324218,1347661,1258040,1325589,1348145,1417857
+22099,"St. Martin, LA",2,Chain-type quantity indexes for real GDP,100,100.873,102.658,95.831,100.977,102.695,108.006
+22099,"St. Martin, LA",3,Current-dollar GDP (thousands of current dollars),1312763,1358569,1399144,1318812,1492127,1678562,1807733
+22101,"St. Mary, LA",1,Real GDP (thousands of chained 2017 dollars),2484902,2531072,2515352,2438126,2636269,2723883,2877217
+22101,"St. Mary, LA",2,Chain-type quantity indexes for real GDP,100,101.858,101.225,98.118,106.091,109.617,115.788
+22101,"St. Mary, LA",3,Current-dollar GDP (thousands of current dollars),2484902,2596909,2596199,2485043,2853187,3249213,3486283
+22103,"St. Tammany, LA",1,Real GDP (thousands of chained 2017 dollars),11814260,12125284,12617114,12106496,13020785,12649328,13057249
+22103,"St. Tammany, LA",2,Chain-type quantity indexes for real GDP,100,102.633,106.796,102.474,110.212,107.068,110.521
+22103,"St. Tammany, LA",3,Current-dollar GDP (thousands of current dollars),11814260,12433125,13210849,12777440,14668886,15446880,16534566
+22105,"Tangipahoa, LA",1,Real GDP (thousands of chained 2017 dollars),4086210,4096259,4352843,4240458,4437179,4487376,4756791
+22105,"Tangipahoa, LA",2,Chain-type quantity indexes for real GDP,100,100.246,106.525,103.775,108.589,109.818,116.411
+22105,"Tangipahoa, LA",3,Current-dollar GDP (thousands of current dollars),4086210,4261035,4558315,4477917,5042148,5688836,6219912
+22107,"Tensas, LA",1,Real GDP (thousands of chained 2017 dollars),134527,128601,131927,116780,127858,112296,109470
+22107,"Tensas, LA",2,Chain-type quantity indexes for real GDP,100,95.595,98.067,86.808,95.043,83.474,81.374
+22107,"Tensas, LA",3,Current-dollar GDP (thousands of current dollars),134527,130526,135023,120036,147608,147336,144023
+22109,"Terrebonne, LA",1,Real GDP (thousands of chained 2017 dollars),5346558,5596573,5518516,5084851,5154416,5206965,5525959
+22109,"Terrebonne, LA",2,Chain-type quantity indexes for real GDP,100,104.676,103.216,95.105,96.406,97.389,103.355
+22109,"Terrebonne, LA",3,Current-dollar GDP (thousands of current dollars),5346558,5698302,5712161,5233072,5510696,6133398,6719537
+22111,"Union, LA",1,Real GDP (thousands of chained 2017 dollars),514670,513725,485540,450501,460397,499196,504199
+22111,"Union, LA",2,Chain-type quantity indexes for real GDP,100,99.816,94.34,87.532,89.455,96.994,97.965
+22111,"Union, LA",3,Current-dollar GDP (thousands of current dollars),514670,518791,499495,477383,520598,613046,639259
+22113,"Vermilion, LA",1,Real GDP (thousands of chained 2017 dollars),1473678,1521097,1443301,1385128,1426362,1322280,1374251
+22113,"Vermilion, LA",2,Chain-type quantity indexes for real GDP,100,103.218,97.939,93.991,96.789,89.726,93.253
+22113,"Vermilion, LA",3,Current-dollar GDP (thousands of current dollars),1473678,1565727,1490847,1432434,1591614,1644217,1730687
+22115,"Vernon, LA",1,Real GDP (thousands of chained 2017 dollars),2054837,2002190,2055201,2026268,2109868,2066728,2048619
+22115,"Vernon, LA",2,Chain-type quantity indexes for real GDP,100,97.438,100.018,98.61,102.678,100.579,99.697
+22115,"Vernon, LA",3,Current-dollar GDP (thousands of current dollars),2054837,2052064,2144956,2158156,2342776,2427596,2511706
+22117,"Washington, LA",1,Real GDP (thousands of chained 2017 dollars),1120766,1126219,1099448,1028991,1044893,1051861,1113274
+22117,"Washington, LA",2,Chain-type quantity indexes for real GDP,100,100.487,98.098,91.811,93.23,93.852,99.331
+22117,"Washington, LA",3,Current-dollar GDP (thousands of current dollars),1120766,1173827,1149278,1080938,1192252,1324812,1434646
+22119,"Webster, LA",1,Real GDP (thousands of chained 2017 dollars),1152170,1182185,1175376,1123413,1163726,1104589,1132725
+22119,"Webster, LA",2,Chain-type quantity indexes for real GDP,100,102.605,102.014,97.504,101.003,95.87,98.312
+22119,"Webster, LA",3,Current-dollar GDP (thousands of current dollars),1152170,1218432,1224973,1179662,1301763,1365467,1440567
+22121,"West Baton Rouge, LA",1,Real GDP (thousands of chained 2017 dollars),1793469,1780888,1636711,1495054,1541732,1458053,1549862
+22121,"West Baton Rouge, LA",2,Chain-type quantity indexes for real GDP,100,99.299,91.259,83.361,85.964,81.298,86.417
+22121,"West Baton Rouge, LA",3,Current-dollar GDP (thousands of current dollars),1793469,1942798,1763955,1575960,1803585,1984359,2145902
+22123,"West Carroll, LA",1,Real GDP (thousands of chained 2017 dollars),218428,232140,187814,195845,192839,171889,176848
+22123,"West Carroll, LA",2,Chain-type quantity indexes for real GDP,100,106.278,85.984,89.661,88.285,78.694,80.964
+22123,"West Carroll, LA",3,Current-dollar GDP (thousands of current dollars),218428,236085,195719,210711,224028,218243,232062
+22125,"West Feliciana, LA",1,Real GDP (thousands of chained 2017 dollars),873327,895351,947474,966819,966976,961270,870155
+22125,"West Feliciana, LA",2,Chain-type quantity indexes for real GDP,100,102.522,108.49,110.705,110.723,110.07,99.637
+22125,"West Feliciana, LA",3,Current-dollar GDP (thousands of current dollars),873327,921978,996653,1023839,1120544,1216920,1121052
+22127,"Winn, LA",1,Real GDP (thousands of chained 2017 dollars),454621,470341,455351,483256,523687,521769,568235
+22127,"Winn, LA",2,Chain-type quantity indexes for real GDP,100,103.458,100.161,106.299,115.192,114.77,124.991
+22127,"Winn, LA",3,Current-dollar GDP (thousands of current dollars),454621,488932,475148,520898,644791,688296,731732
+35001,"Bernalillo, NM",1,Real GDP (thousands of chained 2017 dollars),36493928,37175016,38145851,37616720,39612592,41035876,41812954
+35001,"Bernalillo, NM",2,Chain-type quantity indexes for real GDP,100,101.866,104.527,103.077,108.546,112.446,114.575
+35001,"Bernalillo, NM",3,Current-dollar GDP (thousands of current dollars),36493928,37952066,39756434,40175735,43594782,47669704,50934260
+35003,"Catron, NM",1,Real GDP (thousands of chained 2017 dollars),84780,88541,81271,90713,92199,109118,111376
+35003,"Catron, NM",2,Chain-type quantity indexes for real GDP,100,104.436,95.861,106.998,108.751,128.707,131.371
+35003,"Catron, NM",3,Current-dollar GDP (thousands of current dollars),84780,90068,84304,96198,105281,135990,140486
+35005,"Chaves, NM",1,Real GDP (thousands of chained 2017 dollars),2037102,2081771,2108328,2068154,2038777,2091881,2099721
+35005,"Chaves, NM",2,Chain-type quantity indexes for real GDP,100,102.193,103.496,101.524,100.082,102.689,103.074
+35005,"Chaves, NM",3,Current-dollar GDP (thousands of current dollars),2037102,2118239,2181025,2177845,2311147,2579793,2640976
+35006,"Cibola, NM",1,Real GDP (thousands of chained 2017 dollars),631112,634675,626267,635821,605445,595813,628390
+35006,"Cibola, NM",2,Chain-type quantity indexes for real GDP,100,100.564,99.232,100.746,95.933,94.407,99.569
+35006,"Cibola, NM",3,Current-dollar GDP (thousands of current dollars),631112,649036,654657,685048,683937,718530,789388
+35007,"Colfax, NM",1,Real GDP (thousands of chained 2017 dollars),449330,442000,442440,440312,447314,438455,470242
+35007,"Colfax, NM",2,Chain-type quantity indexes for real GDP,100,98.369,98.467,97.993,99.551,97.58,104.654
+35007,"Colfax, NM",3,Current-dollar GDP (thousands of current dollars),449330,454121,461352,461250,510279,553223,602844
+35009,"Curry, NM",1,Real GDP (thousands of chained 2017 dollars),3119322,3037869,3096821,3114987,3099644,3233381,3246156
+35009,"Curry, NM",2,Chain-type quantity indexes for real GDP,100,97.389,99.279,99.861,99.369,103.657,104.066
+35009,"Curry, NM",3,Current-dollar GDP (thousands of current dollars),3119322,3094923,3223165,3306820,3480857,3901646,4072131
+35011,"De Baca, NM",1,Real GDP (thousands of chained 2017 dollars),75427,79305,77336,79002,75740,72365,85891
+35011,"De Baca, NM",2,Chain-type quantity indexes for real GDP,100,105.142,102.531,104.739,100.414,95.94,113.872
+35011,"De Baca, NM",3,Current-dollar GDP (thousands of current dollars),75427,79154,78141,80702,90073,99778,115063
+35013,"Doña Ana, NM",1,Real GDP (thousands of chained 2017 dollars),7305489,7447694,7736864,7464061,7978043,8139926,8537154
+35013,"Doña Ana, NM",2,Chain-type quantity indexes for real GDP,100,101.947,105.905,102.171,109.206,111.422,116.859
+35013,"Doña Ana, NM",3,Current-dollar GDP (thousands of current dollars),7305489,7605805,8073556,7997018,8899362,9640797,10565364
+35015,"Eddy, NM",1,Real GDP (thousands of chained 2017 dollars),5386793,6064368,7331074,6919970,6518879,6346270,8060199
+35015,"Eddy, NM",2,Chain-type quantity indexes for real GDP,100,112.578,136.093,128.462,121.016,117.812,149.629
+35015,"Eddy, NM",3,Current-dollar GDP (thousands of current dollars),5386793,6534467,7354740,5904338,7702986,10150676,9988981
+35017,"Grant, NM",1,Real GDP (thousands of chained 2017 dollars),1173074,1119064,1096801,997897,1146323,1197558,1173131
+35017,"Grant, NM",2,Chain-type quantity indexes for real GDP,100,95.396,93.498,85.067,97.72,102.087,100.005
+35017,"Grant, NM",3,Current-dollar GDP (thousands of current dollars),1173074,1149737,1143874,1063366,1333775,1545970,1590568
+35019,"Guadalupe, NM",1,Real GDP (thousands of chained 2017 dollars),138094,149597,149316,148047,161090,174286,187534
+35019,"Guadalupe, NM",2,Chain-type quantity indexes for real GDP,100,108.33,108.126,107.207,116.652,126.208,135.801
+35019,"Guadalupe, NM",3,Current-dollar GDP (thousands of current dollars),138094,152932,156632,158892,184339,216923,238071
+35021,"Harding, NM",1,Real GDP (thousands of chained 2017 dollars),47665,43679,39215,46043,42434,41763,36554
+35021,"Harding, NM",2,Chain-type quantity indexes for real GDP,100,91.638,82.272,96.597,89.027,87.618,76.69
+35021,"Harding, NM",3,Current-dollar GDP (thousands of current dollars),47665,49717,38345,36639,52034,70469,48515
+35023,"Hidalgo, NM",1,Real GDP (thousands of chained 2017 dollars),186280,200103,209710,200890,202053,186402,200238
+35023,"Hidalgo, NM",2,Chain-type quantity indexes for real GDP,100,107.421,112.578,107.843,108.467,100.065,107.493
+35023,"Hidalgo, NM",3,Current-dollar GDP (thousands of current dollars),186280,204061,217840,212307,231450,234177,254960
+35025,"Lea, NM",1,Real GDP (thousands of chained 2017 dollars),4776874,5832463,6747017,6346278,6202248,6336653,8531127
+35025,"Lea, NM",2,Chain-type quantity indexes for real GDP,100,122.098,141.243,132.854,129.839,132.653,178.592
+35025,"Lea, NM",3,Current-dollar GDP (thousands of current dollars),4776874,6228704,6646822,5221038,7481360,10738558,10425806
+35027,"Lincoln, NM",1,Real GDP (thousands of chained 2017 dollars),628543,651922,661413,683444,641113,643864,670461
+35027,"Lincoln, NM",2,Chain-type quantity indexes for real GDP,100,103.72,105.23,108.735,102,102.438,106.669
+35027,"Lincoln, NM",3,Current-dollar GDP (thousands of current dollars),628543,667277,694739,740414,724350,775289,848868
+35028,"Los Alamos, NM",1,Real GDP (thousands of chained 2017 dollars),2231836,2273911,2295378,2382196,2533462,2757222,3085463
+35028,"Los Alamos, NM",2,Chain-type quantity indexes for real GDP,100,101.885,102.847,106.737,113.515,123.541,138.248
+35028,"Los Alamos, NM",3,Current-dollar GDP (thousands of current dollars),2231836,2308271,2356013,2478939,2648460,2973481,3487702
+35029,"Luna, NM",1,Real GDP (thousands of chained 2017 dollars),800534,824327,845478,857059,859213,859936,904129
+35029,"Luna, NM",2,Chain-type quantity indexes for real GDP,100,102.972,105.614,107.061,107.33,107.42,112.941
+35029,"Luna, NM",3,Current-dollar GDP (thousands of current dollars),800534,841738,882773,913839,985423,1064209,1154999
+35031,"McKinley, NM",1,Real GDP (thousands of chained 2017 dollars),2227566,2307971,2571211,2436459,2279213,2214002,2275793
+35031,"McKinley, NM",2,Chain-type quantity indexes for real GDP,100,103.61,115.427,109.378,102.319,99.391,102.165
+35031,"McKinley, NM",3,Current-dollar GDP (thousands of current dollars),2227566,2394067,2676566,2502608,2533044,2673919,2879914
+35033,"Mora, NM",1,Real GDP (thousands of chained 2017 dollars),94359,107878,105825,101224,105492,96009,113386
+35033,"Mora, NM",2,Chain-type quantity indexes for real GDP,100,114.328,112.152,107.276,111.799,101.749,120.165
+35033,"Mora, NM",3,Current-dollar GDP (thousands of current dollars),94359,108871,108689,105959,121166,121753,143774
+35035,"Otero, NM",1,Real GDP (thousands of chained 2017 dollars),2683571,2712278,2725385,2781560,2859523,2908504,2901741
+35035,"Otero, NM",2,Chain-type quantity indexes for real GDP,100,101.07,101.558,103.651,106.557,108.382,108.13
+35035,"Otero, NM",3,Current-dollar GDP (thousands of current dollars),2683571,2783795,2858197,2984341,3185945,3423019,3581645
+35037,"Quay, NM",1,Real GDP (thousands of chained 2017 dollars),283470,288286,296052,287003,289827,296604,283466
+35037,"Quay, NM",2,Chain-type quantity indexes for real GDP,100,101.699,104.439,101.246,102.243,104.634,99.999
+35037,"Quay, NM",3,Current-dollar GDP (thousands of current dollars),283470,295428,311090,308603,338349,380603,369110
+35039,"Rio Arriba, NM",1,Real GDP (thousands of chained 2017 dollars),1035508,1045161,1066382,1007174,1025639,1001361,1027897
+35039,"Rio Arriba, NM",2,Chain-type quantity indexes for real GDP,100,100.932,102.982,97.264,99.047,96.702,99.265
+35039,"Rio Arriba, NM",3,Current-dollar GDP (thousands of current dollars),1035508,1097853,1102089,1018331,1175479,1304968,1290272
+35041,"Roosevelt, NM",1,Real GDP (thousands of chained 2017 dollars),671658,666212,673973,644544,664359,719376,682041
+35041,"Roosevelt, NM",2,Chain-type quantity indexes for real GDP,100,99.189,100.345,95.963,98.913,107.105,101.546
+35041,"Roosevelt, NM",3,Current-dollar GDP (thousands of current dollars),671658,673195,691345,672399,773123,937063,879243
+35043,"Sandoval, NM",1,Real GDP (thousands of chained 2017 dollars),3497474,3485997,3817076,3704152,3899020,4179572,4401759
+35043,"Sandoval, NM",2,Chain-type quantity indexes for real GDP,100,99.672,109.138,105.909,111.481,119.503,125.855
+35043,"Sandoval, NM",3,Current-dollar GDP (thousands of current dollars),3497474,3556671,3972109,3944546,4285055,4874900,5389854
+35045,"San Juan, NM",1,Real GDP (thousands of chained 2017 dollars),5756828,5571010,5616181,5215071,5232665,5261890,5389548
+35045,"San Juan, NM",2,Chain-type quantity indexes for real GDP,100,96.772,97.557,90.589,90.895,91.403,93.62
+35045,"San Juan, NM",3,Current-dollar GDP (thousands of current dollars),5756828,5760914,5823724,5311398,5902220,6673186,6822347
+35047,"San Miguel, NM",1,Real GDP (thousands of chained 2017 dollars),646624,670875,680626,625630,658388,656660,693123
+35047,"San Miguel, NM",2,Chain-type quantity indexes for real GDP,100,103.75,105.258,96.753,101.819,101.552,107.191
+35047,"San Miguel, NM",3,Current-dollar GDP (thousands of current dollars),646624,687808,714831,681976,743709,777744,854409
+35049,"Santa Fe, NM",1,Real GDP (thousands of chained 2017 dollars),6940839,7088694,7125371,6715262,7351004,7389917,7512205
+35049,"Santa Fe, NM",2,Chain-type quantity indexes for real GDP,100,102.13,102.659,96.75,105.909,106.47,108.232
+35049,"Santa Fe, NM",3,Current-dollar GDP (thousands of current dollars),6940839,7251948,7463080,7252660,8235741,8703754,9278913
+35051,"Sierra, NM",1,Real GDP (thousands of chained 2017 dollars),281364,283215,293269,306826,315155,310361,311965
+35051,"Sierra, NM",2,Chain-type quantity indexes for real GDP,100,100.658,104.231,109.049,112.009,110.306,110.876
+35051,"Sierra, NM",3,Current-dollar GDP (thousands of current dollars),281364,289287,306581,330216,359141,379335,396109
+35053,"Socorro, NM",1,Real GDP (thousands of chained 2017 dollars),489513,486028,494589,478982,484267,503018,521423
+35053,"Socorro, NM",2,Chain-type quantity indexes for real GDP,100,99.288,101.037,97.849,98.929,102.759,106.519
+35053,"Socorro, NM",3,Current-dollar GDP (thousands of current dollars),489513,495081,513543,512225,546621,604749,646286
+35055,"Taos, NM",1,Real GDP (thousands of chained 2017 dollars),966871,1002668,1007956,924372,1022065,1055239,1076474
+35055,"Taos, NM",2,Chain-type quantity indexes for real GDP,100,103.702,104.249,95.605,105.709,109.14,111.336
+35055,"Taos, NM",3,Current-dollar GDP (thousands of current dollars),966871,1026755,1058188,996592,1147700,1259724,1352954
+35057,"Torrance, NM",1,Real GDP (thousands of chained 2017 dollars),370883,393654,396079,425559,498570,549473,595372
+35057,"Torrance, NM",2,Chain-type quantity indexes for real GDP,100,106.14,106.793,114.742,134.428,148.152,160.528
+35057,"Torrance, NM",3,Current-dollar GDP (thousands of current dollars),370883,400344,411771,450631,576822,699725,763128
+35059,"Union, NM",1,Real GDP (thousands of chained 2017 dollars),178379,170321,157903,161452,159417,157214,128861
+35059,"Union, NM",2,Chain-type quantity indexes for real GDP,100,95.483,88.521,90.511,89.37,88.135,72.24
+35059,"Union, NM",3,Current-dollar GDP (thousands of current dollars),178379,177660,160694,159163,184697,212883,166981
+35061,"Valencia, NM",1,Real GDP (thousands of chained 2017 dollars),1518973,1616488,1562223,1583563,1643469,1680553,1784303
+35061,"Valencia, NM",2,Chain-type quantity indexes for real GDP,100,106.42,102.847,104.252,108.196,110.637,117.468
+35061,"Valencia, NM",3,Current-dollar GDP (thousands of current dollars),1518973,1658227,1644099,1714326,1849766,2042227,2295699

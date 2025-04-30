@@ -1,0 +1,1288 @@
+"CAINC1 County and MSA personal income summary: personal income, population, per capita personal income",,,,
+"CAINC1 County and MSA personal income summary: personal income, population, per capita personal income",,,,
+County,,,,
+GeoFips,GeoName,LineCode,Description,2021
+40001,"Adair, OK",1,Personal income (thousands of dollars),790537
+40001,"Adair, OK",2,Population (persons) 1,19442
+40001,"Adair, OK",3,Per capita personal income (dollars) 2,40661
+40003,"Alfalfa, OK",1,Personal income (thousands of dollars),248867
+40003,"Alfalfa, OK",2,Population (persons) 1,5695
+40003,"Alfalfa, OK",3,Per capita personal income (dollars) 2,43699
+40005,"Atoka, OK",1,Personal income (thousands of dollars),515177
+40005,"Atoka, OK",2,Population (persons) 1,14294
+40005,"Atoka, OK",3,Per capita personal income (dollars) 2,36041
+40007,"Beaver, OK",1,Personal income (thousands of dollars),343770
+40007,"Beaver, OK",2,Population (persons) 1,4994
+40007,"Beaver, OK",3,Per capita personal income (dollars) 2,68837
+40009,"Beckham, OK",1,Personal income (thousands of dollars),860722
+40009,"Beckham, OK",2,Population (persons) 1,22032
+40009,"Beckham, OK",3,Per capita personal income (dollars) 2,39067
+40011,"Blaine, OK",1,Personal income (thousands of dollars),417492
+40011,"Blaine, OK",2,Population (persons) 1,8547
+40011,"Blaine, OK",3,Per capita personal income (dollars) 2,48847
+40013,"Bryan, OK",1,Personal income (thousands of dollars),2095217
+40013,"Bryan, OK",2,Population (persons) 1,47126
+40013,"Bryan, OK",3,Per capita personal income (dollars) 2,44460
+40015,"Caddo, OK",1,Personal income (thousands of dollars),1194127
+40015,"Caddo, OK",2,Population (persons) 1,26461
+40015,"Caddo, OK",3,Per capita personal income (dollars) 2,45128
+40017,"Canadian, OK",1,Personal income (thousands of dollars),8370537
+40017,"Canadian, OK",2,Population (persons) 1,161999
+40017,"Canadian, OK",3,Per capita personal income (dollars) 2,51670
+40019,"Carter, OK",1,Personal income (thousands of dollars),2359433
+40019,"Carter, OK",2,Population (persons) 1,48254
+40019,"Carter, OK",3,Per capita personal income (dollars) 2,48896
+40021,"Cherokee, OK",1,Personal income (thousands of dollars),1979122
+40021,"Cherokee, OK",2,Population (persons) 1,47659
+40021,"Cherokee, OK",3,Per capita personal income (dollars) 2,41527
+40023,"Choctaw, OK",1,Personal income (thousands of dollars),589633
+40023,"Choctaw, OK",2,Population (persons) 1,14363
+40023,"Choctaw, OK",3,Per capita personal income (dollars) 2,41052
+40025,"Cimarron, OK",1,Personal income (thousands of dollars),160355
+40025,"Cimarron, OK",2,Population (persons) 1,2247
+40025,"Cimarron, OK",3,Per capita personal income (dollars) 2,71364
+40027,"Cleveland, OK",1,Personal income (thousands of dollars),15004712
+40027,"Cleveland, OK",2,Population (persons) 1,298110
+40027,"Cleveland, OK",3,Per capita personal income (dollars) 2,50333
+40029,"Coal, OK",1,Personal income (thousands of dollars),232499
+40029,"Coal, OK",2,Population (persons) 1,5304
+40029,"Coal, OK",3,Per capita personal income (dollars) 2,43835
+40031,"Comanche, OK",1,Personal income (thousands of dollars),5892534
+40031,"Comanche, OK",2,Population (persons) 1,122324
+40031,"Comanche, OK",3,Per capita personal income (dollars) 2,48172
+40033,"Cotton, OK",1,Personal income (thousands of dollars),282184
+40033,"Cotton, OK",2,Population (persons) 1,5442
+40033,"Cotton, OK",3,Per capita personal income (dollars) 2,51853
+40035,"Craig, OK",1,Personal income (thousands of dollars),613850
+40035,"Craig, OK",2,Population (persons) 1,14201
+40035,"Craig, OK",3,Per capita personal income (dollars) 2,43226
+40037,"Creek, OK",1,Personal income (thousands of dollars),3442547
+40037,"Creek, OK",2,Population (persons) 1,72224
+40037,"Creek, OK",3,Per capita personal income (dollars) 2,47665
+40039,"Custer, OK",1,Personal income (thousands of dollars),1303529
+40039,"Custer, OK",2,Population (persons) 1,28175
+40039,"Custer, OK",3,Per capita personal income (dollars) 2,46265
+40041,"Delaware, OK",1,Personal income (thousands of dollars),1700270
+40041,"Delaware, OK",2,Population (persons) 1,40970
+40041,"Delaware, OK",3,Per capita personal income (dollars) 2,41500
+40043,"Dewey, OK",1,Personal income (thousands of dollars),213414
+40043,"Dewey, OK",2,Population (persons) 1,4418
+40043,"Dewey, OK",3,Per capita personal income (dollars) 2,48306
+40045,"Ellis, OK",1,Personal income (thousands of dollars),216815
+40045,"Ellis, OK",2,Population (persons) 1,3733
+40045,"Ellis, OK",3,Per capita personal income (dollars) 2,58081
+40047,"Garfield, OK",1,Personal income (thousands of dollars),2976695
+40047,"Garfield, OK",2,Population (persons) 1,61964
+40047,"Garfield, OK",3,Per capita personal income (dollars) 2,48039
+40049,"Garvin, OK",1,Personal income (thousands of dollars),1282073
+40049,"Garvin, OK",2,Population (persons) 1,25770
+40049,"Garvin, OK",3,Per capita personal income (dollars) 2,49751
+40051,"Grady, OK",1,Personal income (thousands of dollars),2631710
+40051,"Grady, OK",2,Population (persons) 1,55595
+40051,"Grady, OK",3,Per capita personal income (dollars) 2,47337
+40053,"Grant, OK",1,Personal income (thousands of dollars),241075
+40053,"Grant, OK",2,Population (persons) 1,4145
+40053,"Grant, OK",3,Per capita personal income (dollars) 2,58160
+40055,"Greer, OK",1,Personal income (thousands of dollars),193181
+40055,"Greer, OK",2,Population (persons) 1,5480
+40055,"Greer, OK",3,Per capita personal income (dollars) 2,35252
+40057,"Harmon, OK",1,Personal income (thousands of dollars),121930
+40057,"Harmon, OK",2,Population (persons) 1,2403
+40057,"Harmon, OK",3,Per capita personal income (dollars) 2,50741
+40059,"Harper, OK",1,Personal income (thousands of dollars),191717
+40059,"Harper, OK",2,Population (persons) 1,3177
+40059,"Harper, OK",3,Per capita personal income (dollars) 2,60345
+40061,"Haskell, OK",1,Personal income (thousands of dollars),497502
+40061,"Haskell, OK",2,Population (persons) 1,11615
+40061,"Haskell, OK",3,Per capita personal income (dollars) 2,42833
+40063,"Hughes, OK",1,Personal income (thousands of dollars),654171
+40063,"Hughes, OK",2,Population (persons) 1,13401
+40063,"Hughes, OK",3,Per capita personal income (dollars) 2,48815
+40065,"Jackson, OK",1,Personal income (thousands of dollars),1233695
+40065,"Jackson, OK",2,Population (persons) 1,24744
+40065,"Jackson, OK",3,Per capita personal income (dollars) 2,49858
+40067,"Jefferson, OK",1,Personal income (thousands of dollars),216937
+40067,"Jefferson, OK",2,Population (persons) 1,5390
+40067,"Jefferson, OK",3,Per capita personal income (dollars) 2,40248
+40069,"Johnston, OK",1,Personal income (thousands of dollars),460814
+40069,"Johnston, OK",2,Population (persons) 1,10332
+40069,"Johnston, OK",3,Per capita personal income (dollars) 2,44601
+40071,"Kay, OK",1,Personal income (thousands of dollars),2142982
+40071,"Kay, OK",2,Population (persons) 1,43715
+40071,"Kay, OK",3,Per capita personal income (dollars) 2,49022
+40073,"Kingfisher, OK",1,Personal income (thousands of dollars),1019381
+40073,"Kingfisher, OK",2,Population (persons) 1,15223
+40073,"Kingfisher, OK",3,Per capita personal income (dollars) 2,66963
+40075,"Kiowa, OK",1,Personal income (thousands of dollars),378880
+40075,"Kiowa, OK",2,Population (persons) 1,8404
+40075,"Kiowa, OK",3,Per capita personal income (dollars) 2,45083
+40077,"Latimer, OK",1,Personal income (thousands of dollars),375701
+40077,"Latimer, OK",2,Population (persons) 1,9454
+40077,"Latimer, OK",3,Per capita personal income (dollars) 2,39740
+40079,"Le Flore, OK",1,Personal income (thousands of dollars),1949214
+40079,"Le Flore, OK",2,Population (persons) 1,48603
+40079,"Le Flore, OK",3,Per capita personal income (dollars) 2,40105
+40081,"Lincoln, OK",1,Personal income (thousands of dollars),1546407
+40081,"Lincoln, OK",2,Population (persons) 1,33846
+40081,"Lincoln, OK",3,Per capita personal income (dollars) 2,45690
+40083,"Logan, OK",1,Personal income (thousands of dollars),2430264
+40083,"Logan, OK",2,Population (persons) 1,50900
+40083,"Logan, OK",3,Per capita personal income (dollars) 2,47746
+40085,"Love, OK",1,Personal income (thousands of dollars),448726
+40085,"Love, OK",2,Population (persons) 1,10237
+40085,"Love, OK",3,Per capita personal income (dollars) 2,43834
+40087,"McClain, OK",1,Personal income (thousands of dollars),2326700
+40087,"McClain, OK",2,Population (persons) 1,43535
+40087,"McClain, OK",3,Per capita personal income (dollars) 2,53444
+40089,"McCurtain, OK",1,Personal income (thousands of dollars),1333964
+40089,"McCurtain, OK",2,Population (persons) 1,30824
+40089,"McCurtain, OK",3,Per capita personal income (dollars) 2,43277
+40091,"McIntosh, OK",1,Personal income (thousands of dollars),815140
+40091,"McIntosh, OK",2,Population (persons) 1,19249
+40091,"McIntosh, OK",3,Per capita personal income (dollars) 2,42347
+40093,"Major, OK",1,Personal income (thousands of dollars),362874
+40093,"Major, OK",2,Population (persons) 1,7636
+40093,"Major, OK",3,Per capita personal income (dollars) 2,47521
+40095,"Marshall, OK",1,Personal income (thousands of dollars),685590
+40095,"Marshall, OK",2,Population (persons) 1,15552
+40095,"Marshall, OK",3,Per capita personal income (dollars) 2,44084
+40097,"Mayes, OK",1,Personal income (thousands of dollars),1762772
+40097,"Mayes, OK",2,Population (persons) 1,39259
+40097,"Mayes, OK",3,Per capita personal income (dollars) 2,44901
+40099,"Murray, OK",1,Personal income (thousands of dollars),643425
+40099,"Murray, OK",2,Population (persons) 1,13716
+40099,"Murray, OK",3,Per capita personal income (dollars) 2,46911
+40101,"Muskogee, OK",1,Personal income (thousands of dollars),2942982
+40101,"Muskogee, OK",2,Population (persons) 1,66267
+40101,"Muskogee, OK",3,Per capita personal income (dollars) 2,44411
+40103,"Noble, OK",1,Personal income (thousands of dollars),555924
+40103,"Noble, OK",2,Population (persons) 1,10941
+40103,"Noble, OK",3,Per capita personal income (dollars) 2,50811
+40105,"Nowata, OK",1,Personal income (thousands of dollars),419445
+40105,"Nowata, OK",2,Population (persons) 1,9352
+40105,"Nowata, OK",3,Per capita personal income (dollars) 2,44851
+40107,"Okfuskee, OK",1,Personal income (thousands of dollars),427416
+40107,"Okfuskee, OK",2,Population (persons) 1,11222
+40107,"Okfuskee, OK",3,Per capita personal income (dollars) 2,38087
+40109,"Oklahoma, OK",1,Personal income (thousands of dollars),51408475
+40109,"Oklahoma, OK",2,Population (persons) 1,799845
+40109,"Oklahoma, OK",3,Per capita personal income (dollars) 2,64273
+40111,"Okmulgee, OK",1,Personal income (thousands of dollars),1559068
+40111,"Okmulgee, OK",2,Population (persons) 1,36848
+40111,"Okmulgee, OK",3,Per capita personal income (dollars) 2,42311
+40113,"Osage, OK",1,Personal income (thousands of dollars),1994613
+40113,"Osage, OK",2,Population (persons) 1,45882
+40113,"Osage, OK",3,Per capita personal income (dollars) 2,43473
+40115,"Ottawa, OK",1,Personal income (thousands of dollars),1420075
+40115,"Ottawa, OK",2,Population (persons) 1,30380
+40115,"Ottawa, OK",3,Per capita personal income (dollars) 2,46744
+40117,"Pawnee, OK",1,Personal income (thousands of dollars),681176
+40117,"Pawnee, OK",2,Population (persons) 1,15707
+40117,"Pawnee, OK",3,Per capita personal income (dollars) 2,43368
+40119,"Payne, OK",1,Personal income (thousands of dollars),3637177
+40119,"Payne, OK",2,Population (persons) 1,82163
+40119,"Payne, OK",3,Per capita personal income (dollars) 2,44268
+40121,"Pittsburg, OK",1,Personal income (thousands of dollars),1848899
+40121,"Pittsburg, OK",2,Population (persons) 1,43630
+40121,"Pittsburg, OK",3,Per capita personal income (dollars) 2,42377
+40123,"Pontotoc, OK",1,Personal income (thousands of dollars),1975233
+40123,"Pontotoc, OK",2,Population (persons) 1,38184
+40123,"Pontotoc, OK",3,Per capita personal income (dollars) 2,51729
+40125,"Pottawatomie, OK",1,Personal income (thousands of dollars),3666397
+40125,"Pottawatomie, OK",2,Population (persons) 1,73045
+40125,"Pottawatomie, OK",3,Per capita personal income (dollars) 2,50194
+40127,"Pushmataha, OK",1,Personal income (thousands of dollars),438554
+40127,"Pushmataha, OK",2,Population (persons) 1,10767
+40127,"Pushmataha, OK",3,Per capita personal income (dollars) 2,40731
+40129,"Roger Mills, OK",1,Personal income (thousands of dollars),165853
+40129,"Roger Mills, OK",2,Population (persons) 1,3365
+40129,"Roger Mills, OK",3,Per capita personal income (dollars) 2,49288
+40131,"Rogers, OK",1,Personal income (thousands of dollars),5047776
+40131,"Rogers, OK",2,Population (persons) 1,96871
+40131,"Rogers, OK",3,Per capita personal income (dollars) 2,52108
+40133,"Seminole, OK",1,Personal income (thousands of dollars),990099
+40133,"Seminole, OK",2,Population (persons) 1,23542
+40133,"Seminole, OK",3,Per capita personal income (dollars) 2,42057
+40135,"Sequoyah, OK",1,Personal income (thousands of dollars),1691364
+40135,"Sequoyah, OK",2,Population (persons) 1,39494
+40135,"Sequoyah, OK",3,Per capita personal income (dollars) 2,42826
+40137,"Stephens, OK",1,Personal income (thousands of dollars),2042798
+40137,"Stephens, OK",2,Population (persons) 1,43110
+40137,"Stephens, OK",3,Per capita personal income (dollars) 2,47386
+40139,"Texas, OK",1,Personal income (thousands of dollars),1284863
+40139,"Texas, OK",2,Population (persons) 1,20849
+40139,"Texas, OK",3,Per capita personal income (dollars) 2,61627
+40141,"Tillman, OK",1,Personal income (thousands of dollars),286564
+40141,"Tillman, OK",2,Population (persons) 1,7040
+40141,"Tillman, OK",3,Per capita personal income (dollars) 2,40705
+40143,"Tulsa, OK",1,Personal income (thousands of dollars),45117464
+40143,"Tulsa, OK",2,Population (persons) 1,674051
+40143,"Tulsa, OK",3,Per capita personal income (dollars) 2,66935
+40145,"Wagoner, OK",1,Personal income (thousands of dollars),4108546
+40145,"Wagoner, OK",2,Population (persons) 1,84230
+40145,"Wagoner, OK",3,Per capita personal income (dollars) 2,48778
+40147,"Washington, OK",1,Personal income (thousands of dollars),4388001
+40147,"Washington, OK",2,Population (persons) 1,52903
+40147,"Washington, OK",3,Per capita personal income (dollars) 2,82944
+40149,"Washita, OK",1,Personal income (thousands of dollars),441717
+40149,"Washita, OK",2,Population (persons) 1,10899
+40149,"Washita, OK",3,Per capita personal income (dollars) 2,40528
+40151,"Woods, OK",1,Personal income (thousands of dollars),411457
+40151,"Woods, OK",2,Population (persons) 1,8623
+40151,"Woods, OK",3,Per capita personal income (dollars) 2,47716
+40153,"Woodward, OK",1,Personal income (thousands of dollars),842095
+40153,"Woodward, OK",2,Population (persons) 1,20241
+40153,"Woodward, OK",3,Per capita personal income (dollars) 2,41603
+48001,"Anderson, TX",1,Personal income (thousands of dollars),2525131
+48001,"Anderson, TX",2,Population (persons) 1,58302
+48001,"Anderson, TX",3,Per capita personal income (dollars) 2,43311
+48003,"Andrews, TX",1,Personal income (thousands of dollars),947082
+48003,"Andrews, TX",2,Population (persons) 1,18411
+48003,"Andrews, TX",3,Per capita personal income (dollars) 2,51441
+48005,"Angelina, TX",1,Personal income (thousands of dollars),4048433
+48005,"Angelina, TX",2,Population (persons) 1,86730
+48005,"Angelina, TX",3,Per capita personal income (dollars) 2,46679
+48007,"Aransas, TX",1,Personal income (thousands of dollars),1491836
+48007,"Aransas, TX",2,Population (persons) 1,24510
+48007,"Aransas, TX",3,Per capita personal income (dollars) 2,60866
+48009,"Archer, TX",1,Personal income (thousands of dollars),524792
+48009,"Archer, TX",2,Population (persons) 1,8702
+48009,"Archer, TX",3,Per capita personal income (dollars) 2,60307
+48011,"Armstrong, TX",1,Personal income (thousands of dollars),112720
+48011,"Armstrong, TX",2,Population (persons) 1,1840
+48011,"Armstrong, TX",3,Per capita personal income (dollars) 2,61261
+48013,"Atascosa, TX",1,Personal income (thousands of dollars),2278436
+48013,"Atascosa, TX",2,Population (persons) 1,49817
+48013,"Atascosa, TX",3,Per capita personal income (dollars) 2,45736
+48015,"Austin, TX",1,Personal income (thousands of dollars),1833605
+48015,"Austin, TX",2,Population (persons) 1,30431
+48015,"Austin, TX",3,Per capita personal income (dollars) 2,60255
+48017,"Bailey, TX",1,Personal income (thousands of dollars),370418
+48017,"Bailey, TX",2,Population (persons) 1,6803
+48017,"Bailey, TX",3,Per capita personal income (dollars) 2,54449
+48019,"Bandera, TX",1,Personal income (thousands of dollars),1255343
+48019,"Bandera, TX",2,Population (persons) 1,21528
+48019,"Bandera, TX",3,Per capita personal income (dollars) 2,58312
+48021,"Bastrop, TX",1,Personal income (thousands of dollars),4443311
+48021,"Bastrop, TX",2,Population (persons) 1,102276
+48021,"Bastrop, TX",3,Per capita personal income (dollars) 2,43444
+48023,"Baylor, TX",1,Personal income (thousands of dollars),203833
+48023,"Baylor, TX",2,Population (persons) 1,3458
+48023,"Baylor, TX",3,Per capita personal income (dollars) 2,58945
+48025,"Bee, TX",1,Personal income (thousands of dollars),1052967
+48025,"Bee, TX",2,Population (persons) 1,30836
+48025,"Bee, TX",3,Per capita personal income (dollars) 2,34147
+48027,"Bell, TX",1,Personal income (thousands of dollars),19038235
+48027,"Bell, TX",2,Population (persons) 1,380399
+48027,"Bell, TX",3,Per capita personal income (dollars) 2,50048
+48029,"Bexar, TX",1,Personal income (thousands of dollars),105071698
+48029,"Bexar, TX",2,Population (persons) 1,2030981
+48029,"Bexar, TX",3,Per capita personal income (dollars) 2,51734
+48031,"Blanco, TX",1,Personal income (thousands of dollars),860123
+48031,"Blanco, TX",2,Population (persons) 1,11882
+48031,"Blanco, TX",3,Per capita personal income (dollars) 2,72389
+48033,"Borden, TX",1,Personal income (thousands of dollars),58516
+48033,"Borden, TX",2,Population (persons) 1,618
+48033,"Borden, TX",3,Per capita personal income (dollars) 2,94686
+48035,"Bosque, TX",1,Personal income (thousands of dollars),955523
+48035,"Bosque, TX",2,Population (persons) 1,18499
+48035,"Bosque, TX",3,Per capita personal income (dollars) 2,51653
+48037,"Bowie, TX",1,Personal income (thousands of dollars),4529512
+48037,"Bowie, TX",2,Population (persons) 1,92282
+48037,"Bowie, TX",3,Per capita personal income (dollars) 2,49083
+48039,"Brazoria, TX",1,Personal income (thousands of dollars),21335206
+48039,"Brazoria, TX",2,Population (persons) 1,379121
+48039,"Brazoria, TX",3,Per capita personal income (dollars) 2,56275
+48041,"Brazos, TX",1,Personal income (thousands of dollars),11463164
+48041,"Brazos, TX",2,Population (persons) 1,237612
+48041,"Brazos, TX",3,Per capita personal income (dollars) 2,48243
+48043,"Brewster, TX",1,Personal income (thousands of dollars),524146
+48043,"Brewster, TX",2,Population (persons) 1,9473
+48043,"Brewster, TX",3,Per capita personal income (dollars) 2,55331
+48045,"Briscoe, TX",1,Personal income (thousands of dollars),88002
+48045,"Briscoe, TX",2,Population (persons) 1,1400
+48045,"Briscoe, TX",3,Per capita personal income (dollars) 2,62859
+48047,"Brooks, TX",1,Personal income (thousands of dollars),302733
+48047,"Brooks, TX",2,Population (persons) 1,6969
+48047,"Brooks, TX",3,Per capita personal income (dollars) 2,43440
+48049,"Brown, TX",1,Personal income (thousands of dollars),1755409
+48049,"Brown, TX",2,Population (persons) 1,38135
+48049,"Brown, TX",3,Per capita personal income (dollars) 2,46031
+48051,"Burleson, TX",1,Personal income (thousands of dollars),978044
+48051,"Burleson, TX",2,Population (persons) 1,18109
+48051,"Burleson, TX",3,Per capita personal income (dollars) 2,54009
+48053,"Burnet, TX",1,Personal income (thousands of dollars),3136602
+48053,"Burnet, TX",2,Population (persons) 1,51146
+48053,"Burnet, TX",3,Per capita personal income (dollars) 2,61326
+48055,"Caldwell, TX",1,Personal income (thousands of dollars),1905992
+48055,"Caldwell, TX",2,Population (persons) 1,46940
+48055,"Caldwell, TX",3,Per capita personal income (dollars) 2,40605
+48057,"Calhoun, TX",1,Personal income (thousands of dollars),1250478
+48057,"Calhoun, TX",2,Population (persons) 1,19782
+48057,"Calhoun, TX",3,Per capita personal income (dollars) 2,63213
+48059,"Callahan, TX",1,Personal income (thousands of dollars),713503
+48059,"Callahan, TX",2,Population (persons) 1,14098
+48059,"Callahan, TX",3,Per capita personal income (dollars) 2,50610
+48061,"Cameron, TX",1,Personal income (thousands of dollars),16104524
+48061,"Cameron, TX",2,Population (persons) 1,422636
+48061,"Cameron, TX",3,Per capita personal income (dollars) 2,38105
+48063,"Camp, TX",1,Personal income (thousands of dollars),628263
+48063,"Camp, TX",2,Population (persons) 1,12602
+48063,"Camp, TX",3,Per capita personal income (dollars) 2,49854
+48065,"Carson, TX",1,Personal income (thousands of dollars),324479
+48065,"Carson, TX",2,Population (persons) 1,5714
+48065,"Carson, TX",3,Per capita personal income (dollars) 2,56787
+48067,"Cass, TX",1,Personal income (thousands of dollars),1324875
+48067,"Cass, TX",2,Population (persons) 1,28573
+48067,"Cass, TX",3,Per capita personal income (dollars) 2,46368
+48069,"Castro, TX",1,Personal income (thousands of dollars),626439
+48069,"Castro, TX",2,Population (persons) 1,7366
+48069,"Castro, TX",3,Per capita personal income (dollars) 2,85045
+48071,"Chambers, TX",1,Personal income (thousands of dollars),2927810
+48071,"Chambers, TX",2,Population (persons) 1,48727
+48071,"Chambers, TX",3,Per capita personal income (dollars) 2,60086
+48073,"Cherokee, TX",1,Personal income (thousands of dollars),2217972
+48073,"Cherokee, TX",2,Population (persons) 1,51150
+48073,"Cherokee, TX",3,Per capita personal income (dollars) 2,43362
+48075,"Childress, TX",1,Personal income (thousands of dollars),267132
+48075,"Childress, TX",2,Population (persons) 1,6787
+48075,"Childress, TX",3,Per capita personal income (dollars) 2,39359
+48077,"Clay, TX",1,Personal income (thousands of dollars),538670
+48077,"Clay, TX",2,Population (persons) 1,10311
+48077,"Clay, TX",3,Per capita personal income (dollars) 2,52242
+48079,"Cochran, TX",1,Personal income (thousands of dollars),144537
+48079,"Cochran, TX",2,Population (persons) 1,2480
+48079,"Cochran, TX",3,Per capita personal income (dollars) 2,58281
+48081,"Coke, TX",1,Personal income (thousands of dollars),169854
+48081,"Coke, TX",2,Population (persons) 1,3304
+48081,"Coke, TX",3,Per capita personal income (dollars) 2,51409
+48083,"Coleman, TX",1,Personal income (thousands of dollars),442566
+48083,"Coleman, TX",2,Population (persons) 1,7722
+48083,"Coleman, TX",3,Per capita personal income (dollars) 2,57312
+48085,"Collin, TX",1,Personal income (thousands of dollars),86854395
+48085,"Collin, TX",2,Population (persons) 1,1114661
+48085,"Collin, TX",3,Per capita personal income (dollars) 2,77920
+48087,"Collingsworth, TX",1,Personal income (thousands of dollars),144345
+48087,"Collingsworth, TX",2,Population (persons) 1,2607
+48087,"Collingsworth, TX",3,Per capita personal income (dollars) 2,55368
+48089,"Colorado, TX",1,Personal income (thousands of dollars),1263801
+48089,"Colorado, TX",2,Population (persons) 1,20642
+48089,"Colorado, TX",3,Per capita personal income (dollars) 2,61225
+48091,"Comal, TX",1,Personal income (thousands of dollars),12455366
+48091,"Comal, TX",2,Population (persons) 1,174977
+48091,"Comal, TX",3,Per capita personal income (dollars) 2,71183
+48093,"Comanche, TX",1,Personal income (thousands of dollars),707707
+48093,"Comanche, TX",2,Population (persons) 1,13805
+48093,"Comanche, TX",3,Per capita personal income (dollars) 2,51265
+48095,"Concho, TX",1,Personal income (thousands of dollars),131374
+48095,"Concho, TX",2,Population (persons) 1,3348
+48095,"Concho, TX",3,Per capita personal income (dollars) 2,39240
+48097,"Cooke, TX",1,Personal income (thousands of dollars),2485166
+48097,"Cooke, TX",2,Population (persons) 1,42398
+48097,"Cooke, TX",3,Per capita personal income (dollars) 2,58615
+48099,"Coryell, TX",1,Personal income (thousands of dollars),3157431
+48099,"Coryell, TX",2,Population (persons) 1,84389
+48099,"Coryell, TX",3,Per capita personal income (dollars) 2,37415
+48101,"Cottle, TX",1,Personal income (thousands of dollars),102040
+48101,"Cottle, TX",2,Population (persons) 1,1355
+48101,"Cottle, TX",3,Per capita personal income (dollars) 2,75306
+48103,"Crane, TX",1,Personal income (thousands of dollars),232899
+48103,"Crane, TX",2,Population (persons) 1,4636
+48103,"Crane, TX",3,Per capita personal income (dollars) 2,50237
+48105,"Crockett, TX",1,Personal income (thousands of dollars),175373
+48105,"Crockett, TX",2,Population (persons) 1,3013
+48105,"Crockett, TX",3,Per capita personal income (dollars) 2,58205
+48107,"Crosby, TX",1,Personal income (thousands of dollars),265710
+48107,"Crosby, TX",2,Population (persons) 1,5085
+48107,"Crosby, TX",3,Per capita personal income (dollars) 2,52254
+48109,"Culberson, TX",1,Personal income (thousands of dollars),154204
+48109,"Culberson, TX",2,Population (persons) 1,2182
+48109,"Culberson, TX",3,Per capita personal income (dollars) 2,70671
+48111,"Dallam, TX",1,Personal income (thousands of dollars),525836
+48111,"Dallam, TX",2,Population (persons) 1,7175
+48111,"Dallam, TX",3,Per capita personal income (dollars) 2,73287
+48113,"Dallas, TX",1,Personal income (thousands of dollars),187409835
+48113,"Dallas, TX",2,Population (persons) 1,2588235
+48113,"Dallas, TX",3,Per capita personal income (dollars) 2,72408
+48115,"Dawson, TX",1,Personal income (thousands of dollars),564960
+48115,"Dawson, TX",2,Population (persons) 1,12367
+48115,"Dawson, TX",3,Per capita personal income (dollars) 2,45683
+48117,"Deaf Smith, TX",1,Personal income (thousands of dollars),1155575
+48117,"Deaf Smith, TX",2,Population (persons) 1,18379
+48117,"Deaf Smith, TX",3,Per capita personal income (dollars) 2,62875
+48119,"Delta, TX",1,Personal income (thousands of dollars),254539
+48119,"Delta, TX",2,Population (persons) 1,5344
+48119,"Delta, TX",3,Per capita personal income (dollars) 2,47631
+48121,"Denton, TX",1,Personal income (thousands of dollars),66669049
+48121,"Denton, TX",2,Population (persons) 1,943883
+48121,"Denton, TX",3,Per capita personal income (dollars) 2,70633
+48123,"DeWitt, TX",1,Personal income (thousands of dollars),1239703
+48123,"DeWitt, TX",2,Population (persons) 1,19949
+48123,"DeWitt, TX",3,Per capita personal income (dollars) 2,62144
+48125,"Dickens, TX",1,Personal income (thousands of dollars),83851
+48125,"Dickens, TX",2,Population (persons) 1,1734
+48125,"Dickens, TX",3,Per capita personal income (dollars) 2,48357
+48127,"Dimmit, TX",1,Personal income (thousands of dollars),447978
+48127,"Dimmit, TX",2,Population (persons) 1,8479
+48127,"Dimmit, TX",3,Per capita personal income (dollars) 2,52834
+48129,"Donley, TX",1,Personal income (thousands of dollars),164725
+48129,"Donley, TX",2,Population (persons) 1,3361
+48129,"Donley, TX",3,Per capita personal income (dollars) 2,49011
+48131,"Duval, TX",1,Personal income (thousands of dollars),482481
+48131,"Duval, TX",2,Population (persons) 1,9998
+48131,"Duval, TX",3,Per capita personal income (dollars) 2,48258
+48133,"Eastland, TX",1,Personal income (thousands of dollars),1006041
+48133,"Eastland, TX",2,Population (persons) 1,17826
+48133,"Eastland, TX",3,Per capita personal income (dollars) 2,56437
+48135,"Ector, TX",1,Personal income (thousands of dollars),8450895
+48135,"Ector, TX",2,Population (persons) 1,160758
+48135,"Ector, TX",3,Per capita personal income (dollars) 2,52569
+48137,"Edwards, TX",1,Personal income (thousands of dollars),104752
+48137,"Edwards, TX",2,Population (persons) 1,1429
+48137,"Edwards, TX",3,Per capita personal income (dollars) 2,73304
+48139,"Ellis, TX",1,Personal income (thousands of dollars),10912548
+48139,"Ellis, TX",2,Population (persons) 1,203187
+48139,"Ellis, TX",3,Per capita personal income (dollars) 2,53707
+48141,"El Paso, TX",1,Personal income (thousands of dollars),38371386
+48141,"El Paso, TX",2,Population (persons) 1,867499
+48141,"El Paso, TX",3,Per capita personal income (dollars) 2,44232
+48143,"Erath, TX",1,Personal income (thousands of dollars),2062720
+48143,"Erath, TX",2,Population (persons) 1,43381
+48143,"Erath, TX",3,Per capita personal income (dollars) 2,47549
+48145,"Falls, TX",1,Personal income (thousands of dollars),733390
+48145,"Falls, TX",2,Population (persons) 1,17113
+48145,"Falls, TX",3,Per capita personal income (dollars) 2,42856
+48147,"Fannin, TX",1,Personal income (thousands of dollars),1721899
+48147,"Fannin, TX",2,Population (persons) 1,36723
+48147,"Fannin, TX",3,Per capita personal income (dollars) 2,46889
+48149,"Fayette, TX",1,Personal income (thousands of dollars),1674473
+48149,"Fayette, TX",2,Population (persons) 1,24690
+48149,"Fayette, TX",3,Per capita personal income (dollars) 2,67820
+48151,"Fisher, TX",1,Personal income (thousands of dollars),209442
+48151,"Fisher, TX",2,Population (persons) 1,3675
+48151,"Fisher, TX",3,Per capita personal income (dollars) 2,56991
+48153,"Floyd, TX",1,Personal income (thousands of dollars),282280
+48153,"Floyd, TX",2,Population (persons) 1,5292
+48153,"Floyd, TX",3,Per capita personal income (dollars) 2,53341
+48155,"Foard, TX",1,Personal income (thousands of dollars),65780
+48155,"Foard, TX",2,Population (persons) 1,1056
+48155,"Foard, TX",3,Per capita personal income (dollars) 2,62292
+48157,"Fort Bend, TX",1,Personal income (thousands of dollars),57604037
+48157,"Fort Bend, TX",2,Population (persons) 1,860305
+48157,"Fort Bend, TX",3,Per capita personal income (dollars) 2,66958
+48159,"Franklin, TX",1,Personal income (thousands of dollars),539337
+48159,"Franklin, TX",2,Population (persons) 1,10497
+48159,"Franklin, TX",3,Per capita personal income (dollars) 2,51380
+48161,"Freestone, TX",1,Personal income (thousands of dollars),878736
+48161,"Freestone, TX",2,Population (persons) 1,19788
+48161,"Freestone, TX",3,Per capita personal income (dollars) 2,44408
+48163,"Frio, TX",1,Personal income (thousands of dollars),687975
+48163,"Frio, TX",2,Population (persons) 1,17543
+48163,"Frio, TX",3,Per capita personal income (dollars) 2,39216
+48165,"Gaines, TX",1,Personal income (thousands of dollars),1062763
+48165,"Gaines, TX",2,Population (persons) 1,21878
+48165,"Gaines, TX",3,Per capita personal income (dollars) 2,48577
+48167,"Galveston, TX",1,Personal income (thousands of dollars),20947057
+48167,"Galveston, TX",2,Population (persons) 1,355560
+48167,"Galveston, TX",3,Per capita personal income (dollars) 2,58913
+48169,"Garza, TX",1,Personal income (thousands of dollars),200033
+48169,"Garza, TX",2,Population (persons) 1,6269
+48169,"Garza, TX",3,Per capita personal income (dollars) 2,31908
+48171,"Gillespie, TX",1,Personal income (thousands of dollars),2175038
+48171,"Gillespie, TX",2,Population (persons) 1,27293
+48171,"Gillespie, TX",3,Per capita personal income (dollars) 2,79692
+48173,"Glasscock, TX",1,Personal income (thousands of dollars),110771
+48173,"Glasscock, TX",2,Population (persons) 1,1136
+48173,"Glasscock, TX",3,Per capita personal income (dollars) 2,97510
+48175,"Goliad, TX",1,Personal income (thousands of dollars),397618
+48175,"Goliad, TX",2,Population (persons) 1,7133
+48175,"Goliad, TX",3,Per capita personal income (dollars) 2,55743
+48177,"Gonzales, TX",1,Personal income (thousands of dollars),1104235
+48177,"Gonzales, TX",2,Population (persons) 1,19636
+48177,"Gonzales, TX",3,Per capita personal income (dollars) 2,56235
+48179,"Gray, TX",1,Personal income (thousands of dollars),983291
+48179,"Gray, TX",2,Population (persons) 1,21128
+48179,"Gray, TX",3,Per capita personal income (dollars) 2,46540
+48181,"Grayson, TX",1,Personal income (thousands of dollars),7321779
+48181,"Grayson, TX",2,Population (persons) 1,139563
+48181,"Grayson, TX",3,Per capita personal income (dollars) 2,52462
+48183,"Gregg, TX",1,Personal income (thousands of dollars),6816501
+48183,"Gregg, TX",2,Population (persons) 1,124130
+48183,"Gregg, TX",3,Per capita personal income (dollars) 2,54914
+48185,"Grimes, TX",1,Personal income (thousands of dollars),1315069
+48185,"Grimes, TX",2,Population (persons) 1,30145
+48185,"Grimes, TX",3,Per capita personal income (dollars) 2,43625
+48187,"Guadalupe, TX",1,Personal income (thousands of dollars),9434534
+48187,"Guadalupe, TX",2,Population (persons) 1,177301
+48187,"Guadalupe, TX",3,Per capita personal income (dollars) 2,53212
+48189,"Hale, TX",1,Personal income (thousands of dollars),1366684
+48189,"Hale, TX",2,Population (persons) 1,32208
+48189,"Hale, TX",3,Per capita personal income (dollars) 2,42433
+48191,"Hall, TX",1,Personal income (thousands of dollars),142696
+48191,"Hall, TX",2,Population (persons) 1,2842
+48191,"Hall, TX",3,Per capita personal income (dollars) 2,50210
+48193,"Hamilton, TX",1,Personal income (thousands of dollars),580204
+48193,"Hamilton, TX",2,Population (persons) 1,8230
+48193,"Hamilton, TX",3,Per capita personal income (dollars) 2,70499
+48195,"Hansford, TX",1,Personal income (thousands of dollars),401269
+48195,"Hansford, TX",2,Population (persons) 1,5120
+48195,"Hansford, TX",3,Per capita personal income (dollars) 2,78373
+48197,"Hardeman, TX",1,Personal income (thousands of dollars),196097
+48197,"Hardeman, TX",2,Population (persons) 1,3546
+48197,"Hardeman, TX",3,Per capita personal income (dollars) 2,55301
+48199,"Hardin, TX",1,Personal income (thousands of dollars),3026402
+48199,"Hardin, TX",2,Population (persons) 1,57133
+48199,"Hardin, TX",3,Per capita personal income (dollars) 2,52971
+48201,"Harris, TX",1,Personal income (thousands of dollars),312302121
+48201,"Harris, TX",2,Population (persons) 1,4735517
+48201,"Harris, TX",3,Per capita personal income (dollars) 2,65949
+48203,"Harrison, TX",1,Personal income (thousands of dollars),3286332
+48203,"Harrison, TX",2,Population (persons) 1,69527
+48203,"Harrison, TX",3,Per capita personal income (dollars) 2,47267
+48205,"Hartley, TX",1,Personal income (thousands of dollars),459090
+48205,"Hartley, TX",2,Population (persons) 1,5393
+48205,"Hartley, TX",3,Per capita personal income (dollars) 2,85127
+48207,"Haskell, TX",1,Personal income (thousands of dollars),252783
+48207,"Haskell, TX",2,Population (persons) 1,5375
+48207,"Haskell, TX",3,Per capita personal income (dollars) 2,47029
+48209,"Hays, TX",1,Personal income (thousands of dollars),14583106
+48209,"Hays, TX",2,Population (persons) 1,255955
+48209,"Hays, TX",3,Per capita personal income (dollars) 2,56975
+48211,"Hemphill, TX",1,Personal income (thousands of dollars),229510
+48211,"Hemphill, TX",2,Population (persons) 1,3324
+48211,"Hemphill, TX",3,Per capita personal income (dollars) 2,69046
+48213,"Henderson, TX",1,Personal income (thousands of dollars),4027382
+48213,"Henderson, TX",2,Population (persons) 1,83653
+48213,"Henderson, TX",3,Per capita personal income (dollars) 2,48144
+48215,"Hidalgo, TX",1,Personal income (thousands of dollars),30625164
+48215,"Hidalgo, TX",2,Population (persons) 1,879865
+48215,"Hidalgo, TX",3,Per capita personal income (dollars) 2,34807
+48217,"Hill, TX",1,Personal income (thousands of dollars),1805337
+48217,"Hill, TX",2,Population (persons) 1,36378
+48217,"Hill, TX",3,Per capita personal income (dollars) 2,49627
+48219,"Hockley, TX",1,Personal income (thousands of dollars),1066477
+48219,"Hockley, TX",2,Population (persons) 1,21265
+48219,"Hockley, TX",3,Per capita personal income (dollars) 2,50152
+48221,"Hood, TX",1,Personal income (thousands of dollars),3921103
+48221,"Hood, TX",2,Population (persons) 1,64293
+48221,"Hood, TX",3,Per capita personal income (dollars) 2,60988
+48223,"Hopkins, TX",1,Personal income (thousands of dollars),1870234
+48223,"Hopkins, TX",2,Population (persons) 1,37210
+48223,"Hopkins, TX",3,Per capita personal income (dollars) 2,50262
+48225,"Houston, TX",1,Personal income (thousands of dollars),1082732
+48225,"Houston, TX",2,Population (persons) 1,21962
+48225,"Houston, TX",3,Per capita personal income (dollars) 2,49300
+48227,"Howard, TX",1,Personal income (thousands of dollars),1732416
+48227,"Howard, TX",2,Population (persons) 1,34365
+48227,"Howard, TX",3,Per capita personal income (dollars) 2,50412
+48229,"Hudspeth, TX",1,Personal income (thousands of dollars),128034
+48229,"Hudspeth, TX",2,Population (persons) 1,3275
+48229,"Hudspeth, TX",3,Per capita personal income (dollars) 2,39094
+48231,"Hunt, TX",1,Personal income (thousands of dollars),4914611
+48231,"Hunt, TX",2,Population (persons) 1,103591
+48231,"Hunt, TX",3,Per capita personal income (dollars) 2,47442
+48233,"Hutchinson, TX",1,Personal income (thousands of dollars),984944
+48233,"Hutchinson, TX",2,Population (persons) 1,20438
+48233,"Hutchinson, TX",3,Per capita personal income (dollars) 2,48192
+48235,"Irion, TX",1,Personal income (thousands of dollars),113995
+48235,"Irion, TX",2,Population (persons) 1,1534
+48235,"Irion, TX",3,Per capita personal income (dollars) 2,74312
+48237,"Jack, TX",1,Personal income (thousands of dollars),408370
+48237,"Jack, TX",2,Population (persons) 1,8550
+48237,"Jack, TX",3,Per capita personal income (dollars) 2,47763
+48239,"Jackson, TX",1,Personal income (thousands of dollars),768785
+48239,"Jackson, TX",2,Population (persons) 1,15118
+48239,"Jackson, TX",3,Per capita personal income (dollars) 2,50852
+48241,"Jasper, TX",1,Personal income (thousands of dollars),1635683
+48241,"Jasper, TX",2,Population (persons) 1,32552
+48241,"Jasper, TX",3,Per capita personal income (dollars) 2,50248
+48243,"Jeff Davis, TX",1,Personal income (thousands of dollars),112908
+48243,"Jeff Davis, TX",2,Population (persons) 1,1959
+48243,"Jeff Davis, TX",3,Per capita personal income (dollars) 2,57636
+48245,"Jefferson, TX",1,Personal income (thousands of dollars),12028725
+48245,"Jefferson, TX",2,Population (persons) 1,253727
+48245,"Jefferson, TX",3,Per capita personal income (dollars) 2,47408
+48247,"Jim Hogg, TX",1,Personal income (thousands of dollars),201291
+48247,"Jim Hogg, TX",2,Population (persons) 1,4790
+48247,"Jim Hogg, TX",3,Per capita personal income (dollars) 2,42023
+48249,"Jim Wells, TX",1,Personal income (thousands of dollars),1867886
+48249,"Jim Wells, TX",2,Population (persons) 1,38893
+48249,"Jim Wells, TX",3,Per capita personal income (dollars) 2,48026
+48251,"Johnson, TX",1,Personal income (thousands of dollars),9650100
+48251,"Johnson, TX",2,Population (persons) 1,187511
+48251,"Johnson, TX",3,Per capita personal income (dollars) 2,51464
+48253,"Jones, TX",1,Personal income (thousands of dollars),769726
+48253,"Jones, TX",2,Population (persons) 1,19811
+48253,"Jones, TX",3,Per capita personal income (dollars) 2,38853
+48255,"Karnes, TX",1,Personal income (thousands of dollars),1002299
+48255,"Karnes, TX",2,Population (persons) 1,14732
+48255,"Karnes, TX",3,Per capita personal income (dollars) 2,68036
+48257,"Kaufman, TX",1,Personal income (thousands of dollars),8049383
+48257,"Kaufman, TX",2,Population (persons) 1,158313
+48257,"Kaufman, TX",3,Per capita personal income (dollars) 2,50845
+48259,"Kendall, TX",1,Personal income (thousands of dollars),4693599
+48259,"Kendall, TX",2,Population (persons) 1,46861
+48259,"Kendall, TX",3,Per capita personal income (dollars) 2,100160
+48261,"Kenedy, TX",1,Personal income (thousands of dollars),16695
+48261,"Kenedy, TX",2,Population (persons) 1,339
+48261,"Kenedy, TX",3,Per capita personal income (dollars) 2,49248
+48263,"Kent, TX",1,Personal income (thousands of dollars),38971
+48263,"Kent, TX",2,Population (persons) 1,748
+48263,"Kent, TX",3,Per capita personal income (dollars) 2,52100
+48265,"Kerr, TX",1,Personal income (thousands of dollars),3277561
+48265,"Kerr, TX",2,Population (persons) 1,53175
+48265,"Kerr, TX",3,Per capita personal income (dollars) 2,61637
+48267,"Kimble, TX",1,Personal income (thousands of dollars),245393
+48267,"Kimble, TX",2,Population (persons) 1,4348
+48267,"Kimble, TX",3,Per capita personal income (dollars) 2,56438
+48269,"King, TX",1,Personal income (thousands of dollars),22924
+48269,"King, TX",2,Population (persons) 1,256
+48269,"King, TX",3,Per capita personal income (dollars) 2,89547
+48271,"Kinney, TX",1,Personal income (thousands of dollars),134352
+48271,"Kinney, TX",2,Population (persons) 1,3122
+48271,"Kinney, TX",3,Per capita personal income (dollars) 2,43034
+48273,"Kleberg, TX",1,Personal income (thousands of dollars),1386647
+48273,"Kleberg, TX",2,Population (persons) 1,30625
+48273,"Kleberg, TX",3,Per capita personal income (dollars) 2,45278
+48275,"Knox, TX",1,Personal income (thousands of dollars),171816
+48275,"Knox, TX",2,Population (persons) 1,3318
+48275,"Knox, TX",3,Per capita personal income (dollars) 2,51783
+48277,"Lamar, TX",1,Personal income (thousands of dollars),2564461
+48277,"Lamar, TX",2,Population (persons) 1,50349
+48277,"Lamar, TX",3,Per capita personal income (dollars) 2,50934
+48279,"Lamb, TX",1,Personal income (thousands of dollars),699822
+48279,"Lamb, TX",2,Population (persons) 1,12909
+48279,"Lamb, TX",3,Per capita personal income (dollars) 2,54212
+48281,"Lampasas, TX",1,Personal income (thousands of dollars),1323715
+48281,"Lampasas, TX",2,Population (persons) 1,22224
+48281,"Lampasas, TX",3,Per capita personal income (dollars) 2,59562
+48283,"La Salle, TX",1,Personal income (thousands of dollars),307035
+48283,"La Salle, TX",2,Population (persons) 1,6708
+48283,"La Salle, TX",3,Per capita personal income (dollars) 2,45771
+48285,"Lavaca, TX",1,Personal income (thousands of dollars),1266879
+48285,"Lavaca, TX",2,Population (persons) 1,20538
+48285,"Lavaca, TX",3,Per capita personal income (dollars) 2,61685
+48287,"Lee, TX",1,Personal income (thousands of dollars),1025844
+48287,"Lee, TX",2,Population (persons) 1,17679
+48287,"Lee, TX",3,Per capita personal income (dollars) 2,58026
+48289,"Leon, TX",1,Personal income (thousands of dollars),869215
+48289,"Leon, TX",2,Population (persons) 1,16009
+48289,"Leon, TX",3,Per capita personal income (dollars) 2,54295
+48291,"Liberty, TX",1,Personal income (thousands of dollars),4086461
+48291,"Liberty, TX",2,Population (persons) 1,97488
+48291,"Liberty, TX",3,Per capita personal income (dollars) 2,41918
+48293,"Limestone, TX",1,Personal income (thousands of dollars),1058100
+48293,"Limestone, TX",2,Population (persons) 1,22060
+48293,"Limestone, TX",3,Per capita personal income (dollars) 2,47965
+48295,"Lipscomb, TX",1,Personal income (thousands of dollars),320891
+48295,"Lipscomb, TX",2,Population (persons) 1,2895
+48295,"Lipscomb, TX",3,Per capita personal income (dollars) 2,110843
+48297,"Live Oak, TX",1,Personal income (thousands of dollars),525623
+48297,"Live Oak, TX",2,Population (persons) 1,11386
+48297,"Live Oak, TX",3,Per capita personal income (dollars) 2,46164
+48299,"Llano, TX",1,Personal income (thousands of dollars),1412292
+48299,"Llano, TX",2,Population (persons) 1,22056
+48299,"Llano, TX",3,Per capita personal income (dollars) 2,64032
+48301,"Loving, TX",1,Personal income (thousands of dollars),7318
+48301,"Loving, TX",2,Population (persons) 1,54
+48301,"Loving, TX",3,Per capita personal income (dollars) 2,135519
+48303,"Lubbock, TX",1,Personal income (thousands of dollars),16116009
+48303,"Lubbock, TX",2,Population (persons) 1,314642
+48303,"Lubbock, TX",3,Per capita personal income (dollars) 2,51220
+48305,"Lynn, TX",1,Personal income (thousands of dollars),331473
+48305,"Lynn, TX",2,Population (persons) 1,5645
+48305,"Lynn, TX",3,Per capita personal income (dollars) 2,58720
+48307,"McCulloch, TX",1,Personal income (thousands of dollars),355964
+48307,"McCulloch, TX",2,Population (persons) 1,7522
+48307,"McCulloch, TX",3,Per capita personal income (dollars) 2,47323
+48309,"McLennan, TX",1,Personal income (thousands of dollars),13097052
+48309,"McLennan, TX",2,Population (persons) 1,263721
+48309,"McLennan, TX",3,Per capita personal income (dollars) 2,49663
+48311,"McMullen, TX",1,Personal income (thousands of dollars),54712
+48311,"McMullen, TX",2,Population (persons) 1,592
+48311,"McMullen, TX",3,Per capita personal income (dollars) 2,92419
+48313,"Madison, TX",1,Personal income (thousands of dollars),565934
+48313,"Madison, TX",2,Population (persons) 1,13512
+48313,"Madison, TX",3,Per capita personal income (dollars) 2,41884
+48315,"Marion, TX",1,Personal income (thousands of dollars),466405
+48315,"Marion, TX",2,Population (persons) 1,9620
+48315,"Marion, TX",3,Per capita personal income (dollars) 2,48483
+48317,"Martin, TX",1,Personal income (thousands of dollars),442215
+48317,"Martin, TX",2,Population (persons) 1,5214
+48317,"Martin, TX",3,Per capita personal income (dollars) 2,84813
+48319,"Mason, TX",1,Personal income (thousands of dollars),229505
+48319,"Mason, TX",2,Population (persons) 1,3929
+48319,"Mason, TX",3,Per capita personal income (dollars) 2,58413
+48321,"Matagorda, TX",1,Personal income (thousands of dollars),1847671
+48321,"Matagorda, TX",2,Population (persons) 1,36339
+48321,"Matagorda, TX",3,Per capita personal income (dollars) 2,50845
+48323,"Maverick, TX",1,Personal income (thousands of dollars),2244943
+48323,"Maverick, TX",2,Population (persons) 1,57683
+48323,"Maverick, TX",3,Per capita personal income (dollars) 2,38919
+48325,"Medina, TX",1,Personal income (thousands of dollars),2598719
+48325,"Medina, TX",2,Population (persons) 1,52328
+48325,"Medina, TX",3,Per capita personal income (dollars) 2,49662
+48327,"Menard, TX",1,Personal income (thousands of dollars),96117
+48327,"Menard, TX",2,Population (persons) 1,1968
+48327,"Menard, TX",3,Per capita personal income (dollars) 2,48840
+48329,"Midland, TX",1,Personal income (thousands of dollars),20274223
+48329,"Midland, TX",2,Population (persons) 1,168257
+48329,"Midland, TX",3,Per capita personal income (dollars) 2,120496
+48331,"Milam, TX",1,Personal income (thousands of dollars),1153778
+48331,"Milam, TX",2,Population (persons) 1,25212
+48331,"Milam, TX",3,Per capita personal income (dollars) 2,45763
+48333,"Mills, TX",1,Personal income (thousands of dollars),235053
+48333,"Mills, TX",2,Population (persons) 1,4489
+48333,"Mills, TX",3,Per capita personal income (dollars) 2,52362
+48335,"Mitchell, TX",1,Personal income (thousands of dollars),322969
+48335,"Mitchell, TX",2,Population (persons) 1,9042
+48335,"Mitchell, TX",3,Per capita personal income (dollars) 2,35719
+48337,"Montague, TX",1,Personal income (thousands of dollars),951404
+48337,"Montague, TX",2,Population (persons) 1,20437
+48337,"Montague, TX",3,Per capita personal income (dollars) 2,46553
+48339,"Montgomery, TX",1,Personal income (thousands of dollars),46515304
+48339,"Montgomery, TX",2,Population (persons) 1,650755
+48339,"Montgomery, TX",3,Per capita personal income (dollars) 2,71479
+48341,"Moore, TX",1,Personal income (thousands of dollars),1173579
+48341,"Moore, TX",2,Population (persons) 1,21136
+48341,"Moore, TX",3,Per capita personal income (dollars) 2,55525
+48343,"Morris, TX",1,Personal income (thousands of dollars),572494
+48343,"Morris, TX",2,Population (persons) 1,12007
+48343,"Morris, TX",3,Per capita personal income (dollars) 2,47680
+48345,"Motley, TX",1,Personal income (thousands of dollars),42710
+48345,"Motley, TX",2,Population (persons) 1,1071
+48345,"Motley, TX",3,Per capita personal income (dollars) 2,39879
+48347,"Nacogdoches, TX",1,Personal income (thousands of dollars),2967318
+48347,"Nacogdoches, TX",2,Population (persons) 1,64778
+48347,"Nacogdoches, TX",3,Per capita personal income (dollars) 2,45807
+48349,"Navarro, TX",1,Personal income (thousands of dollars),2420154
+48349,"Navarro, TX",2,Population (persons) 1,53637
+48349,"Navarro, TX",3,Per capita personal income (dollars) 2,45121
+48351,"Newton, TX",1,Personal income (thousands of dollars),532793
+48351,"Newton, TX",2,Population (persons) 1,12212
+48351,"Newton, TX",3,Per capita personal income (dollars) 2,43629
+48353,"Nolan, TX",1,Personal income (thousands of dollars),757192
+48353,"Nolan, TX",2,Population (persons) 1,14605
+48353,"Nolan, TX",3,Per capita personal income (dollars) 2,51845
+48355,"Nueces, TX",1,Personal income (thousands of dollars),18944787
+48355,"Nueces, TX",2,Population (persons) 1,353292
+48355,"Nueces, TX",3,Per capita personal income (dollars) 2,53624
+48357,"Ochiltree, TX",1,Personal income (thousands of dollars),607473
+48357,"Ochiltree, TX",2,Population (persons) 1,9768
+48357,"Ochiltree, TX",3,Per capita personal income (dollars) 2,62190
+48359,"Oldham, TX",1,Personal income (thousands of dollars),130168
+48359,"Oldham, TX",2,Population (persons) 1,1734
+48359,"Oldham, TX",3,Per capita personal income (dollars) 2,75068
+48361,"Orange, TX",1,Personal income (thousands of dollars),4164094
+48361,"Orange, TX",2,Population (persons) 1,84666
+48361,"Orange, TX",3,Per capita personal income (dollars) 2,49183
+48363,"Palo Pinto, TX",1,Personal income (thousands of dollars),1473021
+48363,"Palo Pinto, TX",2,Population (persons) 1,28742
+48363,"Palo Pinto, TX",3,Per capita personal income (dollars) 2,51250
+48365,"Panola, TX",1,Personal income (thousands of dollars),1181682
+48365,"Panola, TX",2,Population (persons) 1,22556
+48365,"Panola, TX",3,Per capita personal income (dollars) 2,52389
+48367,"Parker, TX",1,Personal income (thousands of dollars),10424668
+48367,"Parker, TX",2,Population (persons) 1,157088
+48367,"Parker, TX",3,Per capita personal income (dollars) 2,66362
+48369,"Parmer, TX",1,Personal income (thousands of dollars),630078
+48369,"Parmer, TX",2,Population (persons) 1,9784
+48369,"Parmer, TX",3,Per capita personal income (dollars) 2,64399
+48371,"Pecos, TX",1,Personal income (thousands of dollars),641052
+48371,"Pecos, TX",2,Population (persons) 1,15117
+48371,"Pecos, TX",3,Per capita personal income (dollars) 2,42406
+48373,"Polk, TX",1,Personal income (thousands of dollars),2464205
+48373,"Polk, TX",2,Population (persons) 1,51877
+48373,"Polk, TX",3,Per capita personal income (dollars) 2,47501
+48375,"Potter, TX",1,Personal income (thousands of dollars),6424819
+48375,"Potter, TX",2,Population (persons) 1,116461
+48375,"Potter, TX",3,Per capita personal income (dollars) 2,55167
+48377,"Presidio, TX",1,Personal income (thousands of dollars),370202
+48377,"Presidio, TX",2,Population (persons) 1,6113
+48377,"Presidio, TX",3,Per capita personal income (dollars) 2,60560
+48379,"Rains, TX",1,Personal income (thousands of dollars),519809
+48379,"Rains, TX",2,Population (persons) 1,12463
+48379,"Rains, TX",3,Per capita personal income (dollars) 2,41708
+48381,"Randall, TX",1,Personal income (thousands of dollars),8096047
+48381,"Randall, TX",2,Population (persons) 1,144055
+48381,"Randall, TX",3,Per capita personal income (dollars) 2,56201
+48383,"Reagan, TX",1,Personal income (thousands of dollars),193504
+48383,"Reagan, TX",2,Population (persons) 1,3222
+48383,"Reagan, TX",3,Per capita personal income (dollars) 2,60057
+48385,"Real, TX",1,Personal income (thousands of dollars),158876
+48385,"Real, TX",2,Population (persons) 1,2817
+48385,"Real, TX",3,Per capita personal income (dollars) 2,56399
+48387,"Red River, TX",1,Personal income (thousands of dollars),608278
+48387,"Red River, TX",2,Population (persons) 1,11561
+48387,"Red River, TX",3,Per capita personal income (dollars) 2,52615
+48389,"Reeves, TX",1,Personal income (thousands of dollars),750721
+48389,"Reeves, TX",2,Population (persons) 1,12981
+48389,"Reeves, TX",3,Per capita personal income (dollars) 2,57832
+48391,"Refugio, TX",1,Personal income (thousands of dollars),362529
+48391,"Refugio, TX",2,Population (persons) 1,6704
+48391,"Refugio, TX",3,Per capita personal income (dollars) 2,54077
+48393,"Roberts, TX",1,Personal income (thousands of dollars),44522
+48393,"Roberts, TX",2,Population (persons) 1,801
+48393,"Roberts, TX",3,Per capita personal income (dollars) 2,55583
+48395,"Robertson, TX",1,Personal income (thousands of dollars),878523
+48395,"Robertson, TX",2,Population (persons) 1,16946
+48395,"Robertson, TX",3,Per capita personal income (dollars) 2,51842
+48397,"Rockwall, TX",1,Personal income (thousands of dollars),8424359
+48397,"Rockwall, TX",2,Population (persons) 1,116612
+48397,"Rockwall, TX",3,Per capita personal income (dollars) 2,72243
+48399,"Runnels, TX",1,Personal income (thousands of dollars),499119
+48399,"Runnels, TX",2,Population (persons) 1,9892
+48399,"Runnels, TX",3,Per capita personal income (dollars) 2,50457
+48401,"Rusk, TX",1,Personal income (thousands of dollars),2333440
+48401,"Rusk, TX",2,Population (persons) 1,52695
+48401,"Rusk, TX",3,Per capita personal income (dollars) 2,44282
+48403,"Sabine, TX",1,Personal income (thousands of dollars),463101
+48403,"Sabine, TX",2,Population (persons) 1,10013
+48403,"Sabine, TX",3,Per capita personal income (dollars) 2,46250
+48405,"San Augustine, TX",1,Personal income (thousands of dollars),404904
+48405,"San Augustine, TX",2,Population (persons) 1,7905
+48405,"San Augustine, TX",3,Per capita personal income (dollars) 2,51221
+48407,"San Jacinto, TX",1,Personal income (thousands of dollars),1265147
+48407,"San Jacinto, TX",2,Population (persons) 1,27811
+48407,"San Jacinto, TX",3,Per capita personal income (dollars) 2,45491
+48409,"San Patricio, TX",1,Personal income (thousands of dollars),3534851
+48409,"San Patricio, TX",2,Population (persons) 1,69767
+48409,"San Patricio, TX",3,Per capita personal income (dollars) 2,50667
+48411,"San Saba, TX",1,Personal income (thousands of dollars),251593
+48411,"San Saba, TX",2,Population (persons) 1,5829
+48411,"San Saba, TX",3,Per capita personal income (dollars) 2,43162
+48413,"Schleicher, TX",1,Personal income (thousands of dollars),128956
+48413,"Schleicher, TX",2,Population (persons) 1,2438
+48413,"Schleicher, TX",3,Per capita personal income (dollars) 2,52894
+48415,"Scurry, TX",1,Personal income (thousands of dollars),781479
+48415,"Scurry, TX",2,Population (persons) 1,16837
+48415,"Scurry, TX",3,Per capita personal income (dollars) 2,46414
+48417,"Shackelford, TX",1,Personal income (thousands of dollars),316745
+48417,"Shackelford, TX",2,Population (persons) 1,3191
+48417,"Shackelford, TX",3,Per capita personal income (dollars) 2,99262
+48419,"Shelby, TX",1,Personal income (thousands of dollars),1342044
+48419,"Shelby, TX",2,Population (persons) 1,23984
+48419,"Shelby, TX",3,Per capita personal income (dollars) 2,55956
+48421,"Sherman, TX",1,Personal income (thousands of dollars),352809
+48421,"Sherman, TX",2,Population (persons) 1,2789
+48421,"Sherman, TX",3,Per capita personal income (dollars) 2,126500
+48423,"Smith, TX",1,Personal income (thousands of dollars),14790169
+48423,"Smith, TX",2,Population (persons) 1,237182
+48423,"Smith, TX",3,Per capita personal income (dollars) 2,62358
+48425,"Somervell, TX",1,Personal income (thousands of dollars),532405
+48425,"Somervell, TX",2,Population (persons) 1,9477
+48425,"Somervell, TX",3,Per capita personal income (dollars) 2,56179
+48427,"Starr, TX",1,Personal income (thousands of dollars),2225248
+48427,"Starr, TX",2,Population (persons) 1,65858
+48427,"Starr, TX",3,Per capita personal income (dollars) 2,33789
+48429,"Stephens, TX",1,Personal income (thousands of dollars),432157
+48429,"Stephens, TX",2,Population (persons) 1,9433
+48429,"Stephens, TX",3,Per capita personal income (dollars) 2,45813
+48431,"Sterling, TX",1,Personal income (thousands of dollars),87657
+48431,"Sterling, TX",2,Population (persons) 1,1380
+48431,"Sterling, TX",3,Per capita personal income (dollars) 2,63520
+48433,"Stonewall, TX",1,Personal income (thousands of dollars),106576
+48433,"Stonewall, TX",2,Population (persons) 1,1211
+48433,"Stonewall, TX",3,Per capita personal income (dollars) 2,88007
+48435,"Sutton, TX",1,Personal income (thousands of dollars),226668
+48435,"Sutton, TX",2,Population (persons) 1,3291
+48435,"Sutton, TX",3,Per capita personal income (dollars) 2,68875
+48437,"Swisher, TX",1,Personal income (thousands of dollars),504247
+48437,"Swisher, TX",2,Population (persons) 1,7007
+48437,"Swisher, TX",3,Per capita personal income (dollars) 2,71963
+48439,"Tarrant, TX",1,Personal income (thousands of dollars),128878607
+48439,"Tarrant, TX",2,Population (persons) 1,2129695
+48439,"Tarrant, TX",3,Per capita personal income (dollars) 2,60515
+48441,"Taylor, TX",1,Personal income (thousands of dollars),7763096
+48441,"Taylor, TX",2,Population (persons) 1,143922
+48441,"Taylor, TX",3,Per capita personal income (dollars) 2,53940
+48443,"Terrell, TX",1,Personal income (thousands of dollars),45393
+48443,"Terrell, TX",2,Population (persons) 1,721
+48443,"Terrell, TX",3,Per capita personal income (dollars) 2,62958
+48445,"Terry, TX",1,Personal income (thousands of dollars),527546
+48445,"Terry, TX",2,Population (persons) 1,11714
+48445,"Terry, TX",3,Per capita personal income (dollars) 2,45036
+48447,"Throckmorton, TX",1,Personal income (thousands of dollars),101606
+48447,"Throckmorton, TX",2,Population (persons) 1,1503
+48447,"Throckmorton, TX",3,Per capita personal income (dollars) 2,67602
+48449,"Titus, TX",1,Personal income (thousands of dollars),1515825
+48449,"Titus, TX",2,Population (persons) 1,31260
+48449,"Titus, TX",3,Per capita personal income (dollars) 2,48491
+48451,"Tom Green, TX",1,Personal income (thousands of dollars),7110397
+48451,"Tom Green, TX",2,Population (persons) 1,119231
+48451,"Tom Green, TX",3,Per capita personal income (dollars) 2,59635
+48453,"Travis, TX",1,Personal income (thousands of dollars),105788160
+48453,"Travis, TX",2,Population (persons) 1,1308868
+48453,"Travis, TX",3,Per capita personal income (dollars) 2,80824
+48455,"Trinity, TX",1,Personal income (thousands of dollars),641512
+48455,"Trinity, TX",2,Population (persons) 1,13832
+48455,"Trinity, TX",3,Per capita personal income (dollars) 2,46379
+48457,"Tyler, TX",1,Personal income (thousands of dollars),856044
+48457,"Tyler, TX",2,Population (persons) 1,19898
+48457,"Tyler, TX",3,Per capita personal income (dollars) 2,43022
+48459,"Upshur, TX",1,Personal income (thousands of dollars),1846479
+48459,"Upshur, TX",2,Population (persons) 1,41835
+48459,"Upshur, TX",3,Per capita personal income (dollars) 2,44137
+48461,"Upton, TX",1,Personal income (thousands of dollars),204345
+48461,"Upton, TX",2,Population (persons) 1,3233
+48461,"Upton, TX",3,Per capita personal income (dollars) 2,63206
+48463,"Uvalde, TX",1,Personal income (thousands of dollars),1310260
+48463,"Uvalde, TX",2,Population (persons) 1,24803
+48463,"Uvalde, TX",3,Per capita personal income (dollars) 2,52827
+48465,"Val Verde, TX",1,Personal income (thousands of dollars),2245468
+48465,"Val Verde, TX",2,Population (persons) 1,47533
+48465,"Val Verde, TX",3,Per capita personal income (dollars) 2,47240
+48467,"Van Zandt, TX",1,Personal income (thousands of dollars),2766978
+48467,"Van Zandt, TX",2,Population (persons) 1,61253
+48467,"Van Zandt, TX",3,Per capita personal income (dollars) 2,45173
+48469,"Victoria, TX",1,Personal income (thousands of dollars),5213874
+48469,"Victoria, TX",2,Population (persons) 1,90896
+48469,"Victoria, TX",3,Per capita personal income (dollars) 2,57361
+48471,"Walker, TX",1,Personal income (thousands of dollars),2611401
+48471,"Walker, TX",2,Population (persons) 1,78348
+48471,"Walker, TX",3,Per capita personal income (dollars) 2,33331
+48473,"Waller, TX",1,Personal income (thousands of dollars),2990674
+48473,"Waller, TX",2,Population (persons) 1,59419
+48473,"Waller, TX",3,Per capita personal income (dollars) 2,50332
+48475,"Ward, TX",1,Personal income (thousands of dollars),611324
+48475,"Ward, TX",2,Population (persons) 1,11081
+48475,"Ward, TX",3,Per capita personal income (dollars) 2,55169
+48477,"Washington, TX",1,Personal income (thousands of dollars),2474373
+48477,"Washington, TX",2,Population (persons) 1,35947
+48477,"Washington, TX",3,Per capita personal income (dollars) 2,68834
+48479,"Webb, TX",1,Personal income (thousands of dollars),10971090
+48479,"Webb, TX",2,Population (persons) 1,267400
+48479,"Webb, TX",3,Per capita personal income (dollars) 2,41029
+48481,"Wharton, TX",1,Personal income (thousands of dollars),2214390
+48481,"Wharton, TX",2,Population (persons) 1,41652
+48481,"Wharton, TX",3,Per capita personal income (dollars) 2,53164
+48483,"Wheeler, TX",1,Personal income (thousands of dollars),236134
+48483,"Wheeler, TX",2,Population (persons) 1,4886
+48483,"Wheeler, TX",3,Per capita personal income (dollars) 2,48329
+48485,"Wichita, TX",1,Personal income (thousands of dollars),6483924
+48485,"Wichita, TX",2,Population (persons) 1,130073
+48485,"Wichita, TX",3,Per capita personal income (dollars) 2,49848
+48487,"Wilbarger, TX",1,Personal income (thousands of dollars),826904
+48487,"Wilbarger, TX",2,Population (persons) 1,12703
+48487,"Wilbarger, TX",3,Per capita personal income (dollars) 2,65095
+48489,"Willacy, TX",1,Personal income (thousands of dollars),762467
+48489,"Willacy, TX",2,Population (persons) 1,20292
+48489,"Willacy, TX",3,Per capita personal income (dollars) 2,37575
+48491,"Williamson, TX",1,Personal income (thousands of dollars),40672872
+48491,"Williamson, TX",2,Population (persons) 1,644595
+48491,"Williamson, TX",3,Per capita personal income (dollars) 2,63098
+48493,"Wilson, TX",1,Personal income (thousands of dollars),2830151
+48493,"Wilson, TX",2,Population (persons) 1,51307
+48493,"Wilson, TX",3,Per capita personal income (dollars) 2,55161
+48495,"Winkler, TX",1,Personal income (thousands of dollars),467045
+48495,"Winkler, TX",2,Population (persons) 1,7382
+48495,"Winkler, TX",3,Per capita personal income (dollars) 2,63268
+48497,"Wise, TX",1,Personal income (thousands of dollars),3889626
+48497,"Wise, TX",2,Population (persons) 1,71871
+48497,"Wise, TX",3,Per capita personal income (dollars) 2,54120
+48499,"Wood, TX",1,Personal income (thousands of dollars),2180278
+48499,"Wood, TX",2,Population (persons) 1,46076
+48499,"Wood, TX",3,Per capita personal income (dollars) 2,47319
+48501,"Yoakum, TX",1,Personal income (thousands of dollars),379913
+48501,"Yoakum, TX",2,Population (persons) 1,7563
+48501,"Yoakum, TX",3,Per capita personal income (dollars) 2,50233
+48503,"Young, TX",1,Personal income (thousands of dollars),1059618
+48503,"Young, TX",2,Population (persons) 1,17943
+48503,"Young, TX",3,Per capita personal income (dollars) 2,59055
+48505,"Zapata, TX",1,Personal income (thousands of dollars),463073
+48505,"Zapata, TX",2,Population (persons) 1,13875
+48505,"Zapata, TX",3,Per capita personal income (dollars) 2,33375
+48507,"Zavala, TX",1,Personal income (thousands of dollars),409679
+48507,"Zavala, TX",2,Population (persons) 1,9473
+48507,"Zavala, TX",3,Per capita personal income (dollars) 2,43247
+22001,"Acadia, LA",1,Personal income (thousands of dollars),2655269
+22001,"Acadia, LA",2,Population (persons) 1,57217
+22001,"Acadia, LA",3,Per capita personal income (dollars) 2,46407
+22003,"Allen, LA",1,Personal income (thousands of dollars),967283
+22003,"Allen, LA",2,Population (persons) 1,22588
+22003,"Allen, LA",3,Per capita personal income (dollars) 2,42823
+22005,"Ascension, LA",1,Personal income (thousands of dollars),7662585
+22005,"Ascension, LA",2,Population (persons) 1,128571
+22005,"Ascension, LA",3,Per capita personal income (dollars) 2,59598
+22007,"Assumption, LA",1,Personal income (thousands of dollars),1195692
+22007,"Assumption, LA",2,Population (persons) 1,20696
+22007,"Assumption, LA",3,Per capita personal income (dollars) 2,57774
+22009,"Avoyelles, LA",1,Personal income (thousands of dollars),1775550
+22009,"Avoyelles, LA",2,Population (persons) 1,39261
+22009,"Avoyelles, LA",3,Per capita personal income (dollars) 2,45224
+22011,"Beauregard, LA",1,Personal income (thousands of dollars),1848702
+22011,"Beauregard, LA",2,Population (persons) 1,36668
+22011,"Beauregard, LA",3,Per capita personal income (dollars) 2,50417
+22013,"Bienville, LA",1,Personal income (thousands of dollars),583577
+22013,"Bienville, LA",2,Population (persons) 1,12779
+22013,"Bienville, LA",3,Per capita personal income (dollars) 2,45667
+22015,"Bossier, LA",1,Personal income (thousands of dollars),6754948
+22015,"Bossier, LA",2,Population (persons) 1,129323
+22015,"Bossier, LA",3,Per capita personal income (dollars) 2,52233
+22017,"Caddo, LA",1,Personal income (thousands of dollars),13489970
+22017,"Caddo, LA",2,Population (persons) 1,232658
+22017,"Caddo, LA",3,Per capita personal income (dollars) 2,57982
+22019,"Calcasieu, LA",1,Personal income (thousands of dollars),10543285
+22019,"Calcasieu, LA",2,Population (persons) 1,204914
+22019,"Calcasieu, LA",3,Per capita personal income (dollars) 2,51452
+22021,"Caldwell, LA",1,Personal income (thousands of dollars),398412
+22021,"Caldwell, LA",2,Population (persons) 1,9576
+22021,"Caldwell, LA",3,Per capita personal income (dollars) 2,41605
+22023,"Cameron, LA",1,Personal income (thousands of dollars),326926
+22023,"Cameron, LA",2,Population (persons) 1,5094
+22023,"Cameron, LA",3,Per capita personal income (dollars) 2,64179
+22025,"Catahoula, LA",1,Personal income (thousands of dollars),387893
+22025,"Catahoula, LA",2,Population (persons) 1,8721
+22025,"Catahoula, LA",3,Per capita personal income (dollars) 2,44478
+22027,"Claiborne, LA",1,Personal income (thousands of dollars),603624
+22027,"Claiborne, LA",2,Population (persons) 1,14043
+22027,"Claiborne, LA",3,Per capita personal income (dollars) 2,42984
+22029,"Concordia, LA",1,Personal income (thousands of dollars),781664
+22029,"Concordia, LA",2,Population (persons) 1,18348
+22029,"Concordia, LA",3,Per capita personal income (dollars) 2,42602
+22031,"De Soto, LA",1,Personal income (thousands of dollars),1383143
+22031,"De Soto, LA",2,Population (persons) 1,26949
+22031,"De Soto, LA",3,Per capita personal income (dollars) 2,51324
+22033,"East Baton Rouge, LA",1,Personal income (thousands of dollars),27290517
+22033,"East Baton Rouge, LA",2,Population (persons) 1,453596
+22033,"East Baton Rouge, LA",3,Per capita personal income (dollars) 2,60165
+22035,"East Carroll, LA",1,Personal income (thousands of dollars),284045
+22035,"East Carroll, LA",2,Population (persons) 1,7229
+22035,"East Carroll, LA",3,Per capita personal income (dollars) 2,39292
+22037,"East Feliciana, LA",1,Personal income (thousands of dollars),918221
+22037,"East Feliciana, LA",2,Population (persons) 1,19373
+22037,"East Feliciana, LA",3,Per capita personal income (dollars) 2,47397
+22039,"Evangeline, LA",1,Personal income (thousands of dollars),1315011
+22039,"Evangeline, LA",2,Population (persons) 1,32213
+22039,"Evangeline, LA",3,Per capita personal income (dollars) 2,40822
+22041,"Franklin, LA",1,Personal income (thousands of dollars),796773
+22041,"Franklin, LA",2,Population (persons) 1,19609
+22041,"Franklin, LA",3,Per capita personal income (dollars) 2,40633
+22043,"Grant, LA",1,Personal income (thousands of dollars),833675
+22043,"Grant, LA",2,Population (persons) 1,22256
+22043,"Grant, LA",3,Per capita personal income (dollars) 2,37458
+22045,"Iberia, LA",1,Personal income (thousands of dollars),3253594
+22045,"Iberia, LA",2,Population (persons) 1,69325
+22045,"Iberia, LA",3,Per capita personal income (dollars) 2,46932
+22047,"Iberville, LA",1,Personal income (thousands of dollars),1595357
+22047,"Iberville, LA",2,Population (persons) 1,29747
+22047,"Iberville, LA",3,Per capita personal income (dollars) 2,53631
+22049,"Jackson, LA",1,Personal income (thousands of dollars),630930
+22049,"Jackson, LA",2,Population (persons) 1,14900
+22049,"Jackson, LA",3,Per capita personal income (dollars) 2,42344
+22051,"Jefferson, LA",1,Personal income (thousands of dollars),26410948
+22051,"Jefferson, LA",2,Population (persons) 1,434134
+22051,"Jefferson, LA",3,Per capita personal income (dollars) 2,60836
+22053,"Jefferson Davis, LA",1,Personal income (thousands of dollars),1520781
+22053,"Jefferson Davis, LA",2,Population (persons) 1,32373
+22053,"Jefferson Davis, LA",3,Per capita personal income (dollars) 2,46977
+22055,"Lafayette, LA",1,Personal income (thousands of dollars),14742830
+22055,"Lafayette, LA",2,Population (persons) 1,244880
+22055,"Lafayette, LA",3,Per capita personal income (dollars) 2,60204
+22057,"Lafourche, LA",1,Personal income (thousands of dollars),5089279
+22057,"Lafourche, LA",2,Population (persons) 1,97599
+22057,"Lafourche, LA",3,Per capita personal income (dollars) 2,52145
+22059,"LaSalle, LA",1,Personal income (thousands of dollars),565148
+22059,"LaSalle, LA",2,Population (persons) 1,14842
+22059,"LaSalle, LA",3,Per capita personal income (dollars) 2,38078
+22061,"Lincoln, LA",1,Personal income (thousands of dollars),2242930
+22061,"Lincoln, LA",2,Population (persons) 1,48110
+22061,"Lincoln, LA",3,Per capita personal income (dollars) 2,46621
+22063,"Livingston, LA",1,Personal income (thousands of dollars),7112628
+22063,"Livingston, LA",2,Population (persons) 1,146121
+22063,"Livingston, LA",3,Per capita personal income (dollars) 2,48676
+22065,"Madison, LA",1,Personal income (thousands of dollars),430369
+22065,"Madison, LA",2,Population (persons) 1,9801
+22065,"Madison, LA",3,Per capita personal income (dollars) 2,43911
+22067,"Morehouse, LA",1,Personal income (thousands of dollars),1097783
+22067,"Morehouse, LA",2,Population (persons) 1,25021
+22067,"Morehouse, LA",3,Per capita personal income (dollars) 2,43874
+22069,"Natchitoches, LA",1,Personal income (thousands of dollars),1804952
+22069,"Natchitoches, LA",2,Population (persons) 1,36973
+22069,"Natchitoches, LA",3,Per capita personal income (dollars) 2,48818
+22071,"Orleans, LA",1,Personal income (thousands of dollars),23493665
+22071,"Orleans, LA",2,Population (persons) 1,377346
+22071,"Orleans, LA",3,Per capita personal income (dollars) 2,62260
+22073,"Ouachita, LA",1,Personal income (thousands of dollars),7450170
+22073,"Ouachita, LA",2,Population (persons) 1,158866
+22073,"Ouachita, LA",3,Per capita personal income (dollars) 2,46896
+22075,"Plaquemines, LA",1,Personal income (thousands of dollars),1314279
+22075,"Plaquemines, LA",2,Population (persons) 1,23310
+22075,"Plaquemines, LA",3,Per capita personal income (dollars) 2,56383
+22077,"Pointe Coupee, LA",1,Personal income (thousands of dollars),1205550
+22077,"Pointe Coupee, LA",2,Population (persons) 1,20346
+22077,"Pointe Coupee, LA",3,Per capita personal income (dollars) 2,59252
+22079,"Rapides, LA",1,Personal income (thousands of dollars),6897462
+22079,"Rapides, LA",2,Population (persons) 1,128626
+22079,"Rapides, LA",3,Per capita personal income (dollars) 2,53624
+22081,"Red River, LA",1,Personal income (thousands of dollars),396161
+22081,"Red River, LA",2,Population (persons) 1,7505
+22081,"Red River, LA",3,Per capita personal income (dollars) 2,52786
+22083,"Richland, LA",1,Personal income (thousands of dollars),891048
+22083,"Richland, LA",2,Population (persons) 1,19856
+22083,"Richland, LA",3,Per capita personal income (dollars) 2,44876
+22085,"Sabine, LA",1,Personal income (thousands of dollars),993190
+22085,"Sabine, LA",2,Population (persons) 1,22096
+22085,"Sabine, LA",3,Per capita personal income (dollars) 2,44949
+22087,"St. Bernard, LA",1,Personal income (thousands of dollars),1902048
+22087,"St. Bernard, LA",2,Population (persons) 1,44324
+22087,"St. Bernard, LA",3,Per capita personal income (dollars) 2,42912
+22089,"St. Charles, LA",1,Personal income (thousands of dollars),2987819
+22089,"St. Charles, LA",2,Population (persons) 1,52470
+22089,"St. Charles, LA",3,Per capita personal income (dollars) 2,56943
+22091,"St. Helena, LA",1,Personal income (thousands of dollars),520673
+22091,"St. Helena, LA",2,Population (persons) 1,10903
+22091,"St. Helena, LA",3,Per capita personal income (dollars) 2,47755
+22093,"St. James, LA",1,Personal income (thousands of dollars),1387619
+22093,"St. James, LA",2,Population (persons) 1,19794
+22093,"St. James, LA",3,Per capita personal income (dollars) 2,70103
+22095,"St. John the Baptist, LA",1,Personal income (thousands of dollars),1954550
+22095,"St. John the Baptist, LA",2,Population (persons) 1,42109
+22095,"St. John the Baptist, LA",3,Per capita personal income (dollars) 2,46416
+22097,"St. Landry, LA",1,Personal income (thousands of dollars),3952903
+22097,"St. Landry, LA",2,Population (persons) 1,82191
+22097,"St. Landry, LA",3,Per capita personal income (dollars) 2,48094
+22099,"St. Martin, LA",1,Personal income (thousands of dollars),2393917
+22099,"St. Martin, LA",2,Population (persons) 1,51562
+22099,"St. Martin, LA",3,Per capita personal income (dollars) 2,46428
+22101,"St. Mary, LA",1,Personal income (thousands of dollars),2353573
+22101,"St. Mary, LA",2,Population (persons) 1,48219
+22101,"St. Mary, LA",3,Per capita personal income (dollars) 2,48810
+22103,"St. Tammany, LA",1,Personal income (thousands of dollars),20019190
+22103,"St. Tammany, LA",2,Population (persons) 1,270147
+22103,"St. Tammany, LA",3,Per capita personal income (dollars) 2,74105
+22105,"Tangipahoa, LA",1,Personal income (thousands of dollars),6486000
+22105,"Tangipahoa, LA",2,Population (persons) 1,135488
+22105,"Tangipahoa, LA",3,Per capita personal income (dollars) 2,47871
+22107,"Tensas, LA",1,Personal income (thousands of dollars),209519
+22107,"Tensas, LA",2,Population (persons) 1,4024
+22107,"Tensas, LA",3,Per capita personal income (dollars) 2,52067
+22109,"Terrebonne, LA",1,Personal income (thousands of dollars),5247656
+22109,"Terrebonne, LA",2,Population (persons) 1,108955
+22109,"Terrebonne, LA",3,Per capita personal income (dollars) 2,48164
+22111,"Union, LA",1,Personal income (thousands of dollars),993586
+22111,"Union, LA",2,Population (persons) 1,21001
+22111,"Union, LA",3,Per capita personal income (dollars) 2,47311
+22113,"Vermilion, LA",1,Personal income (thousands of dollars),2692527
+22113,"Vermilion, LA",2,Population (persons) 1,56874
+22113,"Vermilion, LA",3,Per capita personal income (dollars) 2,47342
+22115,"Vernon, LA",1,Personal income (thousands of dollars),2304939
+22115,"Vernon, LA",2,Population (persons) 1,48022
+22115,"Vernon, LA",3,Per capita personal income (dollars) 2,47998
+22117,"Washington, LA",1,Personal income (thousands of dollars),1890448
+22117,"Washington, LA",2,Population (persons) 1,45198
+22117,"Washington, LA",3,Per capita personal income (dollars) 2,41826
+22119,"Webster, LA",1,Personal income (thousands of dollars),1787429
+22119,"Webster, LA",2,Population (persons) 1,35938
+22119,"Webster, LA",3,Per capita personal income (dollars) 2,49736
+22121,"West Baton Rouge, LA",1,Personal income (thousands of dollars),1536854
+22121,"West Baton Rouge, LA",2,Population (persons) 1,27798
+22121,"West Baton Rouge, LA",3,Per capita personal income (dollars) 2,55286
+22123,"West Carroll, LA",1,Personal income (thousands of dollars),416169
+22123,"West Carroll, LA",2,Population (persons) 1,9583
+22123,"West Carroll, LA",3,Per capita personal income (dollars) 2,43428
+22125,"West Feliciana, LA",1,Personal income (thousands of dollars),691298
+22125,"West Feliciana, LA",2,Population (persons) 1,15495
+22125,"West Feliciana, LA",3,Per capita personal income (dollars) 2,44614
+22127,"Winn, LA",1,Personal income (thousands of dollars),632350
+22127,"Winn, LA",2,Population (persons) 1,13493
+22127,"Winn, LA",3,Per capita personal income (dollars) 2,46865
+35001,"Bernalillo, NM",1,Personal income (thousands of dollars),36356499
+35001,"Bernalillo, NM",2,Population (persons) 1,675286
+35001,"Bernalillo, NM",3,Per capita personal income (dollars) 2,53839
+35003,"Catron, NM",1,Personal income (thousands of dollars),144729
+35003,"Catron, NM",2,Population (persons) 1,3710
+35003,"Catron, NM",3,Per capita personal income (dollars) 2,39011
+35005,"Chaves, NM",1,Personal income (thousands of dollars),2997292
+35005,"Chaves, NM",2,Population (persons) 1,64650
+35005,"Chaves, NM",3,Per capita personal income (dollars) 2,46362
+35006,"Cibola, NM*",1,Personal income (thousands of dollars),927218
+35006,"Cibola, NM*",2,Population (persons) 1,27185
+35006,"Cibola, NM*",3,Per capita personal income (dollars) 2,34108
+35007,"Colfax, NM",1,Personal income (thousands of dollars),600636
+35007,"Colfax, NM",2,Population (persons) 1,12346
+35007,"Colfax, NM",3,Per capita personal income (dollars) 2,48650
+35009,"Curry, NM",1,Personal income (thousands of dollars),2457764
+35009,"Curry, NM",2,Population (persons) 1,47936
+35009,"Curry, NM",3,Per capita personal income (dollars) 2,51272
+35011,"De Baca, NM",1,Personal income (thousands of dollars),94180
+35011,"De Baca, NM",2,Population (persons) 1,1679
+35011,"De Baca, NM",3,Per capita personal income (dollars) 2,56093
+35013,"Doña Ana, NM",1,Personal income (thousands of dollars),10132178
+35013,"Doña Ana, NM",2,Population (persons) 1,221732
+35013,"Doña Ana, NM",3,Per capita personal income (dollars) 2,45696
+35015,"Eddy, NM",1,Personal income (thousands of dollars),4025987
+35015,"Eddy, NM",2,Population (persons) 1,60855
+35015,"Eddy, NM",3,Per capita personal income (dollars) 2,66157
+35017,"Grant, NM",1,Personal income (thousands of dollars),1348154
+35017,"Grant, NM",2,Population (persons) 1,27893
+35017,"Grant, NM",3,Per capita personal income (dollars) 2,48333
+35019,"Guadalupe, NM",1,Personal income (thousands of dollars),198282
+35019,"Guadalupe, NM",2,Population (persons) 1,4423
+35019,"Guadalupe, NM",3,Per capita personal income (dollars) 2,44830
+35021,"Harding, NM",1,Personal income (thousands of dollars),28770
+35021,"Harding, NM",2,Population (persons) 1,631
+35021,"Harding, NM",3,Per capita personal income (dollars) 2,45594
+35023,"Hidalgo, NM",1,Personal income (thousands of dollars),207591
+35023,"Hidalgo, NM",2,Population (persons) 1,4086
+35023,"Hidalgo, NM",3,Per capita personal income (dollars) 2,50805
+35025,"Lea, NM",1,Personal income (thousands of dollars),3476582
+35025,"Lea, NM",2,Population (persons) 1,73062
+35025,"Lea, NM",3,Per capita personal income (dollars) 2,47584
+35027,"Lincoln, NM",1,Personal income (thousands of dollars),995352
+35027,"Lincoln, NM",2,Population (persons) 1,20400
+35027,"Lincoln, NM",3,Per capita personal income (dollars) 2,48792
+35028,"Los Alamos, NM",1,Personal income (thousands of dollars),1576199
+35028,"Los Alamos, NM",2,Population (persons) 1,19390
+35028,"Los Alamos, NM",3,Per capita personal income (dollars) 2,81289
+35029,"Luna, NM",1,Personal income (thousands of dollars),993639
+35029,"Luna, NM",2,Population (persons) 1,25471
+35029,"Luna, NM",3,Per capita personal income (dollars) 2,39011
+35031,"McKinley, NM",1,Personal income (thousands of dollars),2518424
+35031,"McKinley, NM",2,Population (persons) 1,71464
+35031,"McKinley, NM",3,Per capita personal income (dollars) 2,35240
+35033,"Mora, NM",1,Personal income (thousands of dollars),214892
+35033,"Mora, NM",2,Population (persons) 1,4189
+35033,"Mora, NM",3,Per capita personal income (dollars) 2,51299
+35035,"Otero, NM",1,Personal income (thousands of dollars),2866491
+35035,"Otero, NM",2,Population (persons) 1,68486
+35035,"Otero, NM",3,Per capita personal income (dollars) 2,41855
+35037,"Quay, NM",1,Personal income (thousands of dollars),382974
+35037,"Quay, NM",2,Population (persons) 1,8620
+35037,"Quay, NM",3,Per capita personal income (dollars) 2,44429
+35039,"Rio Arriba, NM",1,Personal income (thousands of dollars),1716369
+35039,"Rio Arriba, NM",2,Population (persons) 1,40216
+35039,"Rio Arriba, NM",3,Per capita personal income (dollars) 2,42679
+35041,"Roosevelt, NM",1,Personal income (thousands of dollars),889874
+35041,"Roosevelt, NM",2,Population (persons) 1,18992
+35041,"Roosevelt, NM",3,Per capita personal income (dollars) 2,46855
+35043,"Sandoval, NM",1,Personal income (thousands of dollars),7791358
+35043,"Sandoval, NM",2,Population (persons) 1,151478
+35043,"Sandoval, NM",3,Per capita personal income (dollars) 2,51436
+35045,"San Juan, NM",1,Personal income (thousands of dollars),5196422
+35045,"San Juan, NM",2,Population (persons) 1,120996
+35045,"San Juan, NM",3,Per capita personal income (dollars) 2,42947
+35047,"San Miguel, NM",1,Personal income (thousands of dollars),1203601
+35047,"San Miguel, NM",2,Population (persons) 1,27155
+35047,"San Miguel, NM",3,Per capita personal income (dollars) 2,44323
+35049,"Santa Fe, NM",1,Personal income (thousands of dollars),10952176
+35049,"Santa Fe, NM",2,Population (persons) 1,155400
+35049,"Santa Fe, NM",3,Per capita personal income (dollars) 2,70477
+35051,"Sierra, NM",1,Personal income (thousands of dollars),560146
+35051,"Sierra, NM",2,Population (persons) 1,11519
+35051,"Sierra, NM",3,Per capita personal income (dollars) 2,48628
+35053,"Socorro, NM",1,Personal income (thousands of dollars),693472
+35053,"Socorro, NM",2,Population (persons) 1,16291
+35053,"Socorro, NM",3,Per capita personal income (dollars) 2,42568
+35055,"Taos, NM",1,Personal income (thousands of dollars),1589255
+35055,"Taos, NM",2,Population (persons) 1,34685
+35055,"Taos, NM",3,Per capita personal income (dollars) 2,45820
+35057,"Torrance, NM",1,Personal income (thousands of dollars),651075
+35057,"Torrance, NM",2,Population (persons) 1,15313
+35057,"Torrance, NM",3,Per capita personal income (dollars) 2,42518
+35059,"Union, NM",1,Personal income (thousands of dollars),171583
+35059,"Union, NM",2,Population (persons) 1,4096
+35059,"Union, NM",3,Per capita personal income (dollars) 2,41890
+35061,"Valencia, NM*",1,Personal income (thousands of dollars),3351408
+35061,"Valencia, NM*",2,Population (persons) 1,77315
+35061,"Valencia, NM*",3,Per capita personal income (dollars) 2,43347
